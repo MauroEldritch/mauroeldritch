@@ -18,7 +18,8 @@
 | 9 | 2020 | DEF CON Las Vegas (RTV) | 🇺🇸 | Evil Genius: Why you shouldn't trust that keyboard |
 | 10 | 2020 | DEF CON Las Vegas (RTV) | 🇺🇸 | Sounds Legit: Why you shouldn't trust that speaker |
 | 11 | 2020 | DEF CON Las Vegas (HHV) | 🇺🇸 | onkeypress="hack();" |
-| 12 | 2020 | EC-Council Hacker Halted | 🇺🇸 | [ACME: American Coyotaje in the Modern Era](https://github.com/mauroeldritch/acme) |
+| 12 | 2020 | DEF CON Las Vegas (RV) | 🇺🇸 | [COVID-1984: Propaganda and Surveillance during a Pandemic](https://github.com/mauroeldritch/covid-1984) |
+| 13 | 2020 | EC-Council Hacker Halted | 🇺🇸 | [ACME: American Coyotaje in the Modern Era](https://github.com/mauroeldritch/acme) |
 
 ## CVEs
 |#| CVE | Short Name | Score | Product |
