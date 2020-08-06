@@ -7,6 +7,7 @@
 ## Talks
 |#| Date | Conference | 🏳 | Talk |
 |---|---|---|---|---|
+| 0 | 2018 | XTREMESEC Brazil | 🇧🇷 | [I Fought the Law](https://github.com/mauroeldritch/ifoughtthelaw) |
 | 1 | 2018 | ROADSEC Joao Pessoa | 🇧🇷 | [I Fought the Law](https://github.com/mauroeldritch/ifoughtthelaw) |
 | 2 | 2018 | DEF CON 26 Las Vegas (RV) | 🇺🇸 | [I Fought the Law](https://github.com/mauroeldritch/ifoughtthelaw) |
 | 3 | 2018 | DEF CON 26 Las Vegas (DDV) | 🇺🇸 | [Hacking GlusterFS with GEVAUDAN](https://github.com/mauroeldritch/GEVAUDAN) |
