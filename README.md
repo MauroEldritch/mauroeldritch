@@ -16,9 +16,9 @@
 | 6 | 2019 | P0SCon Urmía | 🇮🇷 | [Meltdown: Nuclear Secrets, Lies & Cyberweapons](https://github.com/mauroeldritch/MELTDOWN) |
 | 7 | 2020 | DC7831 Nizhny Nóvgorod | 🇷🇺 | [I Fought the Law](https://github.com/mauroeldritch/ifoughtthelaw) |
 | 8 | 2020 | Texas Cyber Summit | 🇺🇸 | [COVID-1984: Propaganda and Surveillance during a Pandemic](https://github.com/mauroeldritch/covid-1984) |
-| 9 | 2020 | DEF CON Las Vegas (RTV) | 🇺🇸 | [Evil Genius: Why you shouldn't trust that keyboard](https://github.com/mauroeldritch/evilgenius) |
-| 10 | 2020 | DEF CON Las Vegas (RTV) | 🇺🇸 | Sounds Legit: Why you shouldn't trust that speaker |
-| 11 | 2020 | DEF CON Las Vegas (HHV) | 🇺🇸 | [onkeypress="hack();"](https://github.com/mauroeldritch/onkeypress-hack) |
+| 9 | 2020 | DEF CON Las Vegas (RTV) | 🇺🇸 | [Evil Genius: Why you shouldn't trust that keyboard](https://github.com/dc5411/evilgenius) |
+| 10 | 2020 | DEF CON Las Vegas (RTV) | 🇺🇸 | [Sounds Legit: Why you shouldn't trust that speaker](https://github.com/dc5411/soundslegit) |
+| 11 | 2020 | DEF CON Las Vegas (HHV) | 🇺🇸 | [onkeypress="hack();"](https://github.com/dc5411/onkeypress-hack) |
 | 12 | 2020 | DEF CON Las Vegas (RV) | 🇺🇸 | [COVID-1984: Propaganda and Surveillance during a Pandemic](https://github.com/mauroeldritch/covid-1984) |
 | 13 | 2020 | EC-Council Hacker Halted | 🇺🇸 | [ACME: American Coyotaje in the Modern Era](https://github.com/mauroeldritch/acme) |
 
