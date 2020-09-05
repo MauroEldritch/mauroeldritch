@@ -20,7 +20,7 @@
 | 10 | 2020 | DEF CON Las Vegas (RTV) | 🇺🇸 | [Sounds Legit: Why you shouldn't trust that speaker](https://github.com/dc5411/soundslegit) |
 | 11 | 2020 | DEF CON Las Vegas (HHV) | 🇺🇸 | [onkeypress="hack();"](https://github.com/dc5411/onkeypress-hack) |
 | 12 | 2020 | DEF CON Las Vegas (RV) | 🇺🇸 | [COVID-1984: Propaganda and Surveillance during a Pandemic](https://github.com/mauroeldritch/covid-1984) |
-| 13 | 2020 | BSides Newcastle | :uk: | Charge!: Why you shouldn't trust that power bank |
+| 13 | 2020 | BSides Newcastle | :uk: | [Charge!: Why you shouldn't trust that power bank](https://github.com/mauroeldritch/charge) |
 | 14 | 2020 | DragonJAR Manizales | 🇨🇴 | [I Fought the Law](https://github.com/mauroeldritch/ifoughtthelaw) |
 | 15 | 2020 | EC-Council Hacker Halted | 🇺🇸 | [ACME: American Coyotaje in the Modern Era](https://github.com/mauroeldritch/acme) |
 
