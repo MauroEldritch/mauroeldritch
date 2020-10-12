@@ -20,10 +20,10 @@
 | 10 | 2020 | **DEF CON 28 Las Vegas (RTV)** | 🇺🇸 | 🔉 [Sounds Legit: Why you shouldn't trust that speaker](https://github.com/dc5411/soundslegit) |
 | 11 | 2020 | **DEF CON 28 Las Vegas (HHV)** | 🇺🇸 | 🔧 [onkeypress="hack();"](https://github.com/dc5411/onkeypress-hack) |
 | 12 | 2020 | **DEF CON 28 Las Vegas (RV)** | 🇺🇸 | 🦠 [COVID-1984: Propaganda and Surveillance during a Pandemic](https://github.com/mauroeldritch/covid-1984) |
-| 13 | 2020 | BSides Newcastle | 🇬🇧 | ⚡ [Charge!: Why you shouldn't trust that power bank](https://github.com/mauroeldritch/charge) |
+| 13 | 2020 | BSides Newcastle | 🇬🇧 | ⚡ [Charge!: Why you shouldn't trust that power bank](https://github.com/dc5411/charge) |
 | 14 | 2020 | DragonJAR Manizales | 🇨🇴 | 🚔 [I Fought the Law and the Law lost](https://github.com/mauroeldritch/ifoughtthelaw) |
 | 15 | 2020 | **EC-Council Hacker Halted** | 🇺🇸 | 🛂 [ACME: American Coyotaje in the Modern Era](https://github.com/mauroeldritch/acme) |
-| 16 | 2020 | GrayHat | 🇺🇸 | ⚡ [Charge!: Why you shouldn't trust that power bank](https://github.com/mauroeldritch/charge) |
+| 16 | 2020 | GrayHat | 🇺🇸 | ⚡ [Charge!: Why you shouldn't trust that power bank](https://github.com/dc5411/charge) |
 | 17 | 2020 | GrayHat | 🇺🇸 | 🧠 [Malicious Learning: Generating fake news and propaganda with ML](https://github.com/mauroeldritch/pigbrother) |
 | 18 | 2020 | YASCon | 🇮🇳 | 🔐 [BumpKey: A hardware Swiss Knife for RedTeaming (Workshop)](https://github.com/dc5411/bumpkey) |
 | 19 | 2020 | BSides Islamabad | 🇵🇰 | 🔐 [BumpKey: A hardware Swiss Knife for RedTeaming (Talk)](https://github.com/dc5411/bumpkey)|
