@@ -7,22 +7,26 @@
 ## Talks
 |#| Date | Conference | 🏳 | Talk |
 |---|---|---|---|---|
-| 0 | 2018 | XTREMESEC Brazil | 🇧🇷 | 👮 [I Fought the Law and the Law lost](https://github.com/mauroeldritch/ifoughtthelaw) |
-| 1 | 2018 | ROADSEC Joao Pessoa | 🇧🇷 | 👮 [I Fought the Law and the Law lost](https://github.com/mauroeldritch/ifoughtthelaw) |
-| 2 | 2018 | DEF CON 26 Las Vegas (RV) | 🇺🇸 | 👮 [I Fought the Law and the Law lost](https://github.com/mauroeldritch/ifoughtthelaw) |
+| 0 | 2018 | XTREMESEC Brazil | 🇧🇷 | 🚔 [I Fought the Law and the Law lost](https://github.com/mauroeldritch/ifoughtthelaw) |
+| 1 | 2018 | ROADSEC Joao Pessoa | 🇧🇷 | 🚔 [I Fought the Law and the Law lost](https://github.com/mauroeldritch/ifoughtthelaw) |
+| 2 | 2018 | DEF CON 26 Las Vegas (RV) | 🇺🇸 | 🚔 [I Fought the Law and the Law lost](https://github.com/mauroeldritch/ifoughtthelaw) |
 | 3 | 2018 | DEF CON 26 Las Vegas (DDV) | 🇺🇸 | 💽 [Hacking GlusterFS with GEVAUDAN](https://github.com/mauroeldritch/GEVAUDAN) |
 | 4 | 2018 | DEVFEST Siberia | 🇷🇺 | 🐋 [Hacking Docker with PAZUZU](https://github.com/mauroeldritch/PAZUZU) |
 | 5 | 2019 | DragonJAR Manizales | 🇨🇴 | 🛂 [ACME: American Coyotaje in the Modern Era](https://github.com/mauroeldritch/acme) |
-| 6 | 2019 | P0SCon Urmía | 🇮🇷 | ☢️ [Meltdown: Nuclear Secrets, Lies & Cyberweapons](https://github.com/mauroeldritch/MELTDOWN) |
-| 7 | 2020 | DC7831 Nizhny Nóvgorod | 🇷🇺 | 👮 [I Fought the Law and the Law lost](https://github.com/mauroeldritch/ifoughtthelaw) |
+| 6 | 2019 | P0SCon Urmía | 🇮🇷 | ☢️  [Meltdown: Nuclear Secrets, Lies & Cyberweapons](https://github.com/mauroeldritch/MELTDOWN) |
+| 7 | 2020 | DC7831 Nizhny Nóvgorod | 🇷🇺 | 🚔 [I Fought the Law and the Law lost](https://github.com/mauroeldritch/ifoughtthelaw) |
 | 8 | 2020 | Texas Cyber Summit | 🇺🇸 | 🦠 [COVID-1984: Propaganda and Surveillance during a Pandemic](https://github.com/mauroeldritch/covid-1984) |
 | 9 | 2020 | DEF CON 28 Las Vegas (RTV) | 🇺🇸 | ⌨️ [Evil Genius: Why you shouldn't trust that keyboard](https://github.com/dc5411/evilgenius) |
 | 10 | 2020 | DEF CON 28 Las Vegas (RTV) | 🇺🇸 | 🔉 [Sounds Legit: Why you shouldn't trust that speaker](https://github.com/dc5411/soundslegit) |
 | 11 | 2020 | DEF CON 28 Las Vegas (HHV) | 🇺🇸 | 🔧 [onkeypress="hack();"](https://github.com/dc5411/onkeypress-hack) |
 | 12 | 2020 | DEF CON 28 Las Vegas (RV) | 🇺🇸 | 🦠 [COVID-1984: Propaganda and Surveillance during a Pandemic](https://github.com/mauroeldritch/covid-1984) |
 | 13 | 2020 | BSides Newcastle | 🇬🇧 | ⚡ [Charge!: Why you shouldn't trust that power bank](https://github.com/mauroeldritch/charge) |
-| 14 | 2020 | DragonJAR Manizales | 🇨🇴 | 👮 [I Fought the Law and the Law lost](https://github.com/mauroeldritch/ifoughtthelaw) |
+| 14 | 2020 | DragonJAR Manizales | 🇨🇴 | 🚔 [I Fought the Law and the Law lost](https://github.com/mauroeldritch/ifoughtthelaw) |
 | 15 | 2020 | EC-Council Hacker Halted | 🇺🇸 | 🛂 [ACME: American Coyotaje in the Modern Era](https://github.com/mauroeldritch/acme) |
+| 16 | 2020 | GrayHat | 🇺🇸 | ⚡ [Charge!: Why you shouldn't trust that power bank](https://github.com/mauroeldritch/charge) |
+| 17 | 2020 | GrayHat | 🇺🇸 | 🧠 [Malicious Learning: Generating fake news and propaganda with Machine Learning](https://github.com/mauroeldritch/pigbrother) |
+| 18 | 2020 | YASCon | 🇮🇳 | 🔐 [BumpKey: A hardware Swiss Knife for RedTeaming](https://github.com/dc5411/bumpkey) |
+| 19 | 2020 | BSides Islamabad | 🇵🇰 | 🔐 [BumpKey: A hardware Swiss Knife for RedTeaming](https://github.com/dc5411/bumpkey)|
 
 ## CVEs
 |#| CVE | Short Name | Score | Product |
