@@ -24,7 +24,7 @@
 | 14 | 2020 | DragonJAR Manizales | 🇨🇴 | 🚔 [I Fought the Law and the Law lost](https://github.com/mauroeldritch/ifoughtthelaw) |
 | 15 | 2020 | EC-Council Hacker Halted | 🇺🇸 | 🛂 [ACME: American Coyotaje in the Modern Era](https://github.com/mauroeldritch/acme) |
 | 16 | 2020 | GrayHat | 🇺🇸 | ⚡ [Charge!: Why you shouldn't trust that power bank](https://github.com/mauroeldritch/charge) |
-| 17 | 2020 | GrayHat | 🇺🇸 | 🧠 [Malicious Learning: Generating fake news and propaganda with Machine Learning](https://github.com/mauroeldritch/pigbrother) |
+| 17 | 2020 | GrayHat | 🇺🇸 | 🧠 [Malicious Learning: Generating fake news and propaganda with ML](https://github.com/mauroeldritch/pigbrother) |
 | 18 | 2020 | YASCon | 🇮🇳 | 🔐 [BumpKey: A hardware Swiss Knife for RedTeaming](https://github.com/dc5411/bumpkey) |
 | 19 | 2020 | BSides Islamabad | 🇵🇰 | 🔐 [BumpKey: A hardware Swiss Knife for RedTeaming](https://github.com/dc5411/bumpkey)|
 
