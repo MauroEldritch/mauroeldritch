@@ -35,6 +35,6 @@
 |---|---|---|---|---|
 | 1 | CVE-2018-19466 | [LEMPO](https://github.com/mauroeldritch/lempo) | 9.8 | Portainer |
 | 2 | CVE-2019-11881 | [VanCleef](https://github.com/mauroeldritch/vancleef) | 4.7 | Rancher |
-| 3 | CVE-2020-8820 | *XSS* | ??? | Webmin |
-| 4 | CVE-2020-8821 | *HTML Injection* | ??? | Webmin |
-| 5 | CVE-2020-12670 | *XSS* | ??? | Webmin |
+| 3 | CVE-2020-8820 | *XSS* | 5.4 | Webmin |
+| 4 | CVE-2020-8821 | *HTML Injection* | 5.4 | Webmin |
+| 5 | CVE-2020-12670 | *XSS* | 6.1 | Webmin |
