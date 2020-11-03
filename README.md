@@ -26,9 +26,10 @@
 | 16 | 2020 | GrayHat | 🇺🇸 | ⚡ [Charge!: Why you shouldn't trust that power bank](https://github.com/dc5411/charge) |
 | 17 | 2020 | GrayHat | 🇺🇸 | 🧠 [Malicious Learning: Generating fake news and propaganda with ML](https://github.com/mauroeldritch/pigbrother) |
 | 18 | 2020 | YASCon | 🇮🇳 | 🔐 [BumpKey: A hardware Swiss Knife for RedTeaming (Workshop)](https://github.com/dc5411/bumpkey) |
-| 19 | 2020 | BSides Islamabad | 🇵🇰 | 🔐 [BumpKey: A hardware Swiss Knife for RedTeaming (Talk)](https://github.com/dc5411/bumpkey)|
-| 20 | 2020 | HoneyCon | 🇪🇸 | 🚔 [I Fought the Law and the Law lost](https://github.com/mauroeldritch/ifoughtthelaw) |
-| 21 | 2020 | HoneyCon | 🇪🇸 | 🦠 [COVID-1984: Propaganda and Surveillance during a Pandemic](https://github.com/mauroeldritch/covid-1984) |
+| 19 | 2020 | YASCon | 🇮🇳 | ⁉️ [RedBaron: A framework to generate distractions and summon chaos](https://github.com/dc5411/redbaron) |
+| 20 | 2020 | BSides Islamabad | 🇵🇰 | 🔐 [BumpKey: A hardware Swiss Knife for RedTeaming (Talk)](https://github.com/dc5411/bumpkey)|
+| 21 | 2020 | HoneyCon | 🇪🇸 | 🚔 [I Fought the Law and the Law lost](https://github.com/mauroeldritch/ifoughtthelaw) |
+| 22 | 2020 | HoneyCon | 🇪🇸 | 🦠 [COVID-1984: Propaganda and Surveillance during a Pandemic](https://github.com/mauroeldritch/covid-1984) |
 
 ## CVEs
 |#| CVE | Short Name | Score | Product |
