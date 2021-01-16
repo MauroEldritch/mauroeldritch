@@ -30,6 +30,8 @@
 | 20 | 2020 | BSides Islamabad | 🇵🇰 | 🔐 [BumpKey: A hardware Swiss Knife for RedTeaming (Talk)](https://github.com/dc5411/bumpkey)|
 | 21 | 2020 | HoneyCon | 🇪🇸 | 🚔 [I Fought the Law and the Law lost](https://github.com/mauroeldritch/ifoughtthelaw) |
 | 22 | 2020 | HoneyCon | 🇪🇸 | 🦠 [COVID-1984: Propaganda and Surveillance during a Pandemic](https://github.com/mauroeldritch/covid-1984) |
+| 23 | 2021 | CONHESI | 🇵🇪 | 🦠 [COVID-1984: Propaganda and Surveillance during a Pandemic](https://github.com/mauroeldritch/covid-1984) |
+| 24 | 2021 | BSides Panamá | 🇵🇦 | 🎙️ TBA |
 
 ## CVEs
 |#| CVE | Short Name | Score | Product |
