@@ -32,8 +32,8 @@
 | 22 | 2020 | HoneyCon | 🇪🇸 | 🦠 [COVID-1984: Propaganda and Surveillance during a Pandemic](https://github.com/mauroeldritch/covid-1984) |
 | 23 | 2021 | CONHESI | 🇵🇪 | 🦠 [COVID-1984: Propaganda and Surveillance during a Pandemic](https://github.com/mauroeldritch/covid-1984) |
 | 24 | 2021 | BSides Panamá | 🇵🇦 | 🎙️ [Mime: Hackeando asistentes digitales sin decir una palabra](https://github.com/mauroeldritch/badmics) |
-| 25 | 2021 | P0SCon Urmía | 🇮🇷 |🛡️ TBA |
-| 26 | 2021 | P0SCon Urmía | 🇮🇷 |🗣️ TBA |
+| 25 | 2021 | P0SCon Urmía | 🇮🇷 |🛡️ A visit to the Armory: Building your own Combat Hardware |
+| 26 | 2021 | P0SCon Urmía | 🇮🇷 |🗣️ VKG: A PsyOps Framework |
 
 ## CVEs
 |#| CVE | Short Name | Score | Product |
