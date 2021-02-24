@@ -33,8 +33,8 @@
 | 23 | 2021 | CONHESI | 🇵🇪 | 🦠 [COVID-1984: Propaganda and Surveillance during a Pandemic](https://github.com/mauroeldritch/covid-1984) |
 | 24 | 2021 | BSides Panamá | 🇵🇦 | 🎙️ [Mime: Hackeando asistentes digitales sin decir una palabra](https://github.com/mauroeldritch/badmics) |
 | 25 | 2021 | Kerala Police Cyberdome | 🇮🇳 |🇦🇷 [TangoLeaks](https://github.com/mauroeldritch/tangoleaks) |
-| 26 | 2021 | P0SCon Urmía | 🇮🇷 |🛡️ A visit to the Armory: Building your own Combat Hardware |
-| 27 | 2021 | P0SCon Urmía | 🇮🇷 |🗣️ VKG: A PsyOps Framework |
+| 26 | 2021 | P0SCon Urmía | 🇮🇷 |🛡️ [A visit to the Armory: Building your own Combat Hardware](https://github.com/dc5411/armory) |
+| 27 | 2021 | P0SCon Urmía | 🇮🇷 |🗣️ [VKG: A PsyOps Framework](https://github.com/mauroeldritch/pigbrother) |
 | 28 | 2021 | Machine Learning Utah | 🇺🇸 | 🧠 [Malicious Learning: Generating fake news and propaganda with ML](https://github.com/mauroeldritch/pigbrother) |
 
 ## CVEs
