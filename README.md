@@ -47,6 +47,6 @@
 | 5 | CVE-2020-12670 | *XSS* | 6.1 | Webmin |
 
 ## Podcasts
-|#| Title | Language | Link |
-|---|---|---|---|
-| 1 | Se Tildó | Spanish | https://open.spotify.com/episode/7rul6ok4jPSvRaedUulPLs |
+|#| Podcast | Title | Language | Link |
+|---|---|---|---|---|
+| 1 | Se Tildó | Confesiones de un Troll | Spanish | https://open.spotify.com/episode/7rul6ok4jPSvRaedUulPLs |
