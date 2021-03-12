@@ -45,3 +45,8 @@
 | 3 | CVE-2020-8820 | *Stored XSS* | 5.4 | Webmin |
 | 4 | CVE-2020-8821 | *HTML Injection* | 5.4 | Webmin |
 | 5 | CVE-2020-12670 | *XSS* | 6.1 | Webmin |
+
+## Podcasts
+|#| Title | Language | Link |
+|---|---|---|---|
+| 1 | Se Tildó | Spanish | https://open.spotify.com/episode/7rul6ok4jPSvRaedUulPLs |
