@@ -50,3 +50,8 @@
 |#| Podcast | Title | Language | Link |
 |---|---|---|---|---|
 | 1 | Se Tildó | Confesiones de un Troll | Spanish | https://open.spotify.com/episode/7rul6ok4jPSvRaedUulPLs |
+
+## Media
+|#| Agency | Title | Language | Link |
+|---|---|---|---|---|
+| 1 | TN | Cómo funciona el aparato de propaganda en las redes sociales | Spanish | https://tn.com.ar/podcasts/2021/03/11/confesiones-de-un-troll-como-funciona-el-aparato-de-propaganda-en-las-redes-sociales/ |
