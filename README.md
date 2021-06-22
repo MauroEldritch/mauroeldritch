@@ -59,3 +59,5 @@
 | 3 | Más que Palabras | El señor de los Trolls | Spanish | https://www.mixcloud.com/InfoAMBA/mas-que-palabras-19-de-febrero-eldritch/ |
 | 4 | La Opinión Semanario | Ciberataque: hackearon la web municipal y filtraron datos de más de 12500 usuarios con sus claves | Spanish | https://www.laopinionsemanario.com.ar/noticia/ciberataque-hackearon-la-web-municipal-y-filtraron-datos-de-mas-de-12-500-usuarios-con-sus-claves/ |
 | 5 | Sin Galera | Ciberataque a la Municipalidad de San Pedro | Spanish | https://youtu.be/RDY8CKNCvVY?t=849 |
+| 6 | La Opinión Semanario | "El Gobierno no sabía que se habían filtrado los datos" | Spanish | https://www.laopinionsemanario.com.ar/noticia/ciberataque-el-gobierno-no-sabia-que-se-habian-filtrado-los-datos-y-deshabilito-el-acceso-de-los-12-500-usuarios/ |
+| 7 | La Opinión Semanario | Ciberataque a la Municipalidad: "Es un hecho gravísimo" | Spanish | https://www.laopinionsemanario.com.ar/noticia/ciberataque-a-la-municipalidad-es-un-hecho-gravisimo-aseguro-el-especialista-que-detecto-la-filtracion-de-datos/ |
