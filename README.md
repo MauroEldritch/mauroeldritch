@@ -56,5 +56,6 @@
 |---|---|---|---|---|
 | 1 | TN | Cómo funciona el aparato de propaganda en las redes sociales | Spanish | https://tn.com.ar/podcasts/2021/03/11/confesiones-de-un-troll-como-funciona-el-aparato-de-propaganda-en-las-redes-sociales/ |
 | 2 | InfoAMBA | El señor de los Trolls | Spanish | https://www.infoamba.com.ar/el-senor-de-los-trolls-ariel-garbarz-seria-quien-maneja-los-trolls-k/ |
-| 3 | La Opinión Semanario | Ciberataque: hackearon la web municipal y filtraron datos de más de 12500 usuarios con sus claves | Spanish | https://www.laopinionsemanario.com.ar/noticia/ciberataque-hackearon-la-web-municipal-y-filtraron-datos-de-mas-de-12-500-usuarios-con-sus-claves/ |
-| 4 | Sin Galera | Ciberataque a la Municipalidad de San Pedro | Spanish | https://youtu.be/RDY8CKNCvVY?t=849 |
+| 3 | Más que Palabras | El señor de los Trolls | Spanish | https://www.mixcloud.com/InfoAMBA/mas-que-palabras-19-de-febrero-eldritch/ |
+| 4 | La Opinión Semanario | Ciberataque: hackearon la web municipal y filtraron datos de más de 12500 usuarios con sus claves | Spanish | https://www.laopinionsemanario.com.ar/noticia/ciberataque-hackearon-la-web-municipal-y-filtraron-datos-de-mas-de-12-500-usuarios-con-sus-claves/ |
+| 5 | Sin Galera | Ciberataque a la Municipalidad de San Pedro | Spanish | https://youtu.be/RDY8CKNCvVY?t=849 |
