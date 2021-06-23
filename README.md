@@ -61,3 +61,4 @@
 | 5 | Sin Galera | Ciberataque a la Municipalidad de San Pedro | Spanish | https://youtu.be/RDY8CKNCvVY?t=849 |
 | 6 | La Opinión Semanario | "El Gobierno no sabía que se habían filtrado los datos" | Spanish | https://www.laopinionsemanario.com.ar/noticia/ciberataque-el-gobierno-no-sabia-que-se-habian-filtrado-los-datos-y-deshabilito-el-acceso-de-los-12-500-usuarios/ |
 | 7 | La Opinión Semanario | Ciberataque a la Municipalidad: "Es un hecho gravísimo" | Spanish | https://www.laopinionsemanario.com.ar/noticia/ciberataque-a-la-municipalidad-es-un-hecho-gravisimo-aseguro-el-especialista-que-detecto-la-filtracion-de-datos/ |
+| 8 | La Opinión Semanario | Ciberataque a la Municipalidad: Los datos robados son sensibles | Spanish | https://www.laopinionsemanario.com.ar/noticia/ciberataque-a-la-municipalidad-los-datos-robados-son-sensibles-y-contienen-informacion-confidencial-de-mas-de-12-500-usuarios/ |
