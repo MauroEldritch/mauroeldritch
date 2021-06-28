@@ -62,3 +62,11 @@
 | 6 | La Opinión Semanario | "El Gobierno no sabía que se habían filtrado los datos" | Spanish | https://www.laopinionsemanario.com.ar/noticia/ciberataque-el-gobierno-no-sabia-que-se-habian-filtrado-los-datos-y-deshabilito-el-acceso-de-los-12-500-usuarios/ |
 | 7 | La Opinión Semanario | Ciberataque a la Municipalidad: "Es un hecho gravísimo" | Spanish | https://www.laopinionsemanario.com.ar/noticia/ciberataque-a-la-municipalidad-es-un-hecho-gravisimo-aseguro-el-especialista-que-detecto-la-filtracion-de-datos/ |
 | 8 | La Opinión Semanario | Ciberataque a la Municipalidad: Los datos robados son sensibles | Spanish | https://www.laopinionsemanario.com.ar/noticia/ciberataque-a-la-municipalidad-los-datos-robados-son-sensibles-y-contienen-informacion-confidencial-de-mas-de-12-500-usuarios/ |
+| 9 | La Auténtica Defensa | Polémica en San Pedro por hackeo y filtración de datos | Spanish | https://www.laautenticadefensa.net/183627 |
+| 10 | ClickPB | O maior evento hacker da América Latina | Portuguese | https://www.clickpb.com.br/tecnologia/capital-paraibana-recebe-edicao-especial-do-maior-evento-hacker-da-america-latina-neste-sabado-235830.html |
+| 11 | TecMundo | O maior evento hacker da América Latina Inicia | Portuguese | https://www.tecmundo.com.br/seguranca/127182-roadsec-maior-evento-hacker-america-latina-inicia-tour-brasil.htm |
+| 12 | WSCOM | Joao Pessoa Recebe o Maior Evento Hacker | Portuguese | https://wscom.com.br/joao-pessoa-recebe-edicao-do-maior-evento/ |
+| 13 | Infobae | Qué es el efecto 2038 | Spanish | https://www.infobae.com/america/tecno/2020/01/23/que-es-el-efecto-del-ano-2038-y-a-que-dispositivos-afectaria/ |
+
+
+
