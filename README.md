@@ -66,7 +66,7 @@
 | 10 | ClickPB | O maior evento hacker da América Latina | Portuguese | https://www.clickpb.com.br/tecnologia/capital-paraibana-recebe-edicao-especial-do-maior-evento-hacker-da-america-latina-neste-sabado-235830.html |
 | 11 | TecMundo | O maior evento hacker da América Latina Inicia | Portuguese | https://www.tecmundo.com.br/seguranca/127182-roadsec-maior-evento-hacker-america-latina-inicia-tour-brasil.htm |
 | 12 | WSCOM | Joao Pessoa Recebe o Maior Evento Hacker | Portuguese | https://wscom.com.br/joao-pessoa-recebe-edicao-do-maior-evento/ |
-| 13 | Infobae | Qué es el efecto 2038 | Spanish | https://www.infobae.com/america/tecno/2020/01/23/que-es-el-efecto-del-ano-2038-y-a-que-dispositivos-afectaria/ |
-
+| 13 | Infobae | Qué es el efecto 2038 | Spanish | https://www.infobae.com/america/tecno/2020/01/23/que-es-el-efecto-del-ano-2038-y-a-que-dispositivos-afectaria/|
+| 14 | La Opinión Semanario | Ciberataque a la Municipalidad: El Gobierno pidió tranquilidad | Spanish | https://www.laopinionsemanario.com.ar/noticia/ciberataque-el-centro-de-comercio-expreso-su-preocupacion-y-el-gobierno-pidio-tranquilidad/ |
 
 
