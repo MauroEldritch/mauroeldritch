@@ -68,5 +68,4 @@
 | 12 | WSCOM | Joao Pessoa Recebe o Maior Evento Hacker | Portuguese | https://wscom.com.br/joao-pessoa-recebe-edicao-do-maior-evento/ |
 | 13 | Infobae | Qué es el efecto 2038 | Spanish | https://www.infobae.com/america/tecno/2020/01/23/que-es-el-efecto-del-ano-2038-y-a-que-dispositivos-afectaria/|
 | 14 | La Opinión Semanario | Ciberataque a la Municipalidad: El Gobierno pidió tranquilidad | Spanish | https://www.laopinionsemanario.com.ar/noticia/ciberataque-el-centro-de-comercio-expreso-su-preocupacion-y-el-gobierno-pidio-tranquilidad/ |
-
-
+| 15 | La Opinión Semanario | Ciberataque a la Municipalidad: postergan obligaciones | Spanish | https://www.laopinionsemanario.com.ar/noticia/tras-el-ciberataque-prorrogaron-vencimiento-de-seguridad-e-higiene-y-contactan-a-empresas-por-sus-declaraciones-juradas/ |
