@@ -70,4 +70,4 @@
 | 14 | La Opinión Semanario | Ciberataque a la Municipalidad: El Gobierno pidió tranquilidad | Spanish | https://www.laopinionsemanario.com.ar/noticia/ciberataque-el-centro-de-comercio-expreso-su-preocupacion-y-el-gobierno-pidio-tranquilidad/ |
 | 15 | La Opinión Semanario | Ciberataque a la Municipalidad: postergan obligaciones | Spanish | https://www.laopinionsemanario.com.ar/noticia/tras-el-ciberataque-prorrogaron-vencimiento-de-seguridad-e-higiene-y-contactan-a-empresas-por-sus-declaraciones-juradas/ |
 | 16 | La Opinión Semanario | Ciberataque a la Municipalidad: inauguran el sistema Tero | Spanish | https://www.laopinionsemanario.com.ar/noticia/ciberataque-habilitaron-un-sitio-web-para-que-los-usuarios-puedan-comprobar-si-fueron-afectados/ |
-| 17 | El Faro | San Pedro: Con un ciberataque roban datos confidenciales | https://colonbuenosaires.com.ar/elfaro/con-un-ciberataque-roban-datos-confidenciales-a-un-municipio-bonaerense/ |
+| 17 | El Faro | San Pedro: Con un ciberataque roban datos confidenciales | Spanish | https://colonbuenosaires.com.ar/elfaro/con-un-ciberataque-roban-datos-confidenciales-a-un-municipio-bonaerense/ |
