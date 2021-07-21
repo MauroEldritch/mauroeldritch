@@ -37,7 +37,7 @@
 | 27 | 2021 | P0SCon Urmía | 🇮🇷 |🗣️ [VKG: A PsyOps Framework](https://github.com/mauroeldritch/pigbrother) |
 | 28 | 2021 | Machine Learning Utah | 🇺🇸 | 🧠 [Malicious Learning: Generating fake news and propaganda with ML](https://github.com/mauroeldritch/pigbrother) |
 | 29 | 2021 | **DEF CON 29 Las Vegas (AV)** | 🇺🇸 | 🤖 [Everything is a C2 if you're brave enough](https://github.com/mauroeldritch/capybara) |
-| 30 | 2021 | **DEF CON 29 Las Vegas (RV)** | 🇺🇸 | 🧠 [Venator: Hunting & smashing trolls on Twitter](https://github.com/mauroeldritch/venator) |
+| 30 | 2021 | **DEF CON 29 Las Vegas (RV)** | 🇺🇸 | 🏹 [Venator: Hunting & smashing trolls on Twitter](https://github.com/mauroeldritch/venator) |
 | 31 | 2021 | ROOTCON 15 | 🇵🇭 | 🛡️ [A visit to the Armory: Building your own Combat Hardware](https://github.com/dc5411/armory) |
 | 32 | 2021 | **Ruby Kaigi** | 🇯🇵 | 💎 [Crafting exploits, tools and havoc with Ruby](https://github.com/mauroeldritch/rubycraft) |
 
