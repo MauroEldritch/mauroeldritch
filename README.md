@@ -38,8 +38,11 @@
 | 28 | 2021 | Machine Learning Utah | 🇺🇸 | 🧠 [Malicious Learning: Generating fake news and propaganda with ML](https://github.com/mauroeldritch/pigbrother) |
 | 29 | 2021 | **DEF CON 29 Las Vegas (AV)** | 🇺🇸 | 🤖 [Everything is a C2 if you're brave enough](https://github.com/mauroeldritch/capybara) |
 | 30 | 2021 | **DEF CON 29 Las Vegas (RV)** | 🇺🇸 | 🏹 [Venator: Hunting & smashing trolls on Twitter](https://github.com/mauroeldritch/venator) |
-| 31 | 2021 | ROOTCON 15 | 🇵🇭 | 🛡️ [A visit to the Armory: Building your own Combat Hardware](https://github.com/dc5411/armory) |
+| 31 | 2021 | DragonJAR Manizales | 🇨🇴 | 🏹 [Venator: Hunting & smashing trolls on Twitter](https://github.com/mauroeldritch/venator) |
 | 32 | 2021 | **Ruby Kaigi** | 🇯🇵 | 💎 [Crafting exploits, tools and havoc with Ruby](https://github.com/mauroeldritch/rubycraft) |
+| 33 | 2021 | **EC-Council Hacker Halted** | 🏹 [Venator: Hunting & smashing trolls on Twitter](https://github.com/mauroeldritch/venator) |
+| 34 | 2021 | ROOTCON 15 | 🇵🇭 | 🛡️ [A visit to the Armory: Building your own Combat Hardware](https://github.com/dc5411/armory) |
+
 
 ## CVEs
 |#| CVE | Short Name | Score | Product |
