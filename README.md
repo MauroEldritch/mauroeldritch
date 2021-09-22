@@ -40,8 +40,9 @@
 | 30 | 2021 | **DEF CON 29 Las Vegas (RV)** | 🇺🇸 | 🏹 [Venator: Hunting & smashing trolls on Twitter](https://github.com/mauroeldritch/venator) |
 | 31 | 2021 | DragonJAR Manizales | 🇨🇴 | 🏹 [Venator: Hunting & smashing trolls on Twitter](https://github.com/mauroeldritch/venator) |
 | 32 | 2021 | **Ruby Kaigi** | 🇯🇵 | 💎 [Crafting exploits, tools and havoc with Ruby](https://github.com/mauroeldritch/rubycraft) |
-| 33 | 2021 | **EC-Council Hacker Halted** | 🇺🇸 | 🏹 [Venator: Hunting & smashing trolls on Twitter](https://github.com/mauroeldritch/venator) |
-| 34 | 2021 | ROOTCON 15 | 🇵🇭 | 🛡️ [A visit to the Armory: Building your own Combat Hardware](https://github.com/dc5411/armory) |
+| 33 | 2021 | BugCon | 🇲🇽 | 🏹 [Venator: Hunting & smashing trolls on Twitter](https://github.com/mauroeldritch/venator) |
+| 34 | 2021 | **EC-Council Hacker Halted** | 🇺🇸 | 🏹 [Venator: Hunting & smashing trolls on Twitter](https://github.com/mauroeldritch/venator) |
+| 35 | 2021 | ROOTCON 15 | 🇵🇭 | 🛡️ [A visit to the Armory: Building your own Combat Hardware](https://github.com/dc5411/armory) |
 
 
 ## CVEs
