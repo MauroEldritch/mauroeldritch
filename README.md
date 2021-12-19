@@ -43,7 +43,7 @@
 | 33 | 2021 | BugCon | 🇲🇽 | 🏹 [Venator: Hunting & smashing trolls on Twitter](https://github.com/mauroeldritch/venator) |
 | 34 | 2021 | **EC-Council Hacker Halted** | 🇺🇸 | 🏹 [Venator: Hunting & smashing trolls on Twitter](https://github.com/mauroeldritch/venator) |
 | 35 | 2021 | ROOTCON 15 | 🇵🇭 | 🛡️ [A visit to the Armory: Building your own Combat Hardware](https://github.com/dc5411/armory) |
-
+| 36 | 2021 | Hacking Bolivia | 🇧🇴 | 🏹 [Venator: Hunting & smashing trolls on Twitter](https://github.com/mauroeldritch/venator) |
 
 ## CVEs
 |#| CVE | Short Name | Score | Product |
