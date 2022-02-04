@@ -15,11 +15,11 @@
 | 5 | 2019 | DragonJAR Manizales | 🇨🇴 | 🛂 [ACME: American Coyotaje in the Modern Era](https://github.com/mauroeldritch/acme) |
 | 6 | 2019 | P0SCon Urmía | 🇮🇷 | ☢️  [Meltdown: Nuclear Secrets, Lies & Cyberweapons](https://github.com/mauroeldritch/MELTDOWN) |
 | 7 | 2020 | DC7831 Nizhny Nóvgorod | 🇷🇺 | 🚔 [I Fought the Law and the Law lost](https://github.com/mauroeldritch/ifoughtthelaw) |
-| 8 | 2020 | Texas Cyber Summit | 🇺🇸 | 🦠 [COVID-1984: Propaganda and Surveillance during a Pandemic](https://github.com/mauroeldritch/covid-1984) |
+| 8 | 2020 | Texas Cyber Summit | 🇺🇸 | 🦠 [Propaganda and Surveillance during a Pandemic](https://github.com/mauroeldritch/covid-1984) |
 | 9 | 2020 | **DEF CON 28 Las Vegas (RTV)** | 🇺🇸 | ⌨️ [Evil Genius: Why you shouldn't trust that keyboard](https://github.com/dc5411/evilgenius) |
 | 10 | 2020 | **DEF CON 28 Las Vegas (RTV)** | 🇺🇸 | 🔉 [Sounds Legit: Why you shouldn't trust that speaker](https://github.com/dc5411/soundslegit) |
 | 11 | 2020 | **DEF CON 28 Las Vegas (HHV)** | 🇺🇸 | 🔧 [onkeypress="hack();"](https://github.com/dc5411/onkeypress-hack) |
-| 12 | 2020 | **DEF CON 28 Las Vegas (RV)** | 🇺🇸 | 🦠 [COVID-1984: Propaganda and Surveillance during a Pandemic](https://github.com/mauroeldritch/covid-1984) |
+| 12 | 2020 | **DEF CON 28 Las Vegas (RV)** | 🇺🇸 | 🦠 [Propaganda and Surveillance during a Pandemic](https://github.com/mauroeldritch/covid-1984) |
 | 13 | 2020 | BSides Newcastle | 🇬🇧 | ⚡ [Charge!: Why you shouldn't trust that power bank](https://github.com/dc5411/charge) |
 | 14 | 2020 | DragonJAR Manizales | 🇨🇴 | 🚔 [I Fought the Law and the Law lost](https://github.com/mauroeldritch/ifoughtthelaw) |
 | 15 | 2020 | **EC-Council Hacker Halted** | 🇺🇸 | 🛂 [ACME: American Coyotaje in the Modern Era](https://github.com/mauroeldritch/acme) |
@@ -29,9 +29,9 @@
 | 19 | 2020 | YASCon | 🇮🇳 | ⁉️ [RedBaron: A framework to generate distractions and summon chaos](https://github.com/dc5411/redbaron) |
 | 20 | 2020 | BSides Islamabad | 🇵🇰 | 🔐 [BumpKey: A hardware Swiss Knife for RedTeaming (Talk)](https://github.com/dc5411/bumpkey)|
 | 21 | 2020 | HoneyCon | 🇪🇸 | 🚔 [I Fought the Law and the Law lost](https://github.com/mauroeldritch/ifoughtthelaw) |
-| 22 | 2020 | HoneyCon | 🇪🇸 | 🦠 [COVID-1984: Propaganda and Surveillance during a Pandemic](https://github.com/mauroeldritch/covid-1984) |
-| 23 | 2021 | CONHESI | 🇵🇪 | 🦠 [COVID-1984: Propaganda and Surveillance during a Pandemic](https://github.com/mauroeldritch/covid-1984) |
-| 24 | 2021 | BSides Panamá | 🇵🇦 | 🎙️ [Mime: Hackeando asistentes digitales sin decir una palabra](https://github.com/mauroeldritch/badmics) |
+| 22 | 2020 | HoneyCon | 🇪🇸 | 🦠 [Propaganda and Surveillance during a Pandemic](https://github.com/mauroeldritch/covid-1984) |
+| 23 | 2021 | CONHESI | 🇵🇪 | 🦠 [Propaganda and Surveillance during a Pandemic](https://github.com/mauroeldritch/covid-1984) |
+| 24 | 2021 | BSides Panamá | 🇵🇦 | 🎙️ [Mime: Hacking digital assistants without saying a word](https://github.com/mauroeldritch/badmics) |
 | 25 | 2021 | Kerala Police Cyberdome | 🇮🇳 |🇦🇷 [TangoLeaks](https://github.com/mauroeldritch/tangoleaks) |
 | 26 | 2021 | P0SCon Urmía | 🇮🇷 |🛡️ [A visit to the Armory: Building your own Combat Hardware](https://github.com/dc5411/armory) |
 | 27 | 2021 | P0SCon Urmía | 🇮🇷 |🗣️ [VKG: A PsyOps Framework](https://github.com/mauroeldritch/pigbrother) |
