@@ -1,7 +1,7 @@
 ## About Me 
 
 - 🏴‍☠️ Hacker and Speaker. 
-- 🦾 Cybersecurity Architect.
+- 🦾 DEF CON 5411 Leader.
 - 🐀 My villain pet is a Chinchilla (He is a villain too).
 
 ## Talks
