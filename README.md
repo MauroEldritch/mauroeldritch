@@ -80,3 +80,6 @@
 | 15 | La Opinión Semanario | Ciberataque a la Municipalidad: postergan obligaciones | Spanish | https://www.laopinionsemanario.com.ar/noticia/tras-el-ciberataque-prorrogaron-vencimiento-de-seguridad-e-higiene-y-contactan-a-empresas-por-sus-declaraciones-juradas/ |
 | 16 | La Opinión Semanario | Ciberataque a la Municipalidad: inauguran el sistema Tero | Spanish | https://www.laopinionsemanario.com.ar/noticia/ciberataque-habilitaron-un-sitio-web-para-que-los-usuarios-puedan-comprobar-si-fueron-afectados/ |
 | 17 | El Faro | San Pedro: Con un ciberataque roban datos confidenciales | Spanish | https://colonbuenosaires.com.ar/elfaro/con-un-ciberataque-roban-datos-confidenciales-a-un-municipio-bonaerense/ |
+| 18 | Informacion ES | Filtración de datos de compradores de ZOE Cash | Spanish | https://www.informacion.es/alicante/2022/02/16/zoe-oficina-espana-estafa-piramidal-62781529.html |
+| 19 | Criptokenizados | Filtración de datos de compradores de ZOE Cash | Spanish | https://criptokenizados.com/expertos/zoe-cash-historia-de-una-estafa-piramidal/ |
+| 20 | Departamento de Cibercrimen Policía de Chaco | Filtración de datos de compradores de ZOE Cash | Spanish | https://www.facebook.com/delitecno/posts/249975583981243 |
