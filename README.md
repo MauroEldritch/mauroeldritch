@@ -83,3 +83,4 @@
 | 18 | Informacion ES | Filtración de datos de compradores de ZOE Cash | Spanish | https://www.informacion.es/alicante/2022/02/16/zoe-oficina-espana-estafa-piramidal-62781529.html |
 | 19 | Criptokenizados | Filtración de datos de compradores de ZOE Cash | Spanish | https://criptokenizados.com/expertos/zoe-cash-historia-de-una-estafa-piramidal/ |
 | 20 | Departamento de Cibercrimen Policía de Chaco | Filtración de datos de compradores de ZOE Cash | Spanish | https://www.facebook.com/delitecno/posts/249975583981243 |
+| 21 | Diario Perfil Córdoba | Comentarios sobre la seguridad de ZOE Cash | Spanish | https://www.perfil.com/noticias/cordoba/las-7-mentiras-sobre-zoe-que-cositorto-no-puede-explicar.phtml |
