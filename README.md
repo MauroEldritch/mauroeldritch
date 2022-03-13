@@ -84,3 +84,4 @@
 | 19 | Criptokenizados | Filtración de datos de compradores de ZOE Cash | Spanish | https://criptokenizados.com/expertos/zoe-cash-historia-de-una-estafa-piramidal/ |
 | 20 | Departamento de Cibercrimen Policía de Chaco | Filtración de datos de compradores de ZOE Cash | Spanish | https://www.facebook.com/delitecno/posts/249975583981243 |
 | 21 | Diario Perfil Córdoba | Comentarios sobre la seguridad de ZOE Cash | Spanish | https://www.perfil.com/noticias/cordoba/las-7-mentiras-sobre-zoe-que-cositorto-no-puede-explicar.phtml |
+| 22 | Diario Clarín | Filtración de datos del Senado | Spanish | https://www.clarin.com/tecnologia/publicaron-datos-robaron-senado-enero-30-mil-archivos-informacion-interna_0_JLxR5q88lf.html |
