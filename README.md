@@ -86,3 +86,4 @@
 | 21 | Diario Perfil Córdoba | Comentarios sobre la seguridad de ZOE Cash | Spanish | https://www.perfil.com/noticias/cordoba/las-7-mentiras-sobre-zoe-que-cositorto-no-puede-explicar.phtml |
 | 22 | Diario Clarín | Filtración de datos del Senado | Spanish | https://www.clarin.com/tecnologia/publicaron-datos-robaron-senado-enero-30-mil-archivos-informacion-interna_0_JLxR5q88lf.html |
 | 23 | Diario Clarín | Sobre el grupo LAPSUS$ | Spanish | https://www.clarin.com/tecnologia/lapsus-opera-grupo-ciberdelincuentes-ataco-mercado-libre_0_iboiuYA6sg.html |
+| 24 | Diario Clarín | Ciberguerra Rusia-Ucrania | Spanish | https://www.clarin.com/tecnologia/ciberguerra-rusia-ucrania-lado-bandas-hackean-webs-estaciones-servicio_0_qQQNARhgc2.html |
