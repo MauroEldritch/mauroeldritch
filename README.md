@@ -87,3 +87,4 @@
 | 22 | Diario Clarín | Filtración de datos del Senado | Spanish | https://www.clarin.com/tecnologia/publicaron-datos-robaron-senado-enero-30-mil-archivos-informacion-interna_0_JLxR5q88lf.html |
 | 23 | Diario Clarín | Sobre el grupo LAPSUS$ | Spanish | https://www.clarin.com/tecnologia/lapsus-opera-grupo-ciberdelincuentes-ataco-mercado-libre_0_iboiuYA6sg.html |
 | 24 | Diario Clarín | Ciberguerra Rusia-Ucrania | Spanish | https://www.clarin.com/tecnologia/ciberguerra-rusia-ucrania-lado-bandas-hackean-webs-estaciones-servicio_0_qQQNARhgc2.html |
+| 25 | Diario Clarín | Lockbit ataca Ingenios Ledesma | Spanish | https://www.clarin.com/tecnologia/ingenios-ledesma-victima-ciberataque-encriptan-datos-piden-dinero-liberarlos_0_Ir5rFro6wP.html |
