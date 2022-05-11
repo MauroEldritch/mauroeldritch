@@ -89,4 +89,4 @@
 | 24 | Diario Clarín | Ciberguerra Rusia-Ucrania | Spanish | https://www.clarin.com/tecnologia/ciberguerra-rusia-ucrania-lado-bandas-hackean-webs-estaciones-servicio_0_qQQNARhgc2.html |
 | 25 | Diario Clarín | Lockbit ataca Ingenios Ledesma | Spanish | https://www.clarin.com/tecnologia/ingenios-ledesma-victima-ciberataque-encriptan-datos-piden-dinero-liberarlos_0_Ir5rFro6wP.html |
 | 26 | DH y Tecno | Vice Society ataca al Senado | Spanish | https://www.dhytecno.ar/publiaron-informacion-senado-encriptada/ |
-| 27 | Clarín | Conti vs Perú y Costa Rica | Spanish | https://www.clarin.com/tecnologia/ciberdelincuentes-hackean-costa-rica-peru-conti-amenaza-cortar-suministro-agua-electricidad_0_sGSZcmc4yS.html |
+| 27 | Diario Clarín | Conti vs Perú y Costa Rica | Spanish | https://www.clarin.com/tecnologia/ciberdelincuentes-hackean-costa-rica-peru-conti-amenaza-cortar-suministro-agua-electricidad_0_sGSZcmc4yS.html |
