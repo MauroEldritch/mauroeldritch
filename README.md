@@ -90,3 +90,4 @@
 | 25 | Diario Clarín | Lockbit ataca Ingenios Ledesma | Spanish | https://www.clarin.com/tecnologia/ingenios-ledesma-victima-ciberataque-encriptan-datos-piden-dinero-liberarlos_0_Ir5rFro6wP.html |
 | 26 | DH y Tecno | Vice Society ataca al Senado | Spanish | https://www.dhytecno.ar/publiaron-informacion-senado-encriptada/ |
 | 27 | Diario Clarín | Conti vs Perú y Costa Rica | Spanish | https://www.clarin.com/tecnologia/ciberdelincuentes-hackean-costa-rica-peru-conti-amenaza-cortar-suministro-agua-electricidad_0_sGSZcmc4yS.html |
+| 28 | Diario Clarín | Fallos en el Censo Digital | Spanish | https://www.clarin.com/tecnologia/censo-2022-4-fallas-criticas-version-digital-dejaron-datos-personales-riesgo_0_IDR1fM198v.html |
