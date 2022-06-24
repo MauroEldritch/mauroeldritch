@@ -92,3 +92,4 @@
 | 27 | Diario Clarín | Conti vs Perú y Costa Rica | Spanish | https://www.clarin.com/tecnologia/ciberdelincuentes-hackean-costa-rica-peru-conti-amenaza-cortar-suministro-agua-electricidad_0_sGSZcmc4yS.html |
 | 28 | Diario Clarín | Fallos en el Censo Digital | Spanish | https://www.clarin.com/tecnologia/censo-2022-4-fallas-criticas-version-digital-dejaron-datos-personales-riesgo_0_IDR1fM198v.html |
 | 29 | Diario Clarín | Hive ataca a Artear | Spanish | https://www.clarin.com/tecnologia/revelo-identidad-ciberdelincuentes-atacaron-artear-empezaron-subir-informacion-robada_0_v9QAuZ5eIy.html |
+| 30 | Bleeping Computer | The Week in Ransomware | English | https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-june-24th-2022-splinter-cells/?s=08 |
