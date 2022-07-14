@@ -59,6 +59,7 @@
 |#| Podcast | Title | Language | Link |
 |---|---|---|---|---|
 | 1 | Se Tildó | Confesiones de un Troll | Spanish | https://open.spotify.com/episode/7rul6ok4jPSvRaedUulPLs |
+| 2 | Nuestro Día | ¿Qué hay detrás del hackeo al Hospital Garrahan? | Spanish | https://open.spotify.com/episode/2QgEGNwHSoZ1P0TcInZcGn?si=8183e228722749ee |
 
 ## Media
 |#| Agency | Title | Language | Link |
