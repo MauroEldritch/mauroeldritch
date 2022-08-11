@@ -62,6 +62,11 @@
 | 2 | Nuestro Día | ¿Qué hay detrás del hackeo al Hospital Garrahan? | Spanish | https://open.spotify.com/episode/2QgEGNwHSoZ1P0TcInZcGn?si=8183e228722749ee |
 | 3 | Nuestro Día | Huella Digital del Navegador | Spanish | https://open.spotify.com/episode/79p5qNVaKHSUvxTeODCbsJ?si=6d5b13cc742f4fc4 |
 
+## Interviews
+|#| Interview | Language | Link |
+|---|---|---|---|
+| 1 | Vice Society | English & Spanish | https://github.com/mauroeldritch/vicesociety |
+
 ## Media
 |#| Agency | Title | Language | Link |
 |---|---|---|---|---|
@@ -97,3 +102,4 @@
 | 30 | Bleeping Computer | The Week in Ransomware | English | https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-june-24th-2022-splinter-cells/?s=08 |
 | 31 | Diario Clarín | Filtración del Hospital Garrahan | Spanish | https://www.clarin.com/tecnologia/hospital-garrahan-ciberdelincuentes-aseguran-tener-datos-sensibles-venden-online_0_wLxku76TkK.html |
 | 32 | Diario Clarín | Filtración de la Suprema Corte | Spanish | https://www.clarin.com/tecnologia/ciberdelincuentes-subieron-datos-sensibles-suprema-corte-bonaerense-venden-online_0_LmqIo6cy9T.html |
+| 33 | Diario Clarín | Filtración de OSDE | Spanish | https://www.clarin.com/tecnologia/hackeo-osde-subieron-archivos-robados-informacion-afiliados-politicos-famosos-historias-clinicas_0_Z2OM4JEnR4.html |
