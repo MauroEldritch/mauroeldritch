@@ -45,6 +45,7 @@
 | 35 | 2021 | ROOTCON 15 | 🇵🇭 | 🛡️ [A visit to the Armory: Building your own Combat Hardware](https://github.com/dc5411/armory) |
 | 36 | 2021 | Texas Cyber Summit | 🇺🇸 | 🤖 [Everything is a C2 if you're brave enough](https://github.com/mauroeldritch/capybara) |
 | 37 | 2021 | Hacking Bolivia | 🇧🇴 | 🏹 [Venator: Hunting & smashing trolls on Twitter](https://github.com/mauroeldritch/venator) |
+| 38 | 2022 | DEF CON 30 VR | 🇺🇸 | 🎲 [Exploits & Dragons](https://github.com/dc5411/EnD) |
 
 ## CVEs
 |#| CVE | Short Name | Score | Product |
