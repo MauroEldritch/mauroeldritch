@@ -105,3 +105,4 @@
 | 32 | Diario Clarín | Filtración de la Suprema Corte | Spanish | https://www.clarin.com/tecnologia/ciberdelincuentes-subieron-datos-sensibles-suprema-corte-bonaerense-venden-online_0_LmqIo6cy9T.html |
 | 33 | Diario Clarín | Filtración de OSDE | Spanish | https://www.clarin.com/tecnologia/hackeo-osde-subieron-archivos-robados-informacion-afiliados-politicos-famosos-historias-clinicas_0_Z2OM4JEnR4.html |
 | 34 | Data Breaches | OSDE Leak | English | https://www.databreaches.net/argentinian-health-services-plan-hit-by-lockbit/ |
+| 35 | Bleeping Computer | Poder Judicial de Cordoba vs PLAY | English | https://www.bleepingcomputer.com/news/security/argentinas-judiciary-of-c-rdoba-hit-by-play-ransomware-attack/ |
