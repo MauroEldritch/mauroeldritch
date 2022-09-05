@@ -108,3 +108,4 @@
 | 34 | Data Breaches | OSDE Leak | English | https://www.databreaches.net/argentinian-health-services-plan-hit-by-lockbit/ |
 | 35 | Bleeping Computer | Poder Judicial de Cordoba vs PLAY | English | https://www.bleepingcomputer.com/news/security/argentinas-judiciary-of-c-rdoba-hit-by-play-ransomware-attack/ |
 | 36 | Bleeping Computer | The Week in Ransomware | English | https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-august-19th-2022-evolving-extortion-tactics/ |
+| 37 | Diario Clarín | ¿Qué es UFED? | Español | https://www.clarin.com/politica/puede-resetear-telefono-manera-remota-ufed-sistema-israeli-desbloquear-dispositivos_0_lAPb1ILOP7.html |
