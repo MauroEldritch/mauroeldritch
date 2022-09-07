@@ -46,6 +46,7 @@
 | 36 | 2021 | Texas Cyber Summit | 🇺🇸 | 🤖 [Everything is a C2 if you're brave enough](https://github.com/mauroeldritch/capybara) |
 | 37 | 2021 | Hacking Bolivia | 🇧🇴 | 🏹 [Venator: Hunting & smashing trolls on Twitter](https://github.com/mauroeldritch/venator) |
 | 38 | 2022 | DEF CON 30 VR | 🇺🇸 | 🎲 [Exploits & Dragons](https://github.com/dc5411/EnD) |
+| 39 | 2022 | DragonJAR Manizales | 🇨🇴 | 🌉 [Nuevas amenazas en el mundo crypto](https://github.com/mauroeldritch/QuemandoLosPuentes) |
 
 ## CVEs
 |#| CVE | Short Name | Score | Product |
