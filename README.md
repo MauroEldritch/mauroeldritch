@@ -112,3 +112,4 @@
 | 37 | Diario Clarín | ¿Qué es UFED? | Español | https://www.clarin.com/politica/puede-resetear-telefono-manera-remota-ufed-sistema-israeli-desbloquear-dispositivos_0_lAPb1ILOP7.html |
 | 38 | Diario Clarín | Ciberataque al Senado | Español | https://www.clarin.com/tecnologia/legislatura-portena-recupera-ciberataque-dice-informacion-comprometida_0_P7s5jLAsRY.html |
 | 39 | Diario Clarín | IAB vs MEcon | Español | https://www.clarin.com/tecnologia/afirman-hackearon-ministerio-economia-gobierno-dicen-vulnerados_0_EjN6NFZDZV.html |
+| 40 | Cripto Noticias | IAB vs MEcon | Español | https://www.criptonoticias.com/seguridad-bitcoin/hacker-afirma-tener-informacion-confidencial-ministerio-argentina-vende/ |
