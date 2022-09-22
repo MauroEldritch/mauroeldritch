@@ -116,3 +116,4 @@
 | 41 | Infobae | Everest vs MEcon | Español | https://www.infobae.com/economia/2022/09/22/el-ministerio-de-economia-le-pidio-a-la-justicia-que-investigue-un-supuesto-hackeo-interno-a-sus-sistemas-informaticos/ |
 | 42 | C5N | Everest vs MEcon | Español | https://www.c5n.com/politica/hackeo-interno-el-ministerio-economia-denuncio-la-justicia-un-posible-robo-datos-confidenciales-n26892 |
 | 43 | El Destape | Everest vs MEcon | Español | https://www.eldestapeweb.com/politica/ministerio-de-economia/el-ministerio-de-economia-fue-a-la-justicia-por-un-posible-hackeo-de-informacion-20229212330 |
+| 44 | Clarín | Everest vs MEcon | Español | https://www.clarin.com/tecnologia/ministerio-economia-denuncio-posible-hackeo-justicia_0_C2MVVjhapQ.html |
