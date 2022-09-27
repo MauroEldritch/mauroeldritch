@@ -117,3 +117,4 @@
 | 42 | C5N | Everest vs MEcon | Español | https://www.c5n.com/politica/hackeo-interno-el-ministerio-economia-denuncio-la-justicia-un-posible-robo-datos-confidenciales-n26892 |
 | 43 | El Destape | Everest vs MEcon | Español | https://www.eldestapeweb.com/politica/ministerio-de-economia/el-ministerio-de-economia-fue-a-la-justicia-por-un-posible-hackeo-de-informacion-20229212330 |
 | 44 | Diario Clarín | Everest vs MEcon | Español | https://www.clarin.com/tecnologia/ministerio-economia-denuncio-posible-hackeo-justicia_0_C2MVVjhapQ.html |
+| 45 | Diario Nuevo Día | DataBreach Poder Judicial de Santa Cruz | Español | https://www.eldiarionuevodia.com.ar/locales/politica/2022/9/26/judiciales-de-santa-cruz-comunicaron-que-un-hacker-habria-accedido-puesto-la-venta-datos-del-poder-judicial-de-la-provincia-189160.html |
