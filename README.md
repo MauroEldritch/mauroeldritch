@@ -118,3 +118,4 @@
 | 43 | El Destape | Everest vs MEcon | Español | https://www.eldestapeweb.com/politica/ministerio-de-economia/el-ministerio-de-economia-fue-a-la-justicia-por-un-posible-hackeo-de-informacion-20229212330 |
 | 44 | Diario Clarín | Everest vs MEcon | Español | https://www.clarin.com/tecnologia/ministerio-economia-denuncio-posible-hackeo-justicia_0_C2MVVjhapQ.html |
 | 45 | Diario Nuevo Día | DataBreach Poder Judicial de Santa Cruz | Español | https://www.eldiarionuevodia.com.ar/locales/politica/2022/9/26/judiciales-de-santa-cruz-comunicaron-que-un-hacker-habria-accedido-puesto-la-venta-datos-del-poder-judicial-de-la-provincia-189160.html |
+| 46 | Diario Tiempo Sur | Filtración del Poder Judicial de Santa Cruz | Español | https://www.tiemposur.com.ar/info-general/hackeo-al-poder-judicial-hablo-el-experto-en-seguridad-que-informo-el-ingreso-ilegal |
