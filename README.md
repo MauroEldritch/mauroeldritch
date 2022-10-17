@@ -7,51 +7,51 @@
 ## Talks
 |#| Date | Conference | 🏳 | Talk |
 |---|---|---|---|---|
-| 0 | 2018 | XTREMESEC Brazil | 🇧🇷 | 🚔 [I Fought the Law and the Law lost](https://github.com/mauroeldritch/ifoughtthelaw) |
-| 1 | 2018 | ROADSEC Joao Pessoa | 🇧🇷 | 🚔 [I Fought the Law and the Law lost](https://github.com/mauroeldritch/ifoughtthelaw) |
-| 2 | 2018 | **DEF CON 26 Las Vegas (RV)** | 🇺🇸 | 🚔 [I Fought the Law and the Law lost](https://github.com/mauroeldritch/ifoughtthelaw) |
-| 3 | 2018 | **DEF CON 26 Las Vegas (DDV)** | 🇺🇸 | 💽 [Hacking GlusterFS with GEVAUDAN](https://github.com/mauroeldritch/GEVAUDAN) |
-| 4 | 2018 | DEVFEST Siberia | 🇷🇺 | 🐋 [Hacking Docker with PAZUZU](https://github.com/mauroeldritch/PAZUZU) |
-| 5 | 2019 | DragonJAR Manizales | 🇨🇴 | 🛂 [ACME: American Coyotaje in the Modern Era](https://github.com/mauroeldritch/acme) |
-| 6 | 2019 | P0SCon Urmía | 🇮🇷 | ☢️  [Meltdown: Nuclear Secrets, Lies & Cyberweapons](https://github.com/mauroeldritch/MELTDOWN) |
-| 7 | 2020 | DC7831 Nizhny Nóvgorod | 🇷🇺 | 🚔 [I Fought the Law and the Law lost](https://github.com/mauroeldritch/ifoughtthelaw) |
-| 8 | 2020 | Texas Cyber Summit | 🇺🇸 | 🦠 [Propaganda and Surveillance during a Pandemic](https://github.com/mauroeldritch/covid-1984) |
-| 9 | 2020 | **DEF CON 28 Las Vegas (RTV)** | 🇺🇸 | ⌨️ [Evil Genius: Why you shouldn't trust that keyboard](https://github.com/dc5411/evilgenius) |
-| 10 | 2020 | **DEF CON 28 Las Vegas (RTV)** | 🇺🇸 | 🔉 [Sounds Legit: Why you shouldn't trust that speaker](https://github.com/dc5411/soundslegit) |
-| 11 | 2020 | **DEF CON 28 Las Vegas (HHV)** | 🇺🇸 | 🔧 [onkeypress="hack();"](https://github.com/dc5411/onkeypress-hack) |
-| 12 | 2020 | **DEF CON 28 Las Vegas (RV)** | 🇺🇸 | 🦠 [Propaganda and Surveillance during a Pandemic](https://github.com/mauroeldritch/covid-1984) |
-| 13 | 2020 | BSides Newcastle | 🇬🇧 | ⚡ [Charge!: Why you shouldn't trust that power bank](https://github.com/dc5411/charge) |
-| 14 | 2020 | DragonJAR Manizales | 🇨🇴 | 🚔 [I Fought the Law and the Law lost](https://github.com/mauroeldritch/ifoughtthelaw) |
-| 15 | 2020 | **EC-Council Hacker Halted** | 🇺🇸 | 🛂 [ACME: American Coyotaje in the Modern Era](https://github.com/mauroeldritch/acme) |
-| 16 | 2020 | GrayHat | 🇺🇸 | ⚡ [Charge!: Why you shouldn't trust that power bank](https://github.com/dc5411/charge) |
-| 17 | 2020 | GrayHat | 🇺🇸 | 🧠 [Malicious Learning: Generating fake news and propaganda with ML](https://github.com/mauroeldritch/pigbrother) |
-| 18 | 2020 | YASCon | 🇮🇳 | 🔐 [BumpKey: A hardware Swiss Knife for RedTeaming (Workshop)](https://github.com/dc5411/bumpkey) |
-| 19 | 2020 | YASCon | 🇮🇳 | ⁉️ [RedBaron: A framework to generate distractions and summon chaos](https://github.com/dc5411/redbaron) |
-| 20 | 2020 | BSides Islamabad | 🇵🇰 | 🔐 [BumpKey: A hardware Swiss Knife for RedTeaming (Talk)](https://github.com/dc5411/bumpkey)|
-| 21 | 2020 | HoneyCon | 🇪🇸 | 🚔 [I Fought the Law and the Law lost](https://github.com/mauroeldritch/ifoughtthelaw) |
-| 22 | 2020 | HoneyCon | 🇪🇸 | 🦠 [Propaganda and Surveillance during a Pandemic](https://github.com/mauroeldritch/covid-1984) |
-| 23 | 2021 | CONHESI | 🇵🇪 | 🦠 [Propaganda and Surveillance during a Pandemic](https://github.com/mauroeldritch/covid-1984) |
-| 24 | 2021 | BSides Panamá | 🇵🇦 | 🎙️ [Mime: Hacking digital assistants without saying a word](https://github.com/mauroeldritch/badmics) |
-| 25 | 2021 | Kerala Police Cyberdome | 🇮🇳 |🇦🇷 [TangoLeaks](https://github.com/mauroeldritch/tangoleaks) |
-| 26 | 2021 | P0SCon Urmía | 🇮🇷 |🛡️ [A visit to the Armory: Building your own Combat Hardware](https://github.com/dc5411/armory) |
-| 27 | 2021 | P0SCon Urmía | 🇮🇷 |🗣️ [VKG: A PsyOps Framework](https://github.com/mauroeldritch/pigbrother) |
-| 28 | 2021 | Machine Learning Utah | 🇺🇸 | 🧠 [Malicious Learning: Generating fake news and propaganda with ML](https://github.com/mauroeldritch/pigbrother) |
-| 29 | 2021 | **DEF CON 29 Las Vegas (AV)** | 🇺🇸 | 🤖 [Everything is a C2 if you're brave enough](https://github.com/mauroeldritch/capybara) |
-| 30 | 2021 | **DEF CON 29 Las Vegas (RV)** | 🇺🇸 | 🏹 [Venator: Hunting & smashing trolls on Twitter](https://github.com/mauroeldritch/venator) |
-| 31 | 2021 | DragonJAR Manizales | 🇨🇴 | 🏹 [Venator: Hunting & smashing trolls on Twitter](https://github.com/mauroeldritch/venator) |
-| 32 | 2021 | **Ruby Kaigi** | 🇯🇵 | 💎 [Crafting exploits, tools and havoc with Ruby](https://github.com/mauroeldritch/rubycraft) |
-| 33 | 2021 | BugCon | 🇲🇽 | 🏹 [Venator: Hunting & smashing trolls on Twitter](https://github.com/mauroeldritch/venator) |
-| 34 | 2021 | **EC-Council Hacker Halted** | 🇺🇸 | 🏹 [Venator: Hunting & smashing trolls on Twitter](https://github.com/mauroeldritch/venator) |
-| 35 | 2021 | ROOTCON 15 | 🇵🇭 | 🛡️ [A visit to the Armory: Building your own Combat Hardware](https://github.com/dc5411/armory) |
-| 36 | 2021 | Texas Cyber Summit | 🇺🇸 | 🤖 [Everything is a C2 if you're brave enough](https://github.com/mauroeldritch/capybara) |
-| 37 | 2021 | Hacking Bolivia | 🇧🇴 | 🏹 [Venator: Hunting & smashing trolls on Twitter](https://github.com/mauroeldritch/venator) |
-| 38 | 2022 | DEF CON 30 VR | 🇺🇸 | 🎲 [Exploits & Dragons](https://github.com/dc5411/EnD) |
-| 39 | 2022 | DragonJAR Manizales | 🇨🇴 | 🌉 [Nuevas amenazas en el mundo crypto](https://github.com/mauroeldritch/QuemandoLosPuentes) |
+| 1 | 2018 | XTREMESEC Brazil | 🇧🇷 | 🚔 [I Fought the Law and the Law lost](https://github.com/mauroeldritch/ifoughtthelaw) |
+| 2 | 2018 | ROADSEC Joao Pessoa | 🇧🇷 | 🚔 [I Fought the Law and the Law lost](https://github.com/mauroeldritch/ifoughtthelaw) |
+| 3 | 2018 | **DEF CON 26 Las Vegas (RV)** | 🇺🇸 | 🚔 [I Fought the Law and the Law lost](https://github.com/mauroeldritch/ifoughtthelaw) |
+| 4 | 2018 | **DEF CON 26 Las Vegas (DDV)** | 🇺🇸 | 💽 [Hacking GlusterFS with GEVAUDAN](https://github.com/mauroeldritch/GEVAUDAN) |
+| 5 | 2018 | DEVFEST Siberia | 🇷🇺 | 🐋 [Hacking Docker with PAZUZU](https://github.com/mauroeldritch/PAZUZU) |
+| 6 | 2019 | DragonJAR Manizales | 🇨🇴 | 🛂 [ACME: American Coyotaje in the Modern Era](https://github.com/mauroeldritch/acme) |
+| 7 | 2019 | P0SCon Urmía | 🇮🇷 | ☢️  [Meltdown: Nuclear Secrets, Lies & Cyberweapons](https://github.com/mauroeldritch/MELTDOWN) |
+| 8 | 2020 | DC7831 Nizhny Nóvgorod | 🇷🇺 | 🚔 [I Fought the Law and the Law lost](https://github.com/mauroeldritch/ifoughtthelaw) |
+| 9 | 2020 | Texas Cyber Summit | 🇺🇸 | 🦠 [Propaganda and Surveillance during a Pandemic](https://github.com/mauroeldritch/covid-1984) |
+| 10 | 2020 | **DEF CON 28 Las Vegas (RTV)** | 🇺🇸 | ⌨️ [Evil Genius: Why you shouldn't trust that keyboard](https://github.com/dc5411/evilgenius) |
+| 11 | 2020 | **DEF CON 28 Las Vegas (RTV)** | 🇺🇸 | 🔉 [Sounds Legit: Why you shouldn't trust that speaker](https://github.com/dc5411/soundslegit) |
+| 12 | 2020 | **DEF CON 28 Las Vegas (HHV)** | 🇺🇸 | 🔧 [onkeypress="hack();"](https://github.com/dc5411/onkeypress-hack) |
+| 13 | 2020 | **DEF CON 28 Las Vegas (RV)** | 🇺🇸 | 🦠 [Propaganda and Surveillance during a Pandemic](https://github.com/mauroeldritch/covid-1984) |
+| 14 | 2020 | BSides Newcastle | 🇬🇧 | ⚡ [Charge!: Why you shouldn't trust that power bank](https://github.com/dc5411/charge) |
+| 15 | 2020 | DragonJAR Manizales | 🇨🇴 | 🚔 [I Fought the Law and the Law lost](https://github.com/mauroeldritch/ifoughtthelaw) |
+| 16 | 2020 | **EC-Council Hacker Halted** | 🇺🇸 | 🛂 [ACME: American Coyotaje in the Modern Era](https://github.com/mauroeldritch/acme) |
+| 17 | 2020 | GrayHat | 🇺🇸 | ⚡ [Charge!: Why you shouldn't trust that power bank](https://github.com/dc5411/charge) |
+| 18 | 2020 | GrayHat | 🇺🇸 | 🧠 [Malicious Learning: Generating fake news and propaganda with ML](https://github.com/mauroeldritch/pigbrother) |
+| 19 | 2020 | YASCon | 🇮🇳 | 🔐 [BumpKey: A hardware Swiss Knife for RedTeaming (Workshop)](https://github.com/dc5411/bumpkey) |
+| 20 | 2020 | YASCon | 🇮🇳 | ⁉️ [RedBaron: A framework to generate distractions and summon chaos](https://github.com/dc5411/redbaron) |
+| 21 | 2020 | BSides Islamabad | 🇵🇰 | 🔐 [BumpKey: A hardware Swiss Knife for RedTeaming (Talk)](https://github.com/dc5411/bumpkey)|
+| 22 | 2020 | HoneyCon | 🇪🇸 | 🚔 [I Fought the Law and the Law lost](https://github.com/mauroeldritch/ifoughtthelaw) |
+| 23 | 2020 | HoneyCon | 🇪🇸 | 🦠 [Propaganda and Surveillance during a Pandemic](https://github.com/mauroeldritch/covid-1984) |
+| 24 | 2021 | CONHESI | 🇵🇪 | 🦠 [Propaganda and Surveillance during a Pandemic](https://github.com/mauroeldritch/covid-1984) |
+| 25 | 2021 | BSides Panamá | 🇵🇦 | 🎙️ [Mime: Hacking digital assistants without saying a word](https://github.com/mauroeldritch/badmics) |
+| 26 | 2021 | Kerala Police Cyberdome | 🇮🇳 |🇦🇷 [TangoLeaks](https://github.com/mauroeldritch/tangoleaks) |
+| 27 | 2021 | P0SCon Urmía | 🇮🇷 |🛡️ [A visit to the Armory: Building your own Combat Hardware](https://github.com/dc5411/armory) |
+| 28 | 2021 | P0SCon Urmía | 🇮🇷 |🗣️ [VKG: A PsyOps Framework](https://github.com/mauroeldritch/pigbrother) |
+| 29 | 2021 | Machine Learning Utah | 🇺🇸 | 🧠 [Malicious Learning: Generating fake news and propaganda with ML](https://github.com/mauroeldritch/pigbrother) |
+| 30 | 2021 | **DEF CON 29 Las Vegas (AV)** | 🇺🇸 | 🤖 [Everything is a C2 if you're brave enough](https://github.com/mauroeldritch/capybara) |
+| 31 | 2021 | **DEF CON 29 Las Vegas (RV)** | 🇺🇸 | 🏹 [Venator: Hunting & smashing trolls on Twitter](https://github.com/mauroeldritch/venator) |
+| 32 | 2021 | DragonJAR Manizales | 🇨🇴 | 🏹 [Venator: Hunting & smashing trolls on Twitter](https://github.com/mauroeldritch/venator) |
+| 33 | 2021 | **Ruby Kaigi** | 🇯🇵 | 💎 [Crafting exploits, tools and havoc with Ruby](https://github.com/mauroeldritch/rubycraft) |
+| 34 | 2021 | BugCon | 🇲🇽 | 🏹 [Venator: Hunting & smashing trolls on Twitter](https://github.com/mauroeldritch/venator) |
+| 35 | 2021 | **EC-Council Hacker Halted** | 🇺🇸 | 🏹 [Venator: Hunting & smashing trolls on Twitter](https://github.com/mauroeldritch/venator) |
+| 36 | 2021 | ROOTCON 15 | 🇵🇭 | 🛡️ [A visit to the Armory: Building your own Combat Hardware](https://github.com/dc5411/armory) |
+| 37 | 2021 | Texas Cyber Summit | 🇺🇸 | 🤖 [Everything is a C2 if you're brave enough](https://github.com/mauroeldritch/capybara) |
+| 38 | 2021 | Hacking Bolivia | 🇧🇴 | 🏹 [Venator: Hunting & smashing trolls on Twitter](https://github.com/mauroeldritch/venator) |
+| 39 | 2022 | **DEF CON 30 VR** | 🇺🇸 | 🎲 [Exploits & Dragons](https://github.com/dc5411/EnD) |
+| 40 | 2022 | DragonJAR Manizales | 🇨🇴 | 🌉 [Nuevas amenazas en el mundo crypto](https://github.com/mauroeldritch/QuemandoLosPuentes) |
 
 ## CVEs
 |#| CVE | Short Name | Score | Product |
 |---|---|---|---|---|
-| 1 | CVE-2018-19466 | [LEMPO](https://github.com/mauroeldritch/lempo) | 9.8 | Portainer |
+| 1 | CVE-2018-19466 | [LEMPO](https://github.com/mauroeldritch/lempo) | **9.8** | Portainer |
 | 2 | CVE-2019-11881 | [VanCleef](https://github.com/mauroeldritch/vancleef) | 4.7 | Rancher |
 | 3 | CVE-2020-8820 | *Stored XSS* | 5.4 | Webmin |
 | 4 | CVE-2020-8821 | *HTML Injection* | 5.4 | Webmin |
