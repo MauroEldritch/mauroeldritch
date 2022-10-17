@@ -109,13 +109,13 @@
 | 34 | Data Breaches | OSDE Leak | English | https://www.databreaches.net/argentinian-health-services-plan-hit-by-lockbit/ |
 | 35 | Bleeping Computer | Poder Judicial de Cordoba vs PLAY | English | https://www.bleepingcomputer.com/news/security/argentinas-judiciary-of-c-rdoba-hit-by-play-ransomware-attack/ |
 | 36 | Bleeping Computer | The Week in Ransomware | English | https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-august-19th-2022-evolving-extortion-tactics/ |
-| 37 | Diario Clarín | ¿Qué es UFED? | Español | https://www.clarin.com/politica/puede-resetear-telefono-manera-remota-ufed-sistema-israeli-desbloquear-dispositivos_0_lAPb1ILOP7.html |
+| 37 | Diario Clarín | ¿Qué es UFED? | Spanish | https://www.clarin.com/politica/puede-resetear-telefono-manera-remota-ufed-sistema-israeli-desbloquear-dispositivos_0_lAPb1ILOP7.html |
 | 38 | Diario Clarín | Ciberataque al Senado | Español | https://www.clarin.com/tecnologia/legislatura-portena-recupera-ciberataque-dice-informacion-comprometida_0_P7s5jLAsRY.html |
-| 39 | Diario Clarín | Everest vs MEcon | Español | https://www.clarin.com/tecnologia/afirman-hackearon-ministerio-economia-gobierno-dicen-vulnerados_0_EjN6NFZDZV.html |
-| 40 | Cripto Noticias | Everest vs MEcon | Español | https://www.criptonoticias.com/seguridad-bitcoin/hacker-afirma-tener-informacion-confidencial-ministerio-argentina-vende/ |
-| 41 | Infobae | Everest vs MEcon | Español | https://www.infobae.com/economia/2022/09/22/el-ministerio-de-economia-le-pidio-a-la-justicia-que-investigue-un-supuesto-hackeo-interno-a-sus-sistemas-informaticos/ |
-| 42 | C5N | Everest vs MEcon | Español | https://www.c5n.com/politica/hackeo-interno-el-ministerio-economia-denuncio-la-justicia-un-posible-robo-datos-confidenciales-n26892 |
-| 43 | El Destape | Everest vs MEcon | Español | https://www.eldestapeweb.com/politica/ministerio-de-economia/el-ministerio-de-economia-fue-a-la-justicia-por-un-posible-hackeo-de-informacion-20229212330 |
-| 44 | Diario Clarín | Everest vs MEcon | Español | https://www.clarin.com/tecnologia/ministerio-economia-denuncio-posible-hackeo-justicia_0_C2MVVjhapQ.html |
-| 45 | Diario Nuevo Día | DataBreach Poder Judicial de Santa Cruz | Español | https://www.eldiarionuevodia.com.ar/locales/politica/2022/9/26/judiciales-de-santa-cruz-comunicaron-que-un-hacker-habria-accedido-puesto-la-venta-datos-del-poder-judicial-de-la-provincia-189160.html |
-| 46 | Diario Tiempo Sur | Filtración del Poder Judicial de Santa Cruz | Español | https://www.tiemposur.com.ar/info-general/hackeo-al-poder-judicial-hablo-el-experto-en-seguridad-que-informo-el-ingreso-ilegal |
+| 39 | Diario Clarín | Everest vs MEcon | Spanish | https://www.clarin.com/tecnologia/afirman-hackearon-ministerio-economia-gobierno-dicen-vulnerados_0_EjN6NFZDZV.html |
+| 40 | Cripto Noticias | Everest vs MEcon | Spanish | https://www.criptonoticias.com/seguridad-bitcoin/hacker-afirma-tener-informacion-confidencial-ministerio-argentina-vende/ |
+| 41 | Infobae | Everest vs MEcon | Spanish | https://www.infobae.com/economia/2022/09/22/el-ministerio-de-economia-le-pidio-a-la-justicia-que-investigue-un-supuesto-hackeo-interno-a-sus-sistemas-informaticos/ |
+| 42 | C5N | Everest vs MEcon | Spanish | https://www.c5n.com/politica/hackeo-interno-el-ministerio-economia-denuncio-la-justicia-un-posible-robo-datos-confidenciales-n26892 |
+| 43 | El Destape | Everest vs MEcon | Spanish | https://www.eldestapeweb.com/politica/ministerio-de-economia/el-ministerio-de-economia-fue-a-la-justicia-por-un-posible-hackeo-de-informacion-20229212330 |
+| 44 | Diario Clarín | Everest vs MEcon | Spanish | https://www.clarin.com/tecnologia/ministerio-economia-denuncio-posible-hackeo-justicia_0_C2MVVjhapQ.html |
+| 45 | Diario Nuevo Día | DataBreach Poder Judicial de Santa Cruz | Spanish | https://www.eldiarionuevodia.com.ar/locales/politica/2022/9/26/judiciales-de-santa-cruz-comunicaron-que-un-hacker-habria-accedido-puesto-la-venta-datos-del-poder-judicial-de-la-provincia-189160.html |
+| 46 | Diario Tiempo Sur | Filtración del Poder Judicial de Santa Cruz | Spanish | https://www.tiemposur.com.ar/info-general/hackeo-al-poder-judicial-hablo-el-experto-en-seguridad-que-informo-el-ingreso-ilegal |
