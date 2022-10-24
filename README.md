@@ -119,3 +119,4 @@
 | 44 | Diario Clarín | Everest vs MEcon | Spanish | https://www.clarin.com/tecnologia/ministerio-economia-denuncio-posible-hackeo-justicia_0_C2MVVjhapQ.html |
 | 45 | Diario Nuevo Día | DataBreach Poder Judicial de Santa Cruz | Spanish | https://www.eldiarionuevodia.com.ar/locales/politica/2022/9/26/judiciales-de-santa-cruz-comunicaron-que-un-hacker-habria-accedido-puesto-la-venta-datos-del-poder-judicial-de-la-provincia-189160.html |
 | 46 | Diario Tiempo Sur | Filtración del Poder Judicial de Santa Cruz | Spanish | https://www.tiemposur.com.ar/info-general/hackeo-al-poder-judicial-hablo-el-experto-en-seguridad-que-informo-el-ingreso-ilegal |
+| 47 | Diario Clarín | Credenciales más usadas | Spanish | https://www.clarin.com/tecnologia/-admin-user-123456-qwerty-usuarios-contrasenas-usan-atacantes-entrar-redes-ajenas_0_93uLt9Xulu.html |
