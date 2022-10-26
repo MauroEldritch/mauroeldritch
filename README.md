@@ -120,3 +120,4 @@
 | 45 | Diario Nuevo Día | DataBreach Poder Judicial de Santa Cruz | Spanish | https://www.eldiarionuevodia.com.ar/locales/politica/2022/9/26/judiciales-de-santa-cruz-comunicaron-que-un-hacker-habria-accedido-puesto-la-venta-datos-del-poder-judicial-de-la-provincia-189160.html |
 | 46 | Diario Tiempo Sur | Filtración del Poder Judicial de Santa Cruz | Spanish | https://www.tiemposur.com.ar/info-general/hackeo-al-poder-judicial-hablo-el-experto-en-seguridad-que-informo-el-ingreso-ilegal |
 | 47 | Diario Clarín | Credenciales más usadas | Spanish | https://www.clarin.com/tecnologia/-admin-user-123456-qwerty-usuarios-contrasenas-usan-atacantes-entrar-redes-ajenas_0_93uLt9Xulu.html |
+| 48 | We Live Security | Hackeo al Ministerio de Salud | Spanish | https://www.welivesecurity.com/la-es/2022/10/24/ministerio-salud-argentina-sufrio-incidente-seguridad/ |
