@@ -118,9 +118,11 @@
 | 42 | C5N | Everest vs MEcon | Spanish | https://www.c5n.com/politica/hackeo-interno-el-ministerio-economia-denuncio-la-justicia-un-posible-robo-datos-confidenciales-n26892 |
 | 43 | El Destape | Everest vs MEcon | Spanish | https://www.eldestapeweb.com/politica/ministerio-de-economia/el-ministerio-de-economia-fue-a-la-justicia-por-un-posible-hackeo-de-informacion-20229212330 |
 | 44 | Diario Clarín | Everest vs MEcon | Spanish | https://www.clarin.com/tecnologia/ministerio-economia-denuncio-posible-hackeo-justicia_0_C2MVVjhapQ.html |
-| 45 | Diario Nuevo Día | DataBreach Poder Judicial de Santa Cruz | Spanish | https://www.eldiarionuevodia.com.ar/locales/politica/2022/9/26/judiciales-de-santa-cruz-comunicaron-que-un-hacker-habria-accedido-puesto-la-venta-datos-del-poder-judicial-de-la-provincia-189160.html |
-| 46 | Diario Tiempo Sur | Justicia Federal investiga el hackeo a Santa Cruz | Spanish | https://www.tiemposur.com.ar/info-general/judiciales-denuncio-en-la-justicia-federal-el-hackeo-al-poder-judicial-de-santa-cruz |
-| 47 | Diario Tiempo Sur | Filtración del Poder Judicial de Santa Cruz | Spanish | https://www.tiemposur.com.ar/info-general/hackeo-al-poder-judicial-hablo-el-experto-en-seguridad-que-informo-el-ingreso-ilegal |
-| 48 | Diario Clarín | Credenciales más usadas | Spanish | https://www.clarin.com/tecnologia/-admin-user-123456-qwerty-usuarios-contrasenas-usan-atacantes-entrar-redes-ajenas_0_93uLt9Xulu.html |
-| 49 | We Live Security | Hackeo al Ministerio de Salud | Spanish | https://www.welivesecurity.com/la-es/2022/10/24/ministerio-salud-argentina-sufrio-incidente-seguridad/ |
-| 50  | Ambito | Everest vs MEcon | Spanish | https://www.ambito.com/economia/ministerio-economia/el-pidio-investigar-un-hackeo-interno-n5541639 |
+| 45 | Urgente24 | Everest vs MEcon | Spanish | https://urgente24.com/dinero/boicot-sergio-massa-ahora-investigan-hackeo-interno-n544073 |
+| 46  | Ambito | Everest vs MEcon | Spanish | https://www.ambito.com/economia/ministerio-economia/el-pidio-investigar-un-hackeo-interno-n5541639 |
+| 47 | Diario Nuevo Día | DataBreach Poder Judicial de Santa Cruz | Spanish | https://www.eldiarionuevodia.com.ar/locales/politica/2022/9/26/judiciales-de-santa-cruz-comunicaron-que-un-hacker-habria-accedido-puesto-la-venta-datos-del-poder-judicial-de-la-provincia-189160.html |
+| 48 | Diario Tiempo Sur | Justicia Federal investiga el hackeo a Santa Cruz | Spanish | https://www.tiemposur.com.ar/info-general/judiciales-denuncio-en-la-justicia-federal-el-hackeo-al-poder-judicial-de-santa-cruz |
+| 49 | Diario Tiempo Sur | Filtración del Poder Judicial de Santa Cruz | Spanish | https://www.tiemposur.com.ar/info-general/hackeo-al-poder-judicial-hablo-el-experto-en-seguridad-que-informo-el-ingreso-ilegal |
+| 50 | Diario Clarín | Credenciales más usadas | Spanish | https://www.clarin.com/tecnologia/-admin-user-123456-qwerty-usuarios-contrasenas-usan-atacantes-entrar-redes-ajenas_0_93uLt9Xulu.html |
+| 51 | We Live Security | Hackeo al Ministerio de Salud | Spanish | https://www.welivesecurity.com/la-es/2022/10/24/ministerio-salud-argentina-sufrio-incidente-seguridad/ |
+| 52 | Programadores Brasil | El festival de hackers más grande de América Latina | Spanish | https://programadoresbrasil.com.br/es/2022/07/roadsec-2022-festival-de-hackers-m%C3%A1s-grande-de-am%C3%A9rica-latina/ |
