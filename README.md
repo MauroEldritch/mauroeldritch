@@ -123,3 +123,4 @@
 | 47 | Diario Tiempo Sur | Filtración del Poder Judicial de Santa Cruz | Spanish | https://www.tiemposur.com.ar/info-general/hackeo-al-poder-judicial-hablo-el-experto-en-seguridad-que-informo-el-ingreso-ilegal |
 | 48 | Diario Clarín | Credenciales más usadas | Spanish | https://www.clarin.com/tecnologia/-admin-user-123456-qwerty-usuarios-contrasenas-usan-atacantes-entrar-redes-ajenas_0_93uLt9Xulu.html |
 | 49 | We Live Security | Hackeo al Ministerio de Salud | Spanish | https://www.welivesecurity.com/la-es/2022/10/24/ministerio-salud-argentina-sufrio-incidente-seguridad/ |
+| 50  | Ambito | Everest vs MEcon | Spanish | https://www.ambito.com/economia/ministerio-economia/el-pidio-investigar-un-hackeo-interno-n5541639 |
