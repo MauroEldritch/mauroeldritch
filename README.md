@@ -126,3 +126,4 @@
 | 50 | Diario Clarín | Credenciales más usadas | Spanish | https://www.clarin.com/tecnologia/-admin-user-123456-qwerty-usuarios-contrasenas-usan-atacantes-entrar-redes-ajenas_0_93uLt9Xulu.html |
 | 51 | We Live Security | Hackeo al Ministerio de Salud | Spanish | https://www.welivesecurity.com/la-es/2022/10/24/ministerio-salud-argentina-sufrio-incidente-seguridad/ |
 | 52 | Programadores Brasil | El festival de hackers más grande de América Latina | Spanish | https://programadoresbrasil.com.br/es/2022/07/roadsec-2022-festival-de-hackers-m%C3%A1s-grande-de-am%C3%A9rica-latina/ |
+| 53 | El Diario AR | Lago Escondido / Justileaks | Spanish | https://www.eldiarioar.com/politica/lago-escondido-involucrados-denuncio-espionaje-ilegal-causa-recayo-ercolini-acusados_1_9779119.html |
