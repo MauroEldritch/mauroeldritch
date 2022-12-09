@@ -57,14 +57,15 @@
 | 4 | CVE-2020-8821 | *HTML Injection* | 5.4 | Webmin |
 | 5 | CVE-2020-12670 | *XSS* | 6.1 | Webmin |
 
-## Podcasts
-|#| Podcast | Title | Language | Link |
+## Podcasts & Radio
+|#| Show | Title | Language | Link |
 |---|---|---|---|---|
 | 1 | Se Tildó | Confesiones de un Troll | Spanish | https://open.spotify.com/episode/7rul6ok4jPSvRaedUulPLs |
 | 2 | Nuestro Día | ¿Qué hay detrás del hackeo al Hospital Garrahan? | Spanish | https://open.spotify.com/episode/2QgEGNwHSoZ1P0TcInZcGn |
 | 3 | Nuestro Día | Huella Digital del Navegador | Spanish | https://open.spotify.com/episode/79p5qNVaKHSUvxTeODCbsJ |
 | 4 | Nuestro Día | Hackeo al Poder Judicial de Córdoba | Spanish | https://open.spotify.com/episode/0NoJ797kYWe2YywpsnMEpr |
 | 5 | Nuestro Día | ¿Cómo funciona el mercado ilegal en internet? | Spanish | https://open.spotify.com/episode/2WjFek85K9Z0pOeyufSKAR |
+| 6 | Radio y Televisión de Neuquén | Filtraión del Poder Judicial de Nequén | https://www.youtube.com/watch?v=wkkkl-mCyz8 |
 
 ## Cybercrime Interviews
 |#| Interview | Language | Link |
