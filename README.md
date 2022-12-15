@@ -129,4 +129,4 @@
 | 52 | Programadores Brasil | El festival de hackers más grande de América Latina | Spanish | https://programadoresbrasil.com.br/es/2022/07/roadsec-2022-festival-de-hackers-m%C3%A1s-grande-de-am%C3%A9rica-latina/ |
 | 53 | El Diario AR | Lago Escondido / Justileaks | Spanish | https://www.eldiarioar.com/politica/lago-escondido-involucrados-denuncio-espionaje-ilegal-causa-recayo-ercolini-acusados_1_9779119.html |
 | 54 | Ambito | Lago Escondido /Justileaks | Spanish | https://www.ambito.com/politica/lago-escondido/juez-imputado-denuncio-espionaje-ilegal-y-recayo-el-juzgado-otro-apuntado-n5603346 |
-| 55 | Diario Clarhttps://www.clarin.com/tecnologia/-mefiltraron-lanzan-base-datos-gratuita-comprobar-datos-personales-filtrados-online_0_7fhDRPMNfa.html
+| 55 | Diario Clarín | Lanzamiento de Tero/MeFiltraron | Spanish | https://www.clarin.com/tecnologia/-mefiltraron-lanzan-base-datos-gratuita-comprobar-datos-personales-filtrados-online_0_7fhDRPMNfa.html |
