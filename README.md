@@ -70,7 +70,8 @@
 ## Television
 |#| Show | Title | Language | Link |
 |---|---|---|---|---|
-| 1 | TV Pública | MeFiltraron.com | Spanish | https://www.youtube.com/watch?v=HhlgKVa_8NU |
+| 1 | Equipo de Investigación (España) | Filtración de datos de Generación Zoe | Spanish | - |
+| 2 | TV Pública | MeFiltraron.com (Argentina) | Spanish | https://www.youtube.com/watch?v=HhlgKVa_8NU |
 
 ## Cybercrime Interviews
 |#| Interview | Language | Link |
