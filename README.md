@@ -137,3 +137,4 @@
 | 54 | Ambito | Lago Escondido /Justileaks | Spanish | https://www.ambito.com/politica/lago-escondido/juez-imputado-denuncio-espionaje-ilegal-y-recayo-el-juzgado-otro-apuntado-n5603346 |
 | 55 | Diario Clarín | Lanzamiento de Tero/MeFiltraron | Spanish | https://www.clarin.com/tecnologia/-mefiltraron-lanzan-base-datos-gratuita-comprobar-datos-personales-filtrados-online_0_7fhDRPMNfa.html |
 | 56 | Montevideo Portal | Filtración del INAU (Uruguay) | Spanish |https://www.montevideo.com.uy/Noticias/En-Argentina-divulgaron-datos-de-mas-de-200-mil-menores-de-edad-internados-en-el-Inau-uc840822 |
+| 57 | El Observador | Filtración del INAU (Uruguay) | Spanish | https://www.elobservador.com.uy/nota/hacker-argentino-alerto-sobre-divulgacion-de-datos-de-200-mil-menores-vinculados-al-inau-instituto-inicio-investigacion-2022121718428 |
