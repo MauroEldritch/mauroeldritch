@@ -144,4 +144,4 @@
 | 60 | Grupo R Multimedio | Filtración del INAU (Uruguay) | Spanish | https://www.grupormultimedio.com/inau-denuncia-ante-delitos-informaticos-la-filtracion-de-cientos-de-miles-de-datos-de-menores-id1067934/ |
 | 61 | La Diaria | Filtración del INAU (Uruguay) | Spanish | https://ladiaria.com.uy/politica/articulo/2022/12/filtracion-de-datos-reservados-del-inau-se-deberia-a-hackeo-de-correos-de-funcionarios-segun-abdala/#Echobox=1671465880-1 |
 | 62 | VTV Noticias | Filtración del INAU (Uruguay) | Spanish | https://noticias.vtv.com.uy/inau-denuncio-que-lo-hackearon-y-que-divulgaron-en-internet-datos-de-211-mil-expedientes-de-menores/ |
-| 63 | VTV Noticias | Filtración del INAU (Uruguay) | Spanish | https://www.elobservador.com.uy/nota/abdala-dijo-la-filtracion-de-datos-del-inau-preocupa-y-no-debio-haber-pasado--20221219121910#Echobox=1671466711 |
+| 63 | El Observador | Filtración del INAU (Uruguay) | Spanish | https://www.elobservador.com.uy/nota/abdala-dijo-la-filtracion-de-datos-del-inau-preocupa-y-no-debio-haber-pasado--20221219121910#Echobox=1671466711 |
