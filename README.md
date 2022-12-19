@@ -141,4 +141,4 @@
 | 58 | Carmelo Portal | Filtración del INAU (Uruguay) | Spanish |https://www.carmeloportal.com/86197-hackearon-la-cuenta-del-inau-y-habrian-ingresado-a-211604-registros-de-menores |
 | 59 | Montevideo Portal | Filtración del INAU (Uruguay) | Spanish |https://www.montevideo.com.uy/Noticias/INAU-presento-denuncia-ante-el-Ministerio-del-Interior-por-filtracion-de-datos-reservados-uc840874 |
 | 60 | Grupo R Multimedio | Filtración del INAU (Uruguay) | Spanish | https://www.grupormultimedio.com/inau-denuncia-ante-delitos-informaticos-la-filtracion-de-cientos-de-miles-de-datos-de-menores-id1067934/ |
-
+| 61 | La Diaria | Filtración del INAU (Uruguay) | Spanish | https://ladiaria.com.uy/politica/articulo/2022/12/filtracion-de-datos-reservados-del-inau-se-deberia-a-hackeo-de-correos-de-funcionarios-segun-abdala/#Echobox=1671465880-1 |
