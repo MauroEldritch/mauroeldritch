@@ -139,4 +139,4 @@
 | 56 | Montevideo Portal | Filtración del INAU (Uruguay) | Spanish |https://www.montevideo.com.uy/Noticias/En-Argentina-divulgaron-datos-de-mas-de-200-mil-menores-de-edad-internados-en-el-Inau-uc840822 |
 | 57 | El Observador | Filtración del INAU (Uruguay) | Spanish | https://www.elobservador.com.uy/nota/hacker-argentino-alerto-sobre-divulgacion-de-datos-de-200-mil-menores-vinculados-al-inau-instituto-inicio-investigacion-2022121718428 |
 | 58 | Carmelo Portal | Filtración del INAU (Uruguay) | Spanish |https://www.carmeloportal.com/86197-hackearon-la-cuenta-del-inau-y-habrian-ingresado-a-211604-registros-de-menores |
-
+| 59 | Montevideo Portal | Filtración del INAU (Uruguay) | Spanish |https://www.montevideo.com.uy/Noticias/INAU-presento-denuncia-ante-el-Ministerio-del-Interior-por-filtracion-de-datos-reservados-uc840874 |
