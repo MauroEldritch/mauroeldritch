@@ -147,3 +147,5 @@
 | 63 | El Observador | Filtración del INAU (Uruguay) | Spanish | https://www.elobservador.com.uy/nota/abdala-dijo-la-filtracion-de-datos-del-inau-preocupa-y-no-debio-haber-pasado--20221219121910#Echobox=1671466711 |
 | 64 | Caras y Caretas | Filtración del INAU (Uruguay) | Spanish | https://www.carasycaretas.com.uy/sociedad/inau-investiga-filtracion-mas-200-mil-datos-menores-n58130 |
 | 65 | Caras y Caretas | Filtración del INAU (Uruguay) | Spanish | https://www.carasycaretas.com.uy/sociedad/abdala-hackeo-al-inau-es-un-llamado-atencion-al-estado-n58164 |
+| 66 | Montevideo Portal | Filtración Desconocida (Uruguay) | Spanish | https://www.montevideo.com.uy/Noticias/En-Argentina-divulgaron-6-millones-de-datos-de-alumnos-de-la-Udelar-se-investiga-hackeo-uc841218 |
+
