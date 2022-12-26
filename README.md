@@ -148,4 +148,6 @@
 | 64 | Caras y Caretas | Filtración del INAU (Uruguay) | Spanish | https://www.carasycaretas.com.uy/sociedad/inau-investiga-filtracion-mas-200-mil-datos-menores-n58130 |
 | 65 | Caras y Caretas | Filtración del INAU (Uruguay) | Spanish | https://www.carasycaretas.com.uy/sociedad/abdala-hackeo-al-inau-es-un-llamado-atencion-al-estado-n58164 |
 | 66 | Montevideo Portal | Filtración Desconocida (Uruguay) | Spanish | https://www.montevideo.com.uy/Noticias/En-Argentina-divulgaron-6-millones-de-datos-de-alumnos-de-la-Udelar-se-investiga-hackeo-uc841218 |
-
+| 67 | Carmelo Portal | Filtración Desconocida (Uruguay) | Spanish | https://www.carmeloportal.com/86382-hacker-etico-argentino-alerto-por-informacion-extraida-a-una-universidad-uruguaya |
+| 68 | Subrayado | Filtración Desconocida (Uruguay) | Spanish | https://www.subrayado.com.uy/udelar-investiga-si-hackearon-su-sistema-y-obtuvieron-datos-ciudadanos-uruguayos-dijo-arim-n887050 |
+| 69 | El País | Filtración Desconocida (Uruguay) | Spanish | https://www.elpais.com.uy/informacion/educacion/udelar-descarto-hackeo-tras-aviso-de-filtracion-de-6-millones-de-registros | 
