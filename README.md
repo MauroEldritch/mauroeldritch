@@ -151,3 +151,4 @@
 | 67 | Carmelo Portal | Filtración Desconocida (Uruguay) | Spanish | https://www.carmeloportal.com/86382-hacker-etico-argentino-alerto-por-informacion-extraida-a-una-universidad-uruguaya |
 | 68 | Subrayado | Filtración Desconocida (Uruguay) | Spanish | https://www.subrayado.com.uy/udelar-investiga-si-hackearon-su-sistema-y-obtuvieron-datos-ciudadanos-uruguayos-dijo-arim-n887050 |
 | 69 | El País | Filtración Desconocida (Uruguay) | Spanish | https://www.elpais.com.uy/informacion/educacion/udelar-descarto-hackeo-tras-aviso-de-filtracion-de-6-millones-de-registros | 
+| 70 | Diario Clarín | PLAY vs ARSAT| Spanish | https://www.clarin.com/tecnologia/publican-parte-datos-robados-arsat-luego-encriptados-grupo-ransomware_0_6shfcu8Yhq.html | 
