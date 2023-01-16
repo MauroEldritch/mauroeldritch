@@ -119,7 +119,7 @@
 | 35 | Bleeping Computer | Poder Judicial de Cordoba vs PLAY | English | https://www.bleepingcomputer.com/news/security/argentinas-judiciary-of-c-rdoba-hit-by-play-ransomware-attack/ |
 | 36 | Bleeping Computer | The Week in Ransomware | English | https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-august-19th-2022-evolving-extortion-tactics/ |
 | 37 | Diario Clarín | ¿Qué es UFED? | Spanish | https://www.clarin.com/politica/puede-resetear-telefono-manera-remota-ufed-sistema-israeli-desbloquear-dispositivos_0_lAPb1ILOP7.html |
-| 38 | Diario Clarín | Ciberataque al Senado | Español | https://www.clarin.com/tecnologia/legislatura-portena-recupera-ciberataque-dice-informacion-comprometida_0_P7s5jLAsRY.html |
+| 38 | Diario Clarín | Ciberataque a la Legislatura | Español | https://www.clarin.com/tecnologia/legislatura-portena-recupera-ciberataque-dice-informacion-comprometida_0_P7s5jLAsRY.html |
 | 39 | Diario Clarín | Everest vs MEcon | Spanish | https://www.clarin.com/tecnologia/afirman-hackearon-ministerio-economia-gobierno-dicen-vulnerados_0_EjN6NFZDZV.html |
 | 40 | Cripto Noticias | Everest vs MEcon | Spanish | https://www.criptonoticias.com/seguridad-bitcoin/hacker-afirma-tener-informacion-confidencial-ministerio-argentina-vende/ |
 | 41 | Infobae | Everest vs MEcon | Spanish | https://www.infobae.com/economia/2022/09/22/el-ministerio-de-economia-le-pidio-a-la-justicia-que-investigue-un-supuesto-hackeo-interno-a-sus-sistemas-informaticos/ |
