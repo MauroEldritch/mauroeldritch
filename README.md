@@ -153,3 +153,4 @@
 | 69 | El País | Filtración Desconocida (Uruguay) | Spanish | https://www.elpais.com.uy/informacion/educacion/udelar-descarto-hackeo-tras-aviso-de-filtracion-de-6-millones-de-registros | 
 | 70 | Diario Clarín | PLAY vs ARSAT| Spanish | https://www.clarin.com/tecnologia/publican-parte-datos-robados-arsat-luego-encriptados-grupo-ransomware_0_6shfcu8Yhq.html | 
 | 71 | Diario Tiempo Sur | Audiencia Fuero Federal sobre hackeo a Santa Cruz | Spanish | https://www.tiemposur.com.ar/info-general/amp/hackeo-a-la-justicia-de-santa-cruz-habra-una-audiencia-en-el-fuero-federal | 
+| 72 | SecOps | Desmantelan HIVE | Spanish | https://open.substack.com/pub/juanbrodersen/p/secops-golpe-al-ransomware-desmantelan |
