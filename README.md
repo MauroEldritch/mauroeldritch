@@ -154,3 +154,4 @@
 | 70 | Diario Clarín | PLAY vs ARSAT| Spanish | https://www.clarin.com/tecnologia/publican-parte-datos-robados-arsat-luego-encriptados-grupo-ransomware_0_6shfcu8Yhq.html | 
 | 71 | Diario Tiempo Sur | Audiencia Fuero Federal sobre hackeo a Santa Cruz | Spanish | https://www.tiemposur.com.ar/info-general/amp/hackeo-a-la-justicia-de-santa-cruz-habra-una-audiencia-en-el-fuero-federal | 
 | 72 | SecOps | Desmantelan HIVE | Spanish | https://open.substack.com/pub/juanbrodersen/p/secops-golpe-al-ransomware-desmantelan |
+| 73 | SecOps | Cómo cayó Hive / VMWare vs Ransomware Nevada | Spanish | https://juanbrodersen.substack.com/p/secops-ransomware-nuevo-hace-estragos |
