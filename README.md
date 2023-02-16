@@ -155,3 +155,4 @@
 | 71 | Diario Tiempo Sur | Audiencia Fuero Federal sobre hackeo a Santa Cruz | Spanish | https://www.tiemposur.com.ar/info-general/amp/hackeo-a-la-justicia-de-santa-cruz-habra-una-audiencia-en-el-fuero-federal | 
 | 72 | SecOps | Desmantelan HIVE | Spanish | https://open.substack.com/pub/juanbrodersen/p/secops-golpe-al-ransomware-desmantelan |
 | 73 | SecOps | Cómo cayó Hive / VMWare vs Ransomware Nevada | Spanish | https://juanbrodersen.substack.com/p/secops-ransomware-nuevo-hace-estragos |
+| 74 | El Observador (UY) | Lanzan MeFiltraron UY | Spanish | https://www.elobservador.com.uy/nota/lanzan-mefiltraron-un-portal-para-conocer-si-tus-datos-de-ute-antel-y-el-brou-fueron-filtrados-2023216102514 |
