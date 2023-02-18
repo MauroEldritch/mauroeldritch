@@ -161,3 +161,4 @@
 | 76 | Caras y Caretas (UY) | Lanzan MeFiltraron Uruguay | Spanish | https://www.carasycaretas.com.uy/sociedad/mefiltraron-el-sitio-web-saber-si-tu-mail-fue-hackeado-n59832 |
 | 77 | SecOps | Lanzan MeFiltraron Uruguay | Spanish | https://juanbrodersen.substack.com/p/chat-gpt-malware-hackers |
 | 78 | El Avisador (UY) | Lanzan MeFiltraron Uruguay | Spanish | https://avisador.com.uy/lanzan-portal-en-uruguay-que-revela-si-te-hackearon-tu-mail-hay-29-millones-de-registros/ |
+| 79 | Diario Tiempo Sur | Justicia Federal investiga el hackeo a Santa Cruz | Spanish | https://www.tiemposur.com.ar/info-general/la-camara-federal-decide-quien-investigara-el-hackeo-a-la-justicia-de-santa-cruz |
