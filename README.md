@@ -66,6 +66,7 @@
 | 4 | Nuestro Día | Hackeo al Poder Judicial de Córdoba | Spanish | https://open.spotify.com/episode/0NoJ797kYWe2YywpsnMEpr |
 | 5 | Nuestro Día | ¿Cómo funciona el mercado ilegal en internet? | Spanish | https://open.spotify.com/episode/2WjFek85K9Z0pOeyufSKAR |
 | 6 | Radio y Televisión de Neuquén | Filtración del Poder Judicial de Neuquén | Spanish | https://www.youtube.com/watch?v=wkkkl-mCyz8 |
+| 7 | Cadena Digital (UY) | Lanzan MeFiltraron Uruguay | Spanish | https://twitter.com/hlujanamaral/status/1626378586067283974 |
 
 ## Television
 |#| Show | Title | Language | Link |
@@ -155,4 +156,8 @@
 | 71 | Diario Tiempo Sur | Audiencia Fuero Federal sobre hackeo a Santa Cruz | Spanish | https://www.tiemposur.com.ar/info-general/amp/hackeo-a-la-justicia-de-santa-cruz-habra-una-audiencia-en-el-fuero-federal | 
 | 72 | SecOps | Desmantelan HIVE | Spanish | https://open.substack.com/pub/juanbrodersen/p/secops-golpe-al-ransomware-desmantelan |
 | 73 | SecOps | Cómo cayó Hive / VMWare vs Ransomware Nevada | Spanish | https://juanbrodersen.substack.com/p/secops-ransomware-nuevo-hace-estragos |
-| 74 | El Observador (UY) | Lanzan MeFiltraron UY | Spanish | https://www.elobservador.com.uy/nota/lanzan-mefiltraron-un-portal-para-conocer-si-tus-datos-de-ute-antel-y-el-brou-fueron-filtrados-2023216102514 |
+| 74 | El Observador (UY) | Lanzan MeFiltraron Uruguay | Spanish | https://www.elobservador.com.uy/nota/lanzan-mefiltraron-un-portal-para-conocer-si-tus-datos-de-ute-antel-y-el-brou-fueron-filtrados-2023216102514 |
+| 75 | El Observador (UY) | Filtraciones al Estado | Spanish | https://www.elobservador.com.uy/nota/filtraciones-afectaron-a-al-menos-3-845-correos-de-organismos-publicos-202321619260 |
+| 76 | Caras y Caretas (UY) | Lanzan MeFiltraron Uruguay | Spanish | https://www.carasycaretas.com.uy/sociedad/mefiltraron-el-sitio-web-saber-si-tu-mail-fue-hackeado-n59832 |
+| 77 | SecOps | Lanzan MeFiltraron Uruguay | Spanish | https://juanbrodersen.substack.com/p/chat-gpt-malware-hackers |
+| 78 | El Avisador (UY) | Lanzan MeFiltraron Uruguay | Spanish | https://avisador.com.uy/lanzan-portal-en-uruguay-que-revela-si-te-hackearon-tu-mail-hay-29-millones-de-registros/ |
