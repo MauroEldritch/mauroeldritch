@@ -67,6 +67,7 @@
 | 5 | Nuestro Día | ¿Cómo funciona el mercado ilegal en internet? | Spanish | https://open.spotify.com/episode/2WjFek85K9Z0pOeyufSKAR |
 | 6 | Radio y Televisión de Neuquén | Filtración del Poder Judicial de Neuquén | Spanish | https://www.youtube.com/watch?v=wkkkl-mCyz8 |
 | 7 | Cadena Digital (UY) | Lanzan MeFiltraron Uruguay | Spanish | https://twitter.com/hlujanamaral/status/1626378586067283974 |
+| 8 | FM Del Sol (UY) | ¿Me hackearon? | Spanish | https://delsol.uy/facildesviarse/entrevista/me-hackearon |
 
 ## Television
 |#| Show | Title | Language | Link |
