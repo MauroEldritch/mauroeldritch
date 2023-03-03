@@ -49,13 +49,13 @@
 | 40 | 2022 | DragonJAR Manizales | 🇨🇴 | 🌉 [Nuevas amenazas en el mundo crypto](https://github.com/mauroeldritch/QuemandoLosPuentes) |
 
 ## CVEs
-|#| CVE | Short Name | Score | Product |
-|---|---|---|---|---|
-| 1 | CVE-2018-19466 | [LEMPO](https://github.com/mauroeldritch/lempo) | **9.8** | Portainer |
-| 2 | CVE-2019-11881 | [VanCleef](https://github.com/mauroeldritch/vancleef) | 4.7 | Rancher |
-| 3 | CVE-2020-8820 | *Stored XSS* | 5.4 | Webmin |
-| 4 | CVE-2020-8821 | *HTML Injection* | 5.4 | Webmin |
-| 5 | CVE-2020-12670 | *XSS* | 6.1 | Webmin |
+|#| CVE | Short Name | Score | Product | Link |
+|---|---|---|---|---|---|
+| 1 | CVE-2018-19466 | [LEMPO](https://github.com/mauroeldritch/lempo) | **9.8** | Portainer | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-19466 |
+| 2 | CVE-2019-11881 | [VanCleef](https://github.com/mauroeldritch/vancleef) | 4.7 | Rancher | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11881 |
+| 3 | CVE-2020-8820 | *Stored XSS* | 5.4 | Webmin | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-8820 |
+| 4 | CVE-2020-8821 | *HTML Injection* | 5.4 | Webmin | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-8821 |
+| 5 | CVE-2020-12670 | *XSS* | 6.1 | Webmin | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-12670 |
 
 ## Podcasts & Radio
 |#| Show | Title | Language | Link |
