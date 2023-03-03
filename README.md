@@ -73,7 +73,7 @@
 ## Television
 |#| Show | Title | Language | Link |
 |---|---|---|---|---|
-| 1 | Equipo de Investigación (España) | Filtración de datos de Generación Zoe | Spanish | - |
+| 1 | Equipo de Investigación (España) | Filtración de datos de Generación Zoe | Spanish | https://mega.nz/file/UQExURJB#72f5YLkaMQJw5rj5vJHqDwCGlS5ARAF6az_Sif7yACc |
 | 2 | TV Pública | MeFiltraron.com (Argentina) | Spanish | https://www.youtube.com/watch?v=HhlgKVa_8NU |
 | 3 | VTV Uruguay | Filtración al INAU | Spanish | https://www.youtube.com/watch?v=bgdhToEclE0 |
 
