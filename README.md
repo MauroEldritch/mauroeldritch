@@ -166,3 +166,4 @@
 | 79 | Diario Tiempo Sur | Justicia Federal investiga el hackeo a Santa Cruz | Spanish | https://www.tiemposur.com.ar/info-general/la-camara-federal-decide-quien-investigara-el-hackeo-a-la-justicia-de-santa-cruz |
 | 80 | SecOps | Lockbit vs La Segunda Seguros | Spanish | https://juanbrodersen.substack.com/i/103551047/mas-info |
 | 81 | SecOps | Lockbit vs La Segunda Seguros | Spanish | https://juanbrodersen.substack.com/i/105623484/lockbit-publica-datos-sensibles-de-otra-empresa-argentina-la-segunda |
+| 82 | Diario Clarín  | Lockbit vs La Segunda Seguros | Spanish | https://www.clarin.com/tecnologia/lockbit-publico-datos-robados-segunda-expedientes-judiciales-pericias-datos-medicos_0_8yqRdA1v64.html |
