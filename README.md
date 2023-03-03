@@ -165,3 +165,4 @@
 | 78 | El Avisador (UY) | Lanzan MeFiltraron Uruguay | Spanish | https://avisador.com.uy/lanzan-portal-en-uruguay-que-revela-si-te-hackearon-tu-mail-hay-29-millones-de-registros/ |
 | 79 | Diario Tiempo Sur | Justicia Federal investiga el hackeo a Santa Cruz | Spanish | https://www.tiemposur.com.ar/info-general/la-camara-federal-decide-quien-investigara-el-hackeo-a-la-justicia-de-santa-cruz |
 | 80 | SecOps | Lockbit vs La Segunda Seguros | Spanish | https://juanbrodersen.substack.com/i/103551047/mas-info |
+| 81 | SecOps | Lockbit vs La Segunda Seguros | Spanish | https://juanbrodersen.substack.com/i/105623484/lockbit-publica-datos-sensibles-de-otra-empresa-argentina-la-segunda |
