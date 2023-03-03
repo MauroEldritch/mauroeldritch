@@ -52,7 +52,7 @@
 |#| CVE | Vulnerability | Short Name | Score | Product | Link |
 |---|---|---|---|---|---|---|
 | 1 | CVE-2018-19466 | *Information Disclosure* | [LEMPO](https://github.com/mauroeldritch/lempo) | **9.8** | Portainer | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-19466 |
-| 2 | CVE-2019-11881 | *Web Parameter Tamperint* | [VanCleef](https://github.com/mauroeldritch/vancleef) | 4.7 | Rancher | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11881 |
+| 2 | CVE-2019-11881 | *Web Parameter Tampering* | [VanCleef](https://github.com/mauroeldritch/vancleef) | 4.7 | Rancher | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11881 |
 | 3 | CVE-2020-8820 | *Stored XSS* | - | 5.4 | Webmin | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-8820 |
 | 4 | CVE-2020-8821 | *HTML Injection* | - | 5.4 | Webmin | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-8821 |
 | 5 | CVE-2020-12670 | *XSS* | - | 6.1 | Webmin | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-12670 |
