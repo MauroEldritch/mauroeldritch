@@ -167,3 +167,4 @@
 | 80 | SecOps | Lockbit vs La Segunda Seguros | Spanish | https://juanbrodersen.substack.com/i/103551047/mas-info |
 | 81 | SecOps | Lockbit vs La Segunda Seguros | Spanish | https://juanbrodersen.substack.com/i/105623484/lockbit-publica-datos-sensibles-de-otra-empresa-argentina-la-segunda |
 | 82 | Diario Clarín  | Lockbit vs La Segunda Seguros | Spanish | https://www.clarin.com/tecnologia/lockbit-publico-datos-robados-segunda-expedientes-judiciales-pericias-datos-medicos_0_8yqRdA1v64.html |
+| 83 | Bleeping Computer | The Week in Ransomware | English | https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-march-3rd-2023-wide-impact-attacks/ |
