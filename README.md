@@ -170,3 +170,4 @@
 | 83 | Bleeping Computer | The Week in Ransomware | English | https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-march-3rd-2023-wide-impact-attacks/ |
 | 84 | Diario Tiempo Sur | Hackeo a la Justicia de Santa Cruz | Spanish | https://www.tiemposur.com.ar/info-general/el-juzgado-federal-de-rio-gallegos-debera-investigar-el-hackeo-a-la-justicia-de-santa-cruz |
 | 85 | SecOps | Seis filtraciones nuevas | Spanish | https://juanbrodersen.substack.com/i/106810252/venta-de-datos-privados-en-argentina-seis-filtraciones-nuevas |
+| 86 | Diario Clarín | Arrestan a administrador de foro especializado | Spanish | https://www.clarin.com/tecnologia/arrestan-administrador-breach-forums-sitio-compra-venta-datos-personales_0_Z7N9pSnTZM.html |
