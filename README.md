@@ -171,3 +171,4 @@
 | 84 | Diario Tiempo Sur | Hackeo a la Justicia de Santa Cruz | Spanish | https://www.tiemposur.com.ar/info-general/el-juzgado-federal-de-rio-gallegos-debera-investigar-el-hackeo-a-la-justicia-de-santa-cruz |
 | 85 | SecOps | Seis filtraciones nuevas | Spanish | https://juanbrodersen.substack.com/i/106810252/venta-de-datos-privados-en-argentina-seis-filtraciones-nuevas |
 | 86 | Diario Clarín | Arrestan a administrador de foro especializado | Spanish | https://www.clarin.com/tecnologia/arrestan-administrador-breach-forums-sitio-compra-venta-datos-personales_0_Z7N9pSnTZM.html |
+| 87 | InfoPico | Filtración de datos de hoteles | Spanish | https://www.infopico.com/2023/03/19/filtracion-de-datos-en-hoteles-afectaria-a-pampeanos-informacion-financiera-en-peligro/ |
