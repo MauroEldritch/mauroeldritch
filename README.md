@@ -172,3 +172,4 @@
 | 85 | SecOps | Seis filtraciones nuevas | Spanish | https://juanbrodersen.substack.com/i/106810252/venta-de-datos-privados-en-argentina-seis-filtraciones-nuevas |
 | 86 | Diario Clarín | Arrestan a administrador de foro especializado | Spanish | https://www.clarin.com/tecnologia/arrestan-administrador-breach-forums-sitio-compra-venta-datos-personales_0_Z7N9pSnTZM.html |
 | 87 | InfoPico | Filtración de datos de hoteles | Spanish | https://www.infopico.com/2023/03/19/filtracion-de-datos-en-hoteles-afectaria-a-pampeanos-informacion-financiera-en-peligro/ |
+| 88 | SecOps | La caída de Breached | Spanish | https://juanbrodersen.substack.com/i/109462452/arrestan-a-uno-de-los-admin-de-breachforums-y-cierra-el-foro |
