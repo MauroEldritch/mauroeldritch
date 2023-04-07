@@ -174,3 +174,4 @@
 | 87 | InfoPico | Filtración de datos de hoteles | Spanish | https://www.infopico.com/2023/03/19/filtracion-de-datos-en-hoteles-afectaria-a-pampeanos-informacion-financiera-en-peligro/ |
 | 88 | SecOps | La caída de Breached | Spanish | https://juanbrodersen.substack.com/i/109462452/arrestan-a-uno-de-los-admin-de-breachforums-y-cierra-el-foro |
 | 89 | SecOps | Filtración de Montevideo Portal (UY) | Spanish | https://juanbrodersen.substack.com/i/111435546/filtracion-de-datos-en-uruguay |
+| 90 | SecOps | Desarticulan Genesis | Spanish | https://juanbrodersen.substack.com/i/112063526/desarticulan-genesis-un-importante-foro-hacker |
