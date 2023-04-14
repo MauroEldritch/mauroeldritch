@@ -175,3 +175,4 @@
 | 88 | SecOps | La caída de Breached | Spanish | https://juanbrodersen.substack.com/i/109462452/arrestan-a-uno-de-los-admin-de-breachforums-y-cierra-el-foro |
 | 89 | SecOps | Filtración de Montevideo Portal (UY) | Spanish | https://juanbrodersen.substack.com/i/111435546/filtracion-de-datos-en-uruguay |
 | 90 | SecOps | Desarticulan Genesis | Spanish | https://juanbrodersen.substack.com/i/112063526/desarticulan-genesis-un-importante-foro-hacker |
+| 91 | El País | Sobre una extraña botnet en Twitter (UY) | Spanish | https://www.elpais.com.uy/informacion/sociedad/de-romina-celeste-a-buysan-y-el-campeon-del-siglo-los-extranos-tuits-que-circularon-y-que-maniobra-hay-detras |
