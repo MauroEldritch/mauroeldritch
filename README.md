@@ -176,3 +176,4 @@
 | 89 | SecOps | Filtración de Montevideo Portal (UY) | Spanish | https://juanbrodersen.substack.com/i/111435546/filtracion-de-datos-en-uruguay |
 | 90 | SecOps | Desarticulan Genesis | Spanish | https://juanbrodersen.substack.com/i/112063526/desarticulan-genesis-un-importante-foro-hacker |
 | 91 | El País | Sobre una extraña botnet en Twitter (UY) | Spanish | https://www.elpais.com.uy/informacion/sociedad/de-romina-celeste-a-buysan-y-el-campeon-del-siglo-los-extranos-tuits-que-circularon-y-que-maniobra-hay-detras |
+| 92 | SecOps | Lockbit llega a Apple | Spanish | https://juanbrodersen.substack.com/i/115670067/lockbit-llega-a-apple |
