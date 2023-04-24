@@ -177,3 +177,4 @@
 | 90 | SecOps | Desarticulan Genesis | Spanish | https://juanbrodersen.substack.com/i/112063526/desarticulan-genesis-un-importante-foro-hacker |
 | 91 | El País | Sobre una extraña botnet en Twitter (UY) | Spanish | https://www.elpais.com.uy/informacion/sociedad/de-romina-celeste-a-buysan-y-el-campeon-del-siglo-los-extranos-tuits-que-circularon-y-que-maniobra-hay-detras |
 | 92 | SecOps | Lockbit llega a Apple | Spanish | https://juanbrodersen.substack.com/i/115670067/lockbit-llega-a-apple |
+| 93 | El Observador | Entrevista a Mauro Eldritch | Spanish | https://www.elobservador.com.uy/nota/el-trabajo-del-hacker-de-sombrero-blanco-que-revelo-filtraciones-del-estado-uruguayo-20234245042 |
