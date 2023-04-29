@@ -1,8 +1,9 @@
 ## About Me 
 
 - 🏴‍☠️ Hacker and Speaker. 
-- 🦾 DEF CON 5411 Leader.
+- 🦾 DEF CON 5411 / Birmingham Cyber Arms Leader.
 - 🐀 My villain pet is a Chinchilla (He is a villain too).
+- 🕵🏻‍♂️ Tox: EFE0009D94C6068FF5DE33458E1DF28658C1D3F643013ADD2B7ECEFA86529257E7BCA56F868D
 
 ## Talks
 |#| Date | Conference | 🏳 | Talk |
