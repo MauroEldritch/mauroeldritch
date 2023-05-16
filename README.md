@@ -70,6 +70,7 @@
 | 7 | Cadena Digital (UY) | Lanzan MeFiltraron Uruguay | Spanish | https://twitter.com/hlujanamaral/status/1626378586067283974 |
 | 8 | FM Del Sol (UY) | ¿Me hackearon? | Spanish | https://delsol.uy/facildesviarse/entrevista/me-hackearon |
 | 9 | Carve Media | Así funciona la web que te dice si tus datos fueron filtrados | Spanish | https://carve850.com.uy/2023/02/21/asi-funciona-la-web-que-te-dice-si-tus-datos-fueron-filtrados/ |
+| 10 | Radio Continental Córdoba | Filtración de la Policía de Córdoba | Spanish | https://mega.nz/file/5ZlyQbyB#ToHmx7fnlx2HeSigZTC5X4ve-9Mbkt_ctq45VEwyAl0 |
 
 ## Television
 |#| Show | Title | Language | Link |
