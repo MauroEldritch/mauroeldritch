@@ -182,3 +182,4 @@
 | 92 | SecOps | Lockbit llega a Apple | Spanish | https://juanbrodersen.substack.com/i/115670067/lockbit-llega-a-apple |
 | 93 | El Observador | Entrevista a Mauro Eldritch | Spanish | https://www.elobservador.com.uy/nota/el-trabajo-del-hacker-de-sombrero-blanco-que-revelo-filtraciones-del-estado-uruguayo-20234245042 |
 | 94 | SecOps | Filtran credenciales de 850 organismos | Spanish | https://juanbrodersen.substack.com/p/filtran-usuarios-y-claves-de-850-gob-gov-ar?utm_source=substack&utm_medium=email |
+| 95 | Cba24n | Filtración de la Policía de Córdoba | Spanish | https://www.cba24n.com.ar/sucesos/ciberseguridad--denuncian-la-venta-de-acceso-a-correos-electronico-de-la-policia-de-cordoba_a64637cb70f5cce2f64dc2625 |
