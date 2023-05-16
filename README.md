@@ -79,6 +79,7 @@
 | 1 | Equipo de Investigación (España) | Filtración de datos de Generación Zoe | Spanish | https://mega.nz/file/UQExURJB#72f5YLkaMQJw5rj5vJHqDwCGlS5ARAF6az_Sif7yACc |
 | 2 | TV Pública | MeFiltraron.com (Argentina) | Spanish | https://www.youtube.com/watch?v=HhlgKVa_8NU |
 | 3 | VTV Uruguay | Filtración al INAU | Spanish | https://www.youtube.com/watch?v=bgdhToEclE0 |
+| 4 | Canal 10 Córdoba | Filtración de la Policía de Córdoba | Spanish | https://mega.nz/file/tFFxyZ7K#g_v7JaK8QsRTpo8u4Ud2NlvmnrmqThHTFV3nv6ZPFR4 |
 
 ## Cybercrime Interviews
 |#| Interview | Language | Link |
