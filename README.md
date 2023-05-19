@@ -188,3 +188,5 @@
 | 96 | La Voz | Filtración de la Policía de Córdoba | Spanish | https://www.lavoz.com.ar/sucesos/cordoba-al-menos-dos-cuentas-de-correo-de-la-policia-fueron-hackeadas-y-quedaron-expuestas-en-internet/ |
 | 97 | El Doce TV | Filtración de la Policía de Córdoba | Spanish | https://eldoce.tv/sociedad/investigan-supuestas-filtraciones-datos-policia-cordoba-negaron-hackeo_148426 |
 | 98 | Diario Clarín | Lockbit vs Farmalink | Spanish | https://www.clarin.com/tecnologia/ciberataque-farmalink-lockbit-da-mes-pagar-rescate-publica-informacion-robada_0_Pp2h6FmSuv.html |
+| 99 | SecOps | Filtración de la Policía de Córdoba | Spanish | https://juanbrodersen.substack.com/i/121578034/ponen-a-la-venta-datos-de-la-policia-de-cordoba |
+| 100 | SecOps | FBI vs Matveev | Spanish | https://juanbrodersen.substack.com/i/121578034/el-fbi-paga-millones-por-una-de-las-cabezas-de-lockbit-y-hive |
