@@ -191,3 +191,4 @@
 | 99 | SecOps | Filtración de la Policía de Córdoba | Spanish | https://juanbrodersen.substack.com/i/121578034/ponen-a-la-venta-datos-de-la-policia-de-cordoba |
 | 100 | SecOps | FBI vs Matveev | Spanish | https://juanbrodersen.substack.com/i/121578034/el-fbi-paga-millones-por-una-de-las-cabezas-de-lockbit-y-hive |
 | 101 | El Observador | Filtración CASMU/1727 | Spanish | https://www.elobservador.com.uy/nota/filtran-datos-de-200-mil-usuarios-de-la-emergencia-medica-del-casmu-y-hackers-los-ponen-a-la-venta-en-internet-202352295653 |
+| 102 | SecOps | Más filtraciones en el Estado | Spanish | https://juanbrodersen.substack.com/i/123274333/mas-filtraciones-en-el-estado |
