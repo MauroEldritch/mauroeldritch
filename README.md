@@ -192,3 +192,4 @@
 | 100 | SecOps | FBI vs Matveev | Spanish | https://juanbrodersen.substack.com/i/121578034/el-fbi-paga-millones-por-una-de-las-cabezas-de-lockbit-y-hive |
 | 101 | El Observador | Filtración CASMU/1727 | Spanish | https://www.elobservador.com.uy/nota/filtran-datos-de-200-mil-usuarios-de-la-emergencia-medica-del-casmu-y-hackers-los-ponen-a-la-venta-en-internet-202352295653 |
 | 102 | SecOps | Más filtraciones en el Estado | Spanish | https://juanbrodersen.substack.com/i/123274333/mas-filtraciones-en-el-estado |
+| 103 | TN Tecno | Filtran una base de datos con 11 millones de registros | Spanish | https://tn.com.ar/tecno/novedades/2023/05/25/ciberataque-filtran-una-base-de-datos-con-11-millones-de-registros-de-ciudadanos-argentinos/ |
