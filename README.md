@@ -194,3 +194,4 @@
 | 102 | SecOps | Más filtraciones en el Estado | Spanish | https://juanbrodersen.substack.com/i/123274333/mas-filtraciones-en-el-estado |
 | 103 | TN Tecno | Filtran una base de datos con 11 millones de registros | Spanish | https://tn.com.ar/tecno/novedades/2023/05/25/ciberataque-filtran-una-base-de-datos-con-11-millones-de-registros-de-ciudadanos-argentinos/ |
 | 104 | Diario Perfil | Filtran una base de datos con 11 millones de registros | Spanish | https://www.perfil.com/noticias/actualidad/cibercrimen-publicaron-base-datos-11-millones-registros-ciudadanos-argentinos.phtml |
+| 105 | M24 (UY) | Filtración de Antel | Spanish | https://www.m24.com.uy/antel-vulnerado-hacker-asegura-que-posee-informacion-sobre-5-000-clientes/ |
