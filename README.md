@@ -73,6 +73,7 @@
 | 10 | Radio Continental Córdoba | Filtración de la Policía de Córdoba | Spanish | https://mega.nz/file/5ZlyQbyB#ToHmx7fnlx2HeSigZTC5X4ve-9Mbkt_ctq45VEwyAl0 |
 | 11 | Radio Suquía | Filtración de la Policía de Córdoba | Spanish | https://mega.nz/file/VU9yhDpJ#21avsCJm6iH0DVvg1KJiBx7ySU08Dqc4WFoX9zZacUc |
 | 12 | Radio Nacional Córdoba | Filtración de la Policía de Córdoba | Spanish | https://mega.nz/file/FJFSAYZS#C8xHAX2PsAV1ITZmb5wkRrccuMKVL-Y0zIZB_ddzeVc | 
+| 13 | Radio y Televisión de Neuquén | Filtración del Hospital de Neuquén | Spanish | https://mega.nz/file/oc1WwDpA#kLPKe3_69W2E0l8GY51V_w5PCiwitW6U7nft1Z_qVTA |
 
 ## Television
 |#| Show | Title | Language | Link |
