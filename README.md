@@ -197,3 +197,4 @@
 | 105 | M24 (UY) | Filtración de Antel | Spanish | https://www.m24.com.uy/antel-vulnerado-hacker-asegura-que-posee-informacion-sobre-5-000-clientes/ |
 | 106 | El Observador | Filtración de Antel | Spanish | https://www.elobservador.com.uy/nota/falla-en-app-de-antel-dejo-al-descubierto-datos-personales-de-5-mil-clientes-2023531145545 |
 | 107 | Diario de Río Negro | Filtración del Hospital de Neuquén | Spanish | https://www.rionegro.com.ar/sociedad/hackeo-al-hospital-mas-grande-de-neuquen-que-paso-en-el-castro-rendon-2954147/ |
+| 108 | LM Neuquén | Filtración del Hospital de Neuquén | Spanish | https://www.lmneuquen.com/robaron-los-datos-mas-cien-mil-pacientes-del-castro-rendon-n1029399 |
