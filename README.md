@@ -73,6 +73,7 @@
 | 11 | Radio Suquía | Filtración de la Policía de Córdoba | Spanish | https://mega.nz/file/VU9yhDpJ#21avsCJm6iH0DVvg1KJiBx7ySU08Dqc4WFoX9zZacUc |
 | 12 | Radio Nacional Córdoba | Filtración de la Policía de Córdoba | Spanish | https://mega.nz/file/FJFSAYZS#C8xHAX2PsAV1ITZmb5wkRrccuMKVL-Y0zIZB_ddzeVc | 
 | 13 | Radio y Televisión de Neuquén | Filtración del Hospital de Neuquén | Spanish | https://mega.nz/file/oc1WwDpA#kLPKe3_69W2E0l8GY51V_w5PCiwitW6U7nft1Z_qVTA |
+| 14 | Radio Aire de Neuquén | Filtración del Hospital de Neuquén | Spanish | https://mega.nz/file/EcNW3IRI#4EUv3e-m018n-8mtGknJPn9aW1fOpbpGl4jy5k6HyDg |
 
 ## Television
 |#| Show | Title | Language | Link |
@@ -199,3 +200,4 @@
 | 107 | Diario de Río Negro | Filtración del Hospital de Neuquén | Spanish | https://www.rionegro.com.ar/sociedad/hackeo-al-hospital-mas-grande-de-neuquen-que-paso-en-el-castro-rendon-2954147/ |
 | 108 | LM Neuquén | Filtración del Hospital de Neuquén | Spanish | https://www.lmneuquen.com/robaron-los-datos-mas-cien-mil-pacientes-del-castro-rendon-n1029399 |
 | 109 | Bariloche Opina | Filtración del Hospital de Neuquén | Spanish | https://www.barilocheopina.com/noticias/2023/06/07/66871-neuquen-hackers-robaron-los-datos-de-mas-de-cien-mil-pacientes-del-hospital-castro-rendon |
+| 110 | Bariloche 2000 | Filtración del Hospital de Neuquén | Spanish | https://www.bariloche2000.com/noticias/leer/ciberdelito-en-hospital-de-neuquen-robaron-las-historias-clinicas-de-mas-de-cien-mil-pacientes/147337/amp |
