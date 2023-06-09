@@ -201,3 +201,4 @@
 | 108 | LM Neuquén | Filtración del Hospital de Neuquén | Spanish | https://www.lmneuquen.com/robaron-los-datos-mas-cien-mil-pacientes-del-castro-rendon-n1029399 |
 | 109 | Bariloche Opina | Filtración del Hospital de Neuquén | Spanish | https://www.barilocheopina.com/noticias/2023/06/07/66871-neuquen-hackers-robaron-los-datos-de-mas-de-cien-mil-pacientes-del-hospital-castro-rendon |
 | 110 | Bariloche 2000 | Filtración del Hospital de Neuquén | Spanish | https://www.bariloche2000.com/noticias/leer/ciberdelito-en-hospital-de-neuquen-robaron-las-historias-clinicas-de-mas-de-cien-mil-pacientes/147337/amp |
+| 111 | Austral News | Filtración del Hospital de Neuquén | Spanish | https://australnews.com.ar/nota/6048/por-un-ataque-hacker-robaron-datos-de-mas-de-cien-mil-pacientes-del-principal-hospital-de-neuquen/ |
