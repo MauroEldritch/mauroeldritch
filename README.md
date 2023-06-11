@@ -203,3 +203,6 @@
 | 110 | Bariloche 2000 | Filtración del Hospital de Neuquén | Spanish | https://www.bariloche2000.com/noticias/leer/ciberdelito-en-hospital-de-neuquen-robaron-las-historias-clinicas-de-mas-de-cien-mil-pacientes/147337/amp |
 | 111 | Austral News | Filtración del Hospital de Neuquén | Spanish | https://australnews.com.ar/nota/6048/por-un-ataque-hacker-robaron-datos-de-mas-de-cien-mil-pacientes-del-principal-hospital-de-neuquen/ |
 | 112 | Diario Clarín | Medusa vs Comisión Nacional de Valores | Spanish | https://www.clarin.com/tecnologia/hackers-agregan-lista-victimas-comision-nacional-valores-dicen-datos-sensibles_0_Xt8o8JFJrU.html |
+| 113 | Diario Popular | Medusa vs Comisión Nacional de Valores | Spanish | https://www.diariopopular.com.ar/policiales/criminales-hackearon-la-comision-nacional-valores-y-amenazan-difundir-datos-n720991 |
+| 114 | Diario de Río Negro | Medusa vs Comisión Nacional de Valores | Spanish | https://www.rionegro.com.ar/economia/hackearon-a-la-comision-nacional-de-valores-piden-us-500-mil-para-no-revelar-datos-sensibles-2961889/ |
+| 115 | SecOps | Medusa vs Comisión Nacional de Valores | Spanish | https://juanbrodersen.substack.com/i/127598533/el-grupo-de-ransomware-medusa-sumo-a-la-cnv-de-argentina-entre-sus-victimas |
