@@ -207,3 +207,4 @@
 | 114 | Diario de Río Negro | Medusa vs Comisión Nacional de Valores | Spanish | https://www.rionegro.com.ar/economia/hackearon-a-la-comision-nacional-de-valores-piden-us-500-mil-para-no-revelar-datos-sensibles-2961889/ |
 | 115 | SecOps | Medusa vs Comisión Nacional de Valores | Spanish | https://juanbrodersen.substack.com/i/127598533/el-grupo-de-ransomware-medusa-sumo-a-la-cnv-de-argentina-entre-sus-victimas |
 | 116 | Lu5AM | Filtración del Hospital de Neuquén | Spanish | https://lu5am.com/hackearon-al-hospital-de-mayor-complejidad-de-la-patagonia/ |
+| 117 | SecOps | Medusa vs Comisión Nacional de Valores | Spanish | https://juanbrodersen.substack.com/i/127803389/el-grupo-de-ransomware-medusa-publico-los-datos-de-la-cnv |
