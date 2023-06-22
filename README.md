@@ -210,3 +210,4 @@
 | 116 | Lu5AM | Filtración del Hospital de Neuquén | Spanish | https://lu5am.com/hackearon-al-hospital-de-mayor-complejidad-de-la-patagonia/ |
 | 117 | SecOps | Medusa vs Comisión Nacional de Valores | Spanish | https://juanbrodersen.substack.com/i/127803389/el-grupo-de-ransomware-medusa-publico-los-datos-de-la-cnv |
 | 118 | Diario Clarín | Medusa vs Comisión Nacional de Valores | Spanish | https://www.clarin.com/tecnologia/publicaron-archivos-robados-comision-nacional-valores-informacion-sensible-datos-privados_0_4EL06yMc7u.html |
+| 119 | VTV Uruguay | En La Mira: Entrevista | Spanish | https://vtv.com.uy/seguridad-informatica-una-debilidad-del-estado-entrevista-al-hacker-mauro-eldritch/ |
