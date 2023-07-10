@@ -212,3 +212,4 @@
 | 118 | Diario Clarín | Medusa vs Comisión Nacional de Valores | Spanish | https://www.clarin.com/tecnologia/publicaron-archivos-robados-comision-nacional-valores-informacion-sensible-datos-privados_0_4EL06yMc7u.html |
 | 119 | VTV Uruguay | En La Mira: Entrevista | Spanish | https://vtv.com.uy/seguridad-informatica-una-debilidad-del-estado-entrevista-al-hacker-mauro-eldritch/ |
 | 120 | SecOps | Más datos filtrados a la venta en Argentina | Spanish | https://juanbrodersen.substack.com/i/131960297/mas-datos-filtrados-a-la-venta-en-argentina |
+| 121 | El País (UY) | Ataques en Redes Sociales | Spanish | https://www.elpais.com.uy/que-pasa/de-florencia-astori-a-insultos-contra-judios-en-que-casos-los-ataques-en-redes-sociales-llegan-a-la-justicia | 
