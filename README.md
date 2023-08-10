@@ -47,6 +47,7 @@
 | 38 | 2021 | Hacking Bolivia | 🇧🇴 | 🏹 [Venator: Hunting & smashing trolls on Twitter](https://github.com/mauroeldritch/venator) |
 | 39 | 2022 | **DEF CON 30 VR** | 🇺🇸 | 🎲 [Exploits & Dragons](https://github.com/dc5411/EnD) |
 | 40 | 2022 | DragonJAR Manizales | 🇨🇴 | 🌉 [Nuevas amenazas en el mundo crypto](https://github.com/mauroeldritch/QuemandoLosPuentes) |
+| 41 | 2022 | **DEF CON 31 RV** | 🇺🇸| 🐴 [Riding with the Chollimas](https://github.com/birminghamcyberarms/QRLog) |
 
 ## CVEs
 |#| CVE | Vulnerability | Short Name | Score | Product | Link |
@@ -84,7 +85,7 @@
 | 4 | Canal 10 Córdoba | Filtración de la Policía de Córdoba | Spanish | https://mega.nz/file/tFFxyZ7K#g_v7JaK8QsRTpo8u4Ud2NlvmnrmqThHTFV3nv6ZPFR4 |
 | 5 | VTV Uruguay | En La Mira: Entrevista | Spanish | https://mega.nz/file/cNsDBLgC#4idgxAPYl09xj_KRp_kKpZB_Rp3XKxYhuq4iPlSjvZA |
 
-## Cybercrime Interviews
+## Ransomware Interviews
 |#| Interview | Language | Link |
 |---|---|---|---|
 | 1 | Vice Society | English & Spanish | https://github.com/mauroeldritch/vicesociety |
@@ -217,3 +218,8 @@
 | 123 | Diario Clarín | Descubrimiento de QRLOG | Spanish | https://www.clarin.com/tecnologia/hecho-corea-norte-descubren-nuevo-virus-funciona-molotov-digital_0_fR36LRX5mj.html |
 | 124 | SecOps | QRLOG en DEF CON | Spanish | https://juanbrodersen.substack.com/i/135629042/defcon-y-black-hat-cobertura-especial-de-secops-del-al-de-agosto |
 | 125 | Diario Clarín | DC5411 y DEF CON | Spanish | https://www.clarin.com/tecnologia/defcon-31-comienza-conferencia-hackers-grande-mundo_0_3M4bAQWQD2.html |
+
+## Birmingham Cyber Arms LTD Media Coverage
+|Link |
+|---|
+|See [Press Releases](https://github.com/BirminghamCyberArms/Press)|
