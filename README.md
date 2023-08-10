@@ -2,7 +2,7 @@
 
 - 🏴‍☠️ Hacker and Speaker. 
 - 🦾 DEF CON 5411 / Birmingham Cyber Arms Leader.
-- 🐀 My villain pet is a Chinchilla (He is a villain too).
+- 🦮 My partner in crime is a Golden Retriever.
 
 ## Talks
 |#| Date | Conference | 🏳 | Talk |
