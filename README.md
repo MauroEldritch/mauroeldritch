@@ -58,7 +58,8 @@
 | 4 | CVE-2020-8821 | *HTML Injection* | - | 5.4 | Webmin | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-8821 |
 | 5 | CVE-2020-12670 | *XSS* | - | 6.1 | Webmin | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-12670 |
 
-## Podcasts & Radio
+## Media
+### Podcasts & Radio
 |#| Show | Title | Language | Link |
 |---|---|---|---|---|
 | 1 | Se Tildó | Confesiones de un Troll | Spanish | https://open.spotify.com/episode/7rul6ok4jPSvRaedUulPLs |
@@ -76,7 +77,7 @@
 | 13 | Radio y Televisión de Neuquén | Filtración del Hospital de Neuquén | Spanish | https://mega.nz/file/oc1WwDpA#kLPKe3_69W2E0l8GY51V_w5PCiwitW6U7nft1Z_qVTA |
 | 14 | Radio Aire de Neuquén | Filtración del Hospital de Neuquén | Spanish | https://mega.nz/file/EcNW3IRI#4EUv3e-m018n-8mtGknJPn9aW1fOpbpGl4jy5k6HyDg |
 
-## Television
+### Television
 |#| Show | Title | Language | Link |
 |---|---|---|---|---|
 | 1 | Equipo de Investigación (España) | Filtración de datos de Generación Zoe | Spanish | https://mega.nz/file/UQExURJB#72f5YLkaMQJw5rj5vJHqDwCGlS5ARAF6az_Sif7yACc |
@@ -85,12 +86,12 @@
 | 4 | Canal 10 Córdoba | Filtración de la Policía de Córdoba | Spanish | https://mega.nz/file/tFFxyZ7K#g_v7JaK8QsRTpo8u4Ud2NlvmnrmqThHTFV3nv6ZPFR4 |
 | 5 | VTV Uruguay | En La Mira: Entrevista | Spanish | https://mega.nz/file/cNsDBLgC#4idgxAPYl09xj_KRp_kKpZB_Rp3XKxYhuq4iPlSjvZA |
 
-## Ransomware Interviews
+### Ransomware Interviews
 |#| Interview | Language | Link |
 |---|---|---|---|
 | 1 | Vice Society | English & Spanish | https://github.com/mauroeldritch/vicesociety |
 
-## Media
+### Newspapers
 |#| Agency | Title | Language | Link |
 |---|---|---|---|---|
 | 1 | TN | Cómo funciona el aparato de propaganda en las redes sociales | Spanish | https://tn.com.ar/podcasts/2021/03/11/confesiones-de-un-troll-como-funciona-el-aparato-de-propaganda-en-las-redes-sociales/ |
@@ -219,7 +220,7 @@
 | 124 | SecOps | QRLOG en DEF CON | Spanish | https://juanbrodersen.substack.com/i/135629042/defcon-y-black-hat-cobertura-especial-de-secops-del-al-de-agosto |
 | 125 | Diario Clarín | DC5411 y DEF CON | Spanish | https://www.clarin.com/tecnologia/defcon-31-comienza-conferencia-hackers-grande-mundo_0_3M4bAQWQD2.html |
 
-## Birmingham Cyber Arms LTD Media Coverage
+### Birmingham Cyber Arms LTD Media Coverage
 |Link |
 |---|
 |See [Press Releases](https://github.com/BirminghamCyberArms/Press)|
