@@ -223,6 +223,7 @@
 | 127 | La Opinión Semanario | Akira vs Papel Prensa SA | Spanish | https://www.laopinionsemanario.com.ar/noticia/ciberataque-a-papel-prensa-planean-la-liberacion-de-informacion-confidencial-en-los-proximos-dias/ |
 | 128 | SecOps | QRLOG en DEF CON 31 | Spanish | https://juanbrodersen.substack.com/p/defcon-31-dia-3-todo-pasa-en-las#%C2%A7las-villas-el-espiritu-de-defcon-hackeo-a-todo-lo-que-se-te-ocurra-y-largas-filas-para-escuchar-a-expertos |
 | 129 | Diario Clarín | QRLOG en DEF CON 31 | Spanish | https://www.clarin.com/tecnologia/defcon-24-mil-asistentes-reclamo-lugar-grande-conferencia-hackers-grande-mundo-cerro-edicion-31_0_deTrGRbLjs.html |
+| 130 | Diario Clarín | Rhysida vs PAMI | Spanish | https://www.clarin.com/tecnologia/hackeo-pami-sabe-rhysida-grupo-pide-700-mil-dolares-publicar-datos-robados_0_CPSytOgpS5.html |
 
 ### Birmingham Cyber Arms LTD Media Coverage
 |Link |
