@@ -219,6 +219,10 @@
 | 123 | Diario Clarín | Descubrimiento de QRLOG | Spanish | https://www.clarin.com/tecnologia/hecho-corea-norte-descubren-nuevo-virus-funciona-molotov-digital_0_fR36LRX5mj.html |
 | 124 | SecOps | QRLOG en DEF CON | Spanish | https://juanbrodersen.substack.com/i/135629042/defcon-y-black-hat-cobertura-especial-de-secops-del-al-de-agosto |
 | 125 | Diario Clarín | DC5411 y DEF CON | Spanish | https://www.clarin.com/tecnologia/defcon-31-comienza-conferencia-hackers-grande-mundo_0_3M4bAQWQD2.html |
+| 126 | La Opinión Semanario | Akira vs Papel Prensa SA | Spanish | https://www.laopinionsemanario.com.ar/noticia/ciberataque-a-papel-prensa-el-grupo-akira-se-atribuyo-el-secuestro-de-datos/ |
+| 127 | La Opinión Semanario | Akira vs Papel Prensa SA | Spanish | https://www.laopinionsemanario.com.ar/noticia/ciberataque-a-papel-prensa-planean-la-liberacion-de-informacion-confidencial-en-los-proximos-dias/ |
+| 128 | SecOps | QRLOG en DEF CON 31 | Spanish | https://juanbrodersen.substack.com/p/defcon-31-dia-3-todo-pasa-en-las#%C2%A7las-villas-el-espiritu-de-defcon-hackeo-a-todo-lo-que-se-te-ocurra-y-largas-filas-para-escuchar-a-expertos |
+| 129 | Diario Clarín | QRLOG en DEF CON 31 | Spanish | https://www.clarin.com/tecnologia/defcon-24-mil-asistentes-reclamo-lugar-grande-conferencia-hackers-grande-mundo-cerro-edicion-31_0_deTrGRbLjs.html |
 
 ### Birmingham Cyber Arms LTD Media Coverage
 |Link |
