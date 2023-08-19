@@ -225,6 +225,7 @@
 | 129 | Diario Clarín | QRLOG en DEF CON 31 | Spanish | https://www.clarin.com/tecnologia/defcon-24-mil-asistentes-reclamo-lugar-grande-conferencia-hackers-grande-mundo-cerro-edicion-31_0_deTrGRbLjs.html |
 | 130 | Diario Clarín | Rhysida vs PAMI | Spanish | https://www.clarin.com/tecnologia/hackeo-pami-sabe-rhysida-grupo-pide-700-mil-dolares-publicar-datos-robados_0_CPSytOgpS5.html |
 | 131 | Diario con Vos | Akira vs Papel Prensa SA | Spanish | https://www.diarioconvos.com/2023/08/17/ataque-hacker-al-pami-piden-735-mil-dolares-a-cambio-de-no-publicar-datos-de-millones-de-usuarios/ |
+| 132 | Diario Clarín | Rhysida vs PAMI | Spanish | https://www.clarin.com/tecnologia/hackeo-pami-ciberdelincuentes-publican-informacion-robada-historias-clinicas-estudios-datos-personales_0_oVEAPipTS0.html |
 
 ### Birmingham Cyber Arms LTD Media Coverage
 |Link |
