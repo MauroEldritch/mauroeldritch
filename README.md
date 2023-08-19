@@ -76,6 +76,7 @@
 | 12 | Radio Nacional Córdoba | Filtración de la Policía de Córdoba | Spanish | https://mega.nz/file/FJFSAYZS#C8xHAX2PsAV1ITZmb5wkRrccuMKVL-Y0zIZB_ddzeVc | 
 | 13 | Radio y Televisión de Neuquén | Filtración del Hospital de Neuquén | Spanish | https://mega.nz/file/oc1WwDpA#kLPKe3_69W2E0l8GY51V_w5PCiwitW6U7nft1Z_qVTA |
 | 14 | Radio Aire de Neuquén | Filtración del Hospital de Neuquén | Spanish | https://mega.nz/file/EcNW3IRI#4EUv3e-m018n-8mtGknJPn9aW1fOpbpGl4jy5k6HyDg |
+| 15 | Sin Galera | Ciberataque a Papel Prensa SA | Spanish | https://www.youtube.com/live/J9VPTA-5gs0?si=j3qPHt1JTKNo4USN |
 
 ### Television
 |#| Show | Title | Language | Link |
