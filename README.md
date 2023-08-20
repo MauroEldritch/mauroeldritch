@@ -228,6 +228,8 @@
 | 131 | Diario con Vos | Akira vs Papel Prensa SA | Spanish | https://www.diarioconvos.com/2023/08/17/ataque-hacker-al-pami-piden-735-mil-dolares-a-cambio-de-no-publicar-datos-de-millones-de-usuarios/ |
 | 132 | Diario Clarín | Rhysida vs PAMI | Spanish | https://www.clarin.com/tecnologia/hackeo-pami-ciberdelincuentes-publican-informacion-robada-historias-clinicas-estudios-datos-personales_0_oVEAPipTS0.html |
 | 133 | La Opinión Semanario | Akira vs Papel Prensa SA | Spanish | https://www.laopinionsemanario.com.ar/noticia/ciberataque-a-papel-prensa-que-saben-y-como-fueron-los-pasos-que-dieron-los-hackers/ |
+| 134 | La Voz | Rhysida vs PAMI | Spanish | https://www.lavoz.com.ar/politica/hackeo-al-pami-ciberdelincuentes-publicaron-la-informacion-robada/ |
+| 135 | Diario San Rafael | Rhysida vs PAMI | Spanish | https://diariosanrafael.com.ar/hackeo-al-pami-delincuentes-publicaron-datos-sensibles-e-historias-clinicas-de-los-afiliados/ |
 
 ### Birmingham Cyber Arms LTD Media Coverage
 |Link |
