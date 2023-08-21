@@ -230,6 +230,7 @@
 | 133 | La Opinión Semanario | Akira vs Papel Prensa SA | Spanish | https://www.laopinionsemanario.com.ar/noticia/ciberataque-a-papel-prensa-que-saben-y-como-fueron-los-pasos-que-dieron-los-hackers/ |
 | 134 | La Voz | Rhysida vs PAMI | Spanish | https://www.lavoz.com.ar/politica/hackeo-al-pami-ciberdelincuentes-publicaron-la-informacion-robada/ |
 | 135 | Diario San Rafael | Rhysida vs PAMI | Spanish | https://diariosanrafael.com.ar/hackeo-al-pami-delincuentes-publicaron-datos-sensibles-e-historias-clinicas-de-los-afiliados/ |
+| 136 | La Opinión Semanario | Rhysida vs PAMI | Spanish | https://www.laopinionsemanario.com.ar/noticia/ciberataques-que-dijo-sobre-los-hackeos-y-filtracion-de-credenciales-de-papel-prensa-mauro-eldricht/ |
 
 ### Birmingham Cyber Arms LTD Media Coverage
 |Link |
