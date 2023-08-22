@@ -233,7 +233,8 @@
 | 135 | Diario San Rafael | Rhysida vs PAMI | Spanish | https://diariosanrafael.com.ar/hackeo-al-pami-delincuentes-publicaron-datos-sensibles-e-historias-clinicas-de-los-afiliados/ |
 | 136 | La Opinión Semanario | Rhysida vs PAMI | Spanish | https://www.laopinionsemanario.com.ar/noticia/ciberataques-que-dijo-sobre-los-hackeos-y-filtracion-de-credenciales-de-papel-prensa-mauro-eldricht/ |
 | 137 | Coin Telegraph | Rhysida vs PAMI | Spanish | https://es.cointelegraph.com/news/criminal-group-exposes-sensitive-pami-data-after-not-receiving-demanded-ransom |
-|138 | Criptonoticias | Hackers publican datos de ciudadanos y del Estado Argentino | Spanish | https://www.criptonoticias.com/seguridad-bitcoin/hackers-roban-publican-datos-ciudadanos-estado-argentino/ |
+| 138 | Criptonoticias | Hackers publican datos de ciudadanos y del Estado Argentino | Spanish | https://www.criptonoticias.com/seguridad-bitcoin/hackers-roban-publican-datos-ciudadanos-estado-argentino/ |
+| 139 | Radio Mitre | Rhysida vs PAMI | Spanish | https://radiomitre.cienradios.com/sociedad/hackeo-al-pami-delincuentes-publicaron-datos-sensibles-e-historias-clinicas-de-los-afiliados/ |
 
 ### Birmingham Cyber Arms LTD Media Coverage
 |Link |
