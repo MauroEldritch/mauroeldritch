@@ -77,6 +77,7 @@
 | 13 | Radio y Televisión de Neuquén | Filtración del Hospital de Neuquén | Spanish | https://mega.nz/file/oc1WwDpA#kLPKe3_69W2E0l8GY51V_w5PCiwitW6U7nft1Z_qVTA |
 | 14 | Radio Aire de Neuquén | Filtración del Hospital de Neuquén | Spanish | https://mega.nz/file/EcNW3IRI#4EUv3e-m018n-8mtGknJPn9aW1fOpbpGl4jy5k6HyDg |
 | 15 | Sin Galera | Ciberataque a Papel Prensa SA | Spanish | https://www.youtube.com/live/J9VPTA-5gs0?si=j3qPHt1JTKNo4USN |
+| 16 | Lo que importa | Ciberataque a Papel Prensa SA | Spanish | https://youtu.be/LqHPsnW_iZc?si=krfVYUxigQwyRKjN&t=280 |
 
 ### Television
 |#| Show | Title | Language | Link |
