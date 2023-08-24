@@ -226,7 +226,7 @@
 | 128 | SecOps | QRLOG en DEF CON 31 | Spanish | https://juanbrodersen.substack.com/p/defcon-31-dia-3-todo-pasa-en-las#%C2%A7las-villas-el-espiritu-de-defcon-hackeo-a-todo-lo-que-se-te-ocurra-y-largas-filas-para-escuchar-a-expertos |
 | 129 | Diario Clarín | QRLOG en DEF CON 31 | Spanish | https://www.clarin.com/tecnologia/defcon-24-mil-asistentes-reclamo-lugar-grande-conferencia-hackers-grande-mundo-cerro-edicion-31_0_deTrGRbLjs.html |
 | 130 | Diario Clarín | Rhysida vs PAMI | Spanish | https://www.clarin.com/tecnologia/hackeo-pami-sabe-rhysida-grupo-pide-700-mil-dolares-publicar-datos-robados_0_CPSytOgpS5.html |
-| 131 | Diario con Vos | Akira vs Papel Prensa SA | Spanish | https://www.diarioconvos.com/2023/08/17/ataque-hacker-al-pami-piden-735-mil-dolares-a-cambio-de-no-publicar-datos-de-millones-de-usuarios/ |
+| 131 | Diario con Vos | Rhysida vs PAMI | Spanish | https://www.diarioconvos.com/2023/08/17/ataque-hacker-al-pami-piden-735-mil-dolares-a-cambio-de-no-publicar-datos-de-millones-de-usuarios/ |
 | 132 | Diario Clarín | Rhysida vs PAMI | Spanish | https://www.clarin.com/tecnologia/hackeo-pami-ciberdelincuentes-publican-informacion-robada-historias-clinicas-estudios-datos-personales_0_oVEAPipTS0.html |
 | 133 | La Opinión Semanario | Akira vs Papel Prensa SA | Spanish | https://www.laopinionsemanario.com.ar/noticia/ciberataque-a-papel-prensa-que-saben-y-como-fueron-los-pasos-que-dieron-los-hackers/ |
 | 134 | La Voz | Rhysida vs PAMI | Spanish | https://www.lavoz.com.ar/politica/hackeo-al-pami-ciberdelincuentes-publicaron-la-informacion-robada/ |
