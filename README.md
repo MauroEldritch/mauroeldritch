@@ -236,6 +236,7 @@
 | 138 | Criptonoticias | Hackers publican datos de ciudadanos y del Estado Argentino | Spanish | https://www.criptonoticias.com/seguridad-bitcoin/hackers-roban-publican-datos-ciudadanos-estado-argentino/ |
 | 139 | Radio Mitre | Rhysida vs PAMI | Spanish | https://radiomitre.cienradios.com/sociedad/hackeo-al-pami-delincuentes-publicaron-datos-sensibles-e-historias-clinicas-de-los-afiliados/ |
 | 140 | Diario Clarín | Rhysida vs PAMI | Spanish | https://www.clarin.com/tecnologia/alerta-posibles-estafas-hackeo-pami-protegerse-prevenir-enganos_0_z6JIeyc6lA.html |
+| 141 | SecOps | Rhysida vs PAMI | Spanish | https://juanbrodersen.substack.com/p/pami-que-datos-de-los-jubilados-se |
 
 ### Birmingham Cyber Arms LTD Media Coverage
 |Link |
