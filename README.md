@@ -241,6 +241,10 @@
 | 143 | The Hacker News | North Korean Hackers Deploy New Malicious Python Packages in PyPI Repository | English | https://thehackernews.com/2023/08/north-korean-hackers-deploy-new.html |
 | 144 | El Observador | Lockbit vs Guyer (UY) | Spanish | https://www.elobservador.com.uy/nota/hackearon-informacion-del-estudio-juridico-guyer-regules-y-piden-us-300-000-de-rescate-202391131453 |
 | 145 | Teledoce | Lockbit vs Guyer (UY) | Spanish | https://www.teledoce.com/telemundo/nacionales/hackearon-al-estudio-juridico-guyerregules-y-reclaman-us-300-000-de-rescate/ |
+| 146 | Subrayado | Lockbit vs Guyer (UY) | Spanish | https://www.subrayado.com.uy/estudio-juridico-fue-victima-ciberataque-y-hackers-exigen-usd-300000-no-divulgar-informacion-n924793 |
+| 147 | La Diaria | Lockbit vs Guyer (UY) | Spanish | https://ladiaria.com.uy/politica/articulo/2023/9/hackearon-informacion-del-estudio-juridico-guyer-y-regules-y-piden-rescate-la-empresa-ya-presento-la-denuncia/ |
+| 148 | Montevideo Portal | Lockbit vs Guyer (UY) | Spanish | https://www.montevideo.com.uy/Ciencia-y-Tecnologia/Guyer--Regules-sufrio-intento-de-ciberataque-aunque-sin-evidencia-de-informacion-robada-uc864335 |
+| 149 | Caras y Caretas | Lockbit vs Guyer (UY) | Spanish | https://www.carasycaretas.com.uy/sociedad/hackearon-el-estudio-guyer-y-regules-e-intentaron-robar-archivos-confidenciales-n66084 |
 
 ### Birmingham Cyber Arms LTD Media Coverage
 |Link |
