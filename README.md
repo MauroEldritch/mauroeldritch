@@ -238,6 +238,7 @@
 | 140 | Diario Clarín | Rhysida vs PAMI | Spanish | https://www.clarin.com/tecnologia/alerta-posibles-estafas-hackeo-pami-protegerse-prevenir-enganos_0_z6JIeyc6lA.html |
 | 141 | SecOps | Rhysida vs PAMI | Spanish | https://juanbrodersen.substack.com/p/pami-que-datos-de-los-jubilados-se |
 | 142 | Cybernews | North Korean malicious package targets Windows| English | https://cybernews.com/security/north-korea-malicious-package-windows/ |
+| 143 | The Hacker News | North Korean Hackers Deploy New Malicious Python Packages in PyPI Repository | English | https://thehackernews.com/2023/08/north-korean-hackers-deploy-new.html |
 
 ### Birmingham Cyber Arms LTD Media Coverage
 |Link |
