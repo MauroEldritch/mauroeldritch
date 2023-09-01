@@ -239,6 +239,7 @@
 | 141 | SecOps | Rhysida vs PAMI | Spanish | https://juanbrodersen.substack.com/p/pami-que-datos-de-los-jubilados-se |
 | 142 | Cybernews | North Korean malicious package targets Windows| English | https://cybernews.com/security/north-korea-malicious-package-windows/ |
 | 143 | The Hacker News | North Korean Hackers Deploy New Malicious Python Packages in PyPI Repository | English | https://thehackernews.com/2023/08/north-korean-hackers-deploy-new.html |
+| 144 | El Observador | Lockbit vs Guyer (UY) | Spanish | https://www.elobservador.com.uy/nota/hackearon-informacion-del-estudio-juridico-guyer-regules-y-piden-us-300-000-de-rescate-202391131453 |
 
 ### Birmingham Cyber Arms LTD Media Coverage
 |Link |
