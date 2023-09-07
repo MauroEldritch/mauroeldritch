@@ -86,7 +86,8 @@
 | 2 | TV Pública | MeFiltraron.com (Argentina) | Spanish | https://www.youtube.com/watch?v=HhlgKVa_8NU |
 | 3 | VTV Uruguay | Filtración al INAU | Spanish | https://www.youtube.com/watch?v=bgdhToEclE0 |
 | 4 | Canal 10 Córdoba | Filtración de la Policía de Córdoba | Spanish | https://mega.nz/file/tFFxyZ7K#g_v7JaK8QsRTpo8u4Ud2NlvmnrmqThHTFV3nv6ZPFR4 |
-| 5 | VTV Uruguay | En La Mira: Entrevista | Spanish | https://mega.nz/file/cNsDBLgC#4idgxAPYl09xj_KRp_kKpZB_Rp3XKxYhuq4iPlSjvZA |
+| 5 | VTV Uruguay | En La Mira: Entrevista | Spanish | https://www.youtube.com/watch?v=U_-Djrb5R2Q |
+| 6 | VTV Uruguay | En La Mira: Caso Guyer & Regules | Spanish | https://vtv.com.uy/los-hackers-atacan-de-nuevo-en-uruguay-entrevista-al-hacker-mauro-eldritch/ |
 
 ### Ransomware Interviews
 |#| Interview | Language | Link |
