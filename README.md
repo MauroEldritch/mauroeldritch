@@ -248,6 +248,7 @@
 | 149 | Caras y Caretas | Lockbit vs Guyer (UY) | Spanish | https://www.carasycaretas.com.uy/sociedad/hackearon-el-estudio-guyer-y-regules-e-intentaron-robar-archivos-confidenciales-n66084 |
 | 150 | El Observador | Lockbit vs Guyer (UY) | Spanish | https://www.elobservador.com.uy/nota/guyer-y-regules-ya-habia-sufrido-ciberataques-antes-del-ultimo-hackeo-20239616530 |
 | 151 | SecOps | Lockbit vs Guyer (UY) | Spanish | https://juanbrodersen.substack.com/i/136814148/lockbit-muy-activo-y-con-victimas-latinoamericanas |
+| 152 | SOC Radar | Who is Lazarus Group? | English | https://socradar.io/apt-profile-who-is-lazarus-group/ |
 
 ### Birmingham Cyber Arms LTD Media Coverage
 |Link |
