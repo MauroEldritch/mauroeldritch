@@ -249,6 +249,7 @@
 | 150 | El Observador | Lockbit vs Guyer (UY) | Spanish | https://www.elobservador.com.uy/nota/guyer-y-regules-ya-habia-sufrido-ciberataques-antes-del-ultimo-hackeo-20239616530 |
 | 151 | SecOps | Lockbit vs Guyer (UY) | Spanish | https://juanbrodersen.substack.com/i/136814148/lockbit-muy-activo-y-con-victimas-latinoamericanas |
 | 152 | SOC Radar | Who is Lazarus Group? | English | https://socradar.io/apt-profile-who-is-lazarus-group/ |
+| 153 | SecOps | QRLOG @ Nerdearla | Spanish | https://juanbrodersen.substack.com/i/137435151/nerdearla-decima-edicion-gratis-en-el-konex |
 
 ### Birmingham Cyber Arms LTD Media Coverage
 |Link |
