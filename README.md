@@ -47,7 +47,9 @@
 | 38 | 2021 | Hacking Bolivia | 🇧🇴 | 🏹 [Venator: Hunting & smashing trolls on Twitter](https://github.com/mauroeldritch/venator) |
 | 39 | 2022 | **DEF CON 30 VR** | 🇺🇸 | 🎲 [Exploits & Dragons](https://github.com/dc5411/EnD) |
 | 40 | 2022 | DragonJAR Manizales | 🇨🇴 | 🌉 [Nuevas amenazas en el mundo crypto](https://github.com/mauroeldritch/QuemandoLosPuentes) |
-| 41 | 2022 | **DEF CON 31 RV** | 🇺🇸| 🐴 [Riding with the Chollimas](https://github.com/birminghamcyberarms/QRLog) |
+| 41 | 2023 | **DEF CON 31 RV** | 🇺🇸 | 🐴 [Riding with the Chollimas](https://github.com/birminghamcyberarms/QRLog) |
+| 42 | 2023 | Nerdearla 10 | 🇦🇷 | 🐴 [Riding with the Chollimas](https://github.com/birminghamcyberarms/QRLog) |
+| 43 | 2023 | 8.8 | 🇨🇱 | 🐴 [Riding with the Chollimas](https://github.com/birminghamcyberarms/QRLog) |
 
 ## CVEs
 |#| CVE | Vulnerability | Short Name | Score | Product | Link |
