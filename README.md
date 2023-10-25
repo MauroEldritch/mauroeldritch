@@ -80,6 +80,7 @@
 | 14 | Radio Aire de Neuquén | Filtración del Hospital de Neuquén | Spanish | https://mega.nz/file/EcNW3IRI#4EUv3e-m018n-8mtGknJPn9aW1fOpbpGl4jy5k6HyDg |
 | 15 | Sin Galera | Ciberataque a Papel Prensa SA | Spanish | https://youtu.be/c1uenQ-FXCM?si=nU33WOqA3fV96x2J&t=1163 |
 | 16 | Lo que importa | Ciberataque a Papel Prensa SA | Spanish | https://youtu.be/LqHPsnW_iZc?si=krfVYUxigQwyRKjN&t=280 |
+| 17 | Lluvia de papitas | Ciberataque al Hospital Italiano | Spanish | https://youtu.be/qgMcYEyw03A?si=xlXtDzmerkciP5nc&t=4321 |
 
 ### Television
 |#| Show | Title | Language | Link |
