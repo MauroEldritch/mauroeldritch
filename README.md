@@ -254,8 +254,9 @@
 | 151 | SecOps | Lockbit vs Guyer (UY) | Spanish | https://juanbrodersen.substack.com/i/136814148/lockbit-muy-activo-y-con-victimas-latinoamericanas |
 | 152 | SOC Radar | Who is Lazarus Group? | English | https://socradar.io/apt-profile-who-is-lazarus-group/ |
 | 153 | SecOps | QRLOG @ Nerdearla | Spanish | https://juanbrodersen.substack.com/i/137435151/nerdearla-decima-edicion-gratis-en-el-konex |
-| 154 | SecOps | Ransomware: Cl0p vs Fiserv | Spanish | https://juanbrodersen.substack.com/p/contrasenas-las-mas-usadas-por-los |
+| 154 | SecOps | Cl0p vs Fiserv | Spanish | https://juanbrodersen.substack.com/p/contrasenas-las-mas-usadas-por-los |
 | 155 | El Observador | Filtración del Parlamento del Uruguay | Spanish | https://www.elobservador.com.uy/nota/legisladores-denuncian-que-les-robaron-informacion-de-sus-mails-para-venderla-online-2023102513349 |
+| 156 | Dark News | Knight vs Hospital Italiano | Spanish | https://juanbrodersen.substack.com/i/138177384/filtran-informacion-interna-del-hospital-italiano |
 
 ### Birmingham Cyber Arms LTD Media Coverage
 |Link |
