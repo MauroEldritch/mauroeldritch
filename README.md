@@ -257,6 +257,7 @@
 | 154 | SecOps | Cl0p vs Fiserv | Spanish | https://juanbrodersen.substack.com/p/contrasenas-las-mas-usadas-por-los |
 | 155 | El Observador | Filtración del Parlamento del Uruguay | Spanish | https://www.elobservador.com.uy/nota/legisladores-denuncian-que-les-robaron-informacion-de-sus-mails-para-venderla-online-2023102513349 |
 | 156 | Dark News | Knight vs Hospital Italiano | Spanish | https://juanbrodersen.substack.com/i/138177384/filtran-informacion-interna-del-hospital-italiano |
+| 157 | Dark News | Filtración del Parlamento Uruguayo | Spanish | https://juanbrodersen.substack.com/i/138177384/el-parlamento-de-uruguay-bajo-ataque |
 
 ### Birmingham Cyber Arms LTD Media Coverage
 |Link |
