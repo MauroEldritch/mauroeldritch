@@ -258,6 +258,7 @@
 | 155 | El Observador | Filtración del Parlamento del Uruguay | Spanish | https://www.elobservador.com.uy/nota/legisladores-denuncian-que-les-robaron-informacion-de-sus-mails-para-venderla-online-2023102513349 |
 | 156 | Dark News | Knight vs Hospital Italiano | Spanish | https://juanbrodersen.substack.com/i/138177384/filtran-informacion-interna-del-hospital-italiano |
 | 157 | Dark News | Filtración del Parlamento Uruguayo | Spanish | https://juanbrodersen.substack.com/i/138177384/el-parlamento-de-uruguay-bajo-ataque |
+| 158 | El Lado del Mal | Sobre la 8dot8 Chile | Spanish | https://www.elladodelmal.com/2023/10/chile-en-noviembre-keynote-en-8dot8.html |
 
 ### Birmingham Cyber Arms LTD Media Coverage
 |Link |
