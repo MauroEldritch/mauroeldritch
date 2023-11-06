@@ -261,6 +261,7 @@
 | 158 | El Lado del Mal | Sobre la 8dot8 Chile | Spanish | https://www.elladodelmal.com/2023/10/chile-en-noviembre-keynote-en-8dot8.html |
 | 159 | El Cronista / InfoTechnology | Medusa vs Jockey Club | Spanish | https://www.cronista.com/infotechnology/actualidad/atacaron-un-prestigioso-club-de-buenos-aires-piden-un-rescate-de-300-000/ |
 | 160 | Dark News | Medusa vs Jockey Club | Spanish | https://www.brodersendarknews.com/i/138500059/jockey-club-y-avalian-las-dos-victimas-argentinas-de-la-semana-que-se-sabe |
+| 161 | El Observador | Cactus vs Geocom | Spanish | https://www.elobservador.com.uy/nota/geocom-fue-victima-de-un-ciberataque-filtraron-pasaportes-y-contratos-20231161288 |
 
 ### Birmingham Cyber Arms LTD Media Coverage
 |Link |
