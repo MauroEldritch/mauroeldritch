@@ -262,6 +262,8 @@
 | 159 | El Cronista / InfoTechnology | Medusa vs Jockey Club | Spanish | https://www.cronista.com/infotechnology/actualidad/atacaron-un-prestigioso-club-de-buenos-aires-piden-un-rescate-de-300-000/ |
 | 160 | Dark News | Medusa vs Jockey Club | Spanish | https://www.brodersendarknews.com/i/138500059/jockey-club-y-avalian-las-dos-victimas-argentinas-de-la-semana-que-se-sabe |
 | 161 | El Observador | Cactus vs Geocom | Spanish | https://www.elobservador.com.uy/nota/geocom-fue-victima-de-un-ciberataque-filtraron-pasaportes-y-contratos-20231161288 |
+| 162 | El Observador | Cactus vs Geocom | Spanish | https://www.elobservador.com.uy/nota/la-palabra-de-geocom-tras-la-filtracion-de-documentos-sensibles-a-causa-de-un-ciberataque-202311614531 |
+| 163 | El País | Cactus vs Geocom | Spanish | https://www.elpais.com.uy/negocios/que-dijo-geocom-ante-la-filtracion-de-documentos-de-clientes-debido-a-un-ciberataque |
 
 ### Birmingham Cyber Arms LTD Media Coverage
 |Link |
