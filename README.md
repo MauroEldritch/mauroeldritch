@@ -264,6 +264,7 @@
 | 161 | El Observador | Cactus vs Geocom | Spanish | https://www.elobservador.com.uy/nota/geocom-fue-victima-de-un-ciberataque-filtraron-pasaportes-y-contratos-20231161288 |
 | 162 | El Observador | Cactus vs Geocom | Spanish | https://www.elobservador.com.uy/nota/la-palabra-de-geocom-tras-la-filtracion-de-documentos-sensibles-a-causa-de-un-ciberataque-202311614531 |
 | 163 | El País | Cactus vs Geocom | Spanish | https://www.elpais.com.uy/negocios/que-dijo-geocom-ante-la-filtracion-de-documentos-de-clientes-debido-a-un-ciberataque |
+| 164 | AdPrensa Chile | 8dot8 | Spanish | https://www.adprensa.cl/tecnologia/mas-de-500-asistentes-en-exitosa-edicion-de-8-8-computer-security-conference-2023/ |
 
 ### Birmingham Cyber Arms LTD Media Coverage
 |Link |
