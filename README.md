@@ -92,6 +92,7 @@
 | 4 | Canal 10 Córdoba | Filtración de la Policía de Córdoba | Spanish | https://mega.nz/file/tFFxyZ7K#g_v7JaK8QsRTpo8u4Ud2NlvmnrmqThHTFV3nv6ZPFR4 |
 | 5 | VTV Uruguay | En La Mira: Entrevista | Spanish | https://www.youtube.com/watch?v=U_-Djrb5R2Q |
 | 6 | VTV Uruguay | En La Mira: Caso Guyer & Regules | Spanish | https://vtv.com.uy/los-hackers-atacan-de-nuevo-en-uruguay-entrevista-al-hacker-mauro-eldritch/ |
+| 7 | TV Pública | MeFiltraron.com (Israel) | Spanish | https://youtu.be/3yhHxNTH29I |
 
 ### Ransomware Interviews
 |#| Interview | Language | Link |
