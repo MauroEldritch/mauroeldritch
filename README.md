@@ -267,6 +267,8 @@
 | 163 | El País | Cactus vs Geocom | Spanish | https://www.elpais.com.uy/negocios/que-dijo-geocom-ante-la-filtracion-de-documentos-de-clientes-debido-a-un-ciberataque |
 | 164 | AdPrensa Chile | 8dot8 | Spanish | https://www.adprensa.cl/tecnologia/mas-de-500-asistentes-en-exitosa-edicion-de-8-8-computer-security-conference-2023/ |
 | 165 | Dark News | Malas vs Baggio | Spanish | https://www.brodersendarknews.com/p/ransomware-hacktivista-contra-baggio |
+| 166 | El Cronista | Data Protection Officers | Spanish | https://elcronista.pressreader.com/article/281822878566588 |
+| 167 | InfoTechnology | Data Protection Officers | Spanish | https://www.cronista.com/infotechnology/actualidad/cual-es-el-perfil-que-todas-las-empresas-argentinas-estan-buscando-hoy-no-son-programadores/ |
 
 ### Birmingham Cyber Arms LTD Media Coverage
 |Link |
