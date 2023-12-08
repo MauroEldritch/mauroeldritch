@@ -270,6 +270,7 @@
 | 165 | Dark News | Malas vs Baggio | Spanish | https://www.brodersendarknews.com/p/ransomware-hacktivista-contra-baggio |
 | 166 | El Cronista | Data Protection Officers | Spanish | https://elcronista.pressreader.com/article/281822878566588 |
 | 167 | InfoTechnology | Data Protection Officers | Spanish | https://www.cronista.com/infotechnology/actualidad/cual-es-el-perfil-que-todas-las-empresas-argentinas-estan-buscando-hoy-no-son-programadores/ |
+| 168 | Dark News | MeFiltraron Israel | Spanish | https://www.brodersendarknews.com/i/139429041/me-filtraron-israel-hamas-entre-ataques-de-defacing-y-ddos |
 
 ### Birmingham Cyber Arms LTD Media Coverage
 |Link |
