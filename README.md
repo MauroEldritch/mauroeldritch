@@ -272,6 +272,7 @@
 | 166 | El Cronista | Data Protection Officers | Spanish | https://elcronista.pressreader.com/article/281822878566588 |
 | 167 | InfoTechnology | Data Protection Officers | Spanish | https://www.cronista.com/infotechnology/actualidad/cual-es-el-perfil-que-todas-las-empresas-argentinas-estan-buscando-hoy-no-son-programadores/ |
 | 168 | Dark News | MeFiltraron Israel | Spanish | https://www.brodersendarknews.com/i/139429041/me-filtraron-israel-hamas-entre-ataques-de-defacing-y-ddos |
+| 169 | El Observador | Cactus vs Geocom | Spanish | https://www.elobservador.com.uy/nota/hacker-uruguayo-asegura-que-se-liberaron-datos-confidenciales-tras-ciberataque-a-una-empresa-de-terminales-pos-20231218185457 |
 
 ### Birmingham Cyber Arms LTD Media Coverage
 |Link |
