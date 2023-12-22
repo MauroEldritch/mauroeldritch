@@ -273,6 +273,9 @@
 | 167 | InfoTechnology | Data Protection Officers | Spanish | https://www.cronista.com/infotechnology/actualidad/cual-es-el-perfil-que-todas-las-empresas-argentinas-estan-buscando-hoy-no-son-programadores/ |
 | 168 | Dark News | MeFiltraron Israel | Spanish | https://www.brodersendarknews.com/i/139429041/me-filtraron-israel-hamas-entre-ataques-de-defacing-y-ddos |
 | 169 | El Observador | Cactus vs Geocom | Spanish | https://www.elobservador.com.uy/nota/hacker-uruguayo-asegura-que-se-liberaron-datos-confidenciales-tras-ciberataque-a-una-empresa-de-terminales-pos-20231218185457 |
+| 170 | Dark News | Arresto de LAPSUS$ | Spanish | https://www.brodersendarknews.com/i/139932957/condenan-a-un-hacker-de-lapsus-a-pasar-toda-su-vida-en-un-hospital-psiquiatrico |
+| 171 | Dark News | FBI vs BlackCat | Spanish | https://www.brodersendarknews.com/i/139932957/el-fbi-incauto-el-sitio-de-black-cat-alphv |
+| 172 | Diario Clarín | Arresto de LAPSUS$ | Spanish | https://www.clarin.com/tecnologia/historia-adolescente-hackeo-gigantes-tech-condenado-vida-hospital-psiquiatrico_0_pGrA2JAy7H.html |
 
 ### Birmingham Cyber Arms LTD Media Coverage
 |Link |
