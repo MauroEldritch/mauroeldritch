@@ -276,6 +276,7 @@
 | 170 | Dark News | Arresto de LAPSUS$ | Spanish | https://www.brodersendarknews.com/i/139932957/condenan-a-un-hacker-de-lapsus-a-pasar-toda-su-vida-en-un-hospital-psiquiatrico |
 | 171 | Dark News | FBI vs BlackCat | Spanish | https://www.brodersendarknews.com/i/139932957/el-fbi-incauto-el-sitio-de-black-cat-alphv |
 | 172 | Diario Clarín | Arresto de LAPSUS$ | Spanish | https://www.clarin.com/tecnologia/historia-adolescente-hackeo-gigantes-tech-condenado-vida-hospital-psiquiatrico_0_pGrA2JAy7H.html |
+| 173 | El Observador | Hackeos en Uruguay en 2023 | Spanish | https://www.elobservador.com.uy/nota/hackeos-en-uruguay-en-2023-asi-fueron-las-filtraciones-que-desnudaron-fallas-de-ciberseguridad-202312211540 |
 
 ### Birmingham Cyber Arms LTD Media Coverage
 |Link |
