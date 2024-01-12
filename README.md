@@ -278,6 +278,7 @@
 | 172 | Diario Clarín | Arresto de LAPSUS$ | Spanish | https://www.clarin.com/tecnologia/historia-adolescente-hackeo-gigantes-tech-condenado-vida-hospital-psiquiatrico_0_pGrA2JAy7H.html |
 | 173 | El Observador | Hackeos en Uruguay en 2023 | Spanish | https://www.elobservador.com.uy/nota/hackeos-en-uruguay-en-2023-asi-fueron-las-filtraciones-que-desnudaron-fallas-de-ciberseguridad-202312211540 |
 | 174 | El Cronista | El Cibercrimen es la tercer economía mundial | Spanish | https://elcronista.pressreader.com/article/281779928938599 |
+| 175 | Dark News | Black Hunt vs Tigo Paraguay | Spanish | https://www.brodersendarknews.com/i/140519464/tigo-sufre-un-ransomware-que-se-sabe-y-que-no |
 
 ### Birmingham Cyber Arms LTD Media Coverage
 |Link |
