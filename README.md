@@ -279,6 +279,7 @@
 | 173 | El Observador | Hackeos en Uruguay en 2023 | Spanish | https://www.elobservador.com.uy/nota/hackeos-en-uruguay-en-2023-asi-fueron-las-filtraciones-que-desnudaron-fallas-de-ciberseguridad-202312211540 |
 | 174 | El Cronista | El Cibercrimen es la tercer economía mundial | Spanish | https://elcronista.pressreader.com/article/281779928938599 |
 | 175 | Dark News | Black Hunt vs Tigo Paraguay | Spanish | https://www.brodersendarknews.com/i/140519464/tigo-sufre-un-ransomware-que-se-sabe-y-que-no |
+| 176 | Bitso Blog | Disrupting an APT Phishing Campaign | English | https://medium.com/bitso-engineering/profiling-disrupting-an-apt-spear-phishing-campaign-targeting-slack-users-in-the-financial-sector-9389533d5fc2 |
 
 ### Birmingham Cyber Arms LTD Media Coverage
 |Link |
