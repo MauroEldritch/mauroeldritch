@@ -281,6 +281,7 @@
 | 175 | Dark News | Black Hunt vs Tigo Paraguay | Spanish | https://www.brodersendarknews.com/i/140519464/tigo-sufre-un-ransomware-que-se-sabe-y-que-no |
 | 176 | Bitso Blog | Disrupting an APT Phishing Campaign | English | https://medium.com/bitso-engineering/profiling-disrupting-an-apt-spear-phishing-campaign-targeting-slack-users-in-the-financial-sector-9389533d5fc2 |
 | 177 | Diario Perfil | DataBreach: Poder Judicial de Córdoba | Spanish | https://www.perfil.com/noticias/cordoba/cordoba-investigan-una-nueva-filtracion-de-datos-e-informacion-del-poder-judicial.phtml |
+| 178 | Marca | DataBreach: Poder Judicial de Córdoba | Spanish | https://www.marcainformativacba.com/cordoba/la-justicia-investiga-el-hackeo-y-filtracion-del-legajo-una-funcionaria-judicial-cordoba-n38504 |
 
 ### Birmingham Cyber Arms LTD Media Coverage
 |Link |
