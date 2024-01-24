@@ -289,6 +289,7 @@
 | 183 | 12 TV | DataBreach: Poder Judicial de Córdoba | Spanish | https://eldoce.tv/actualidad/2024/01/23/filtraron-informacion-de-una-funcionaria-del-poder-judicial-de-cordoba |
 | 184 | La Popu | DataBreach: Poder Judicial de Córdoba | Spanish | https://www.lapopu.com.ar/noticia/noticias/investigan-el-acceso-a-la-ficha-personal-de-una-funcionaria-judicial_379197 |
 | 185 | Cadena 3 | DataBreach: Poder Judicial de Córdoba | Spanish | https://www.cadena3.com/noticia/sociedad/investigan-el-acceso-a-la-ficha-personal-de-una-funcionaria-judicial_379197 |
+| 186 | Diario Perfil | Filtraciones en Córdoba | Spanish | https://www.perfil.com/noticias/cordoba/ciberincidentes-en-cordoba-ahora-filtraron-datos-de-la-policia-y-de-un-usuario-del-ciudadano-digital.phtml |
 
 ### Birmingham Cyber Arms LTD Media Coverage
 |Link |
