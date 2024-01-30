@@ -4,7 +4,18 @@
 - 🦾 DEF CON 5411 / Birmingham Cyber Arms Leader.
 - 🦮 My partner in crime is a Golden Retriever.
 
-## Talks
+## Index
+1. [Talks](#talks)
+2. [CVEs](#cves)
+3. [Articles](#articles)
+4. [Ransomware Interviews](#interviews)
+5. [Media](#media)
+    1. [Podcasts & Radio](#radio)
+    2. [TV](#tv)
+    3. [Newspapers](#newspapers)
+    4. [Birmingham Cyber Arms in the media](#bca)
+
+## Talks <a name="talks"></a>
 |#| Date | Conference | 🏳 | Talk |
 |---|---|---|---|---|
 | 1 | 2018 | XTREMESEC Brazil | 🇧🇷 | 🚔 [I Fought the Law and the Law lost](https://github.com/mauroeldritch/ifoughtthelaw) |
@@ -52,7 +63,7 @@
 | 43 | 2023 | 8.8 | 🇨🇱 | 🐴 [Riding with the Chollimas](https://github.com/birminghamcyberarms/QRLog) |
 | 44 | 2023 | Interbanking DevConnect | 🇦🇷 | 🏦 [Amenazas digitales en la banca latinoamericana](https://docs.google.com/presentation/d/1pc0Iy1r2fFgolEBALt5jTAQMq1owWE8gOv__5EQ5DRM/)| 
 
-## CVEs
+## CVEs <a name="cves"></a>
 |#| CVE | Vulnerability | Short Name | Score | Product | Link |
 |---|---|---|---|---|---|---|
 | 1 | CVE-2018-19466 | *Information Disclosure* | [LEMPO](https://github.com/mauroeldritch/lempo) | **9.8** | Portainer | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-19466 |
@@ -61,8 +72,19 @@
 | 4 | CVE-2020-8821 | *HTML Injection* | - | 5.4 | Webmin | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-8821 |
 | 5 | CVE-2020-12670 | *XSS* | - | 6.1 | Webmin | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-12670 |
 
-## Media
-### Podcasts & Radio
+### Technical Articles <a name="articles"></a>
+|#| Blog / Zine | Title | Language | Link |
+|---|---|---|---|---|
+| 1 | Bitso Blog | Disrupting an APT Phishing Campaign | English | https://medium.com/bitso-engineering/profiling-disrupting-an-apt-spear-phishing-campaign-targeting-slack-users-in-the-financial-sector-9389533d5fc2 |
+| 2 | Bitso Blog | Drainers as a Service | English | https://medium.com/bitso-engineering/drainers-signing-the-crypto-devils-contract-6349bef54418 |
+
+### Ransomware Interviews <a name="interviews"></a>
+|#| Interview | Language | Link |
+|---|---|---|---|
+| 1 | Vice Society | English & Spanish | https://github.com/mauroeldritch/vicesociety |
+
+## Media <a name="media"></a>
+### Podcasts & Radio <a name="radio"></a>
 |#| Show | Title | Language | Link |
 |---|---|---|---|---|
 | 1 | Se Tildó | Confesiones de un Troll | Spanish | https://open.spotify.com/episode/7rul6ok4jPSvRaedUulPLs |
@@ -84,7 +106,7 @@
 | 17 | Lluvia de papitas | Ransomware al Hospital Italiano | Spanish | https://youtu.be/qgMcYEyw03A?si=xlXtDzmerkciP5nc&t=4321 |
 | 18 | Sarandí 690 | Filtración del Parlamento del Uruguay | Spanish | https://www.sarandi690.com.uy/2023/10/26/pedian-100-dolares-para-acceder-a-la-informacion-dijo-el-hacker-mauro-eldritch-sobre-filtracion-de-mails-de-parlamentarios/ |
 
-### Television
+### Television <a name="tv"></a>
 |#| Show | Title | Language | Link |
 |---|---|---|---|---|
 | 1 | Equipo de Investigación (España) | Filtración de datos de Generación Zoe | Spanish | https://mega.nz/file/UQExURJB#72f5YLkaMQJw5rj5vJHqDwCGlS5ARAF6az_Sif7yACc |
@@ -95,18 +117,7 @@
 | 6 | VTV Uruguay | En La Mira: Caso Guyer & Regules | Spanish | https://vtv.com.uy/los-hackers-atacan-de-nuevo-en-uruguay-entrevista-al-hacker-mauro-eldritch/ |
 | 7 | TV Pública | MeFiltraron.com (Israel) | Spanish | https://youtu.be/3yhHxNTH29I |
 
-### Ransomware Interviews
-|#| Interview | Language | Link |
-|---|---|---|---|
-| 1 | Vice Society | English & Spanish | https://github.com/mauroeldritch/vicesociety |
-
-### Technical Articles
-|#| Blog / Zine | Title | Language | Link |
-|---|---|---|---|---|
-| 1 | Bitso Blog | Disrupting an APT Phishing Campaign | English | https://medium.com/bitso-engineering/profiling-disrupting-an-apt-spear-phishing-campaign-targeting-slack-users-in-the-financial-sector-9389533d5fc2 |
-| 2 | Bitso Blog | Drainers as a Service | English | https://medium.com/bitso-engineering/drainers-signing-the-crypto-devils-contract-6349bef54418 |
-
-### Newspapers
+### Newspapers <a name="newspapers"></a>
 |#| Agency | Title | Language | Link |
 |---|---|---|---|---|
 | 1 | TN | Cómo funciona el aparato de propaganda en las redes sociales | Spanish | https://tn.com.ar/podcasts/2021/03/11/confesiones-de-un-troll-como-funciona-el-aparato-de-propaganda-en-las-redes-sociales/ |
@@ -296,7 +307,7 @@
 | 184 | Cadena 3 | DataBreach: Poder Judicial de Córdoba | Spanish | https://www.cadena3.com/noticia/sociedad/investigan-el-acceso-a-la-ficha-personal-de-una-funcionaria-judicial_379197 |
 | 185 | Diario Perfil | Filtraciones en Córdoba | Spanish | https://www.perfil.com/noticias/cordoba/ciberincidentes-en-cordoba-ahora-filtraron-datos-de-la-policia-y-de-un-usuario-del-ciudadano-digital.phtml |
 
-### Birmingham Cyber Arms LTD Media Coverage
+### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
 |---|
 |See [Press Releases](https://github.com/BirminghamCyberArms/Press)|
