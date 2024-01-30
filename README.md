@@ -102,7 +102,7 @@
 
 ### Technical Articles
 |#| Blog / Zine | Title | Language | Link |
-|---|---|---|---|
+|---|---|---|---|---|
 | 1 | Bitso Blog | Disrupting an APT Phishing Campaign | English | https://medium.com/bitso-engineering/profiling-disrupting-an-apt-spear-phishing-campaign-targeting-slack-users-in-the-financial-sector-9389533d5fc2 |
 | 2 | Bitso Blog | Drainers as a Service | English | https://medium.com/bitso-engineering/drainers-signing-the-crypto-devils-contract-6349bef54418 |
 
