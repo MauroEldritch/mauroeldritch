@@ -100,6 +100,12 @@
 |---|---|---|---|
 | 1 | Vice Society | English & Spanish | https://github.com/mauroeldritch/vicesociety |
 
+### Technical Articles
+|#| Blog / Zine | Title | Language | Link |
+|---|---|---|---|
+| 1 | Bitso Blog | Disrupting an APT Phishing Campaign | English | https://medium.com/bitso-engineering/profiling-disrupting-an-apt-spear-phishing-campaign-targeting-slack-users-in-the-financial-sector-9389533d5fc2 |
+| 2 | Bitso Blog | Drainers as a Service | English | https://medium.com/bitso-engineering/drainers-signing-the-crypto-devils-contract-6349bef54418 |
+
 ### Newspapers
 |#| Agency | Title | Language | Link |
 |---|---|---|---|---|
@@ -279,17 +285,16 @@
 | 173 | El Observador | Hackeos en Uruguay en 2023 | Spanish | https://www.elobservador.com.uy/nota/hackeos-en-uruguay-en-2023-asi-fueron-las-filtraciones-que-desnudaron-fallas-de-ciberseguridad-202312211540 |
 | 174 | El Cronista | El Cibercrimen es la tercer economía mundial | Spanish | https://elcronista.pressreader.com/article/281779928938599 |
 | 175 | Dark News | Black Hunt vs Tigo Paraguay | Spanish | https://www.brodersendarknews.com/i/140519464/tigo-sufre-un-ransomware-que-se-sabe-y-que-no |
-| 176 | Bitso Blog | Disrupting an APT Phishing Campaign | English | https://medium.com/bitso-engineering/profiling-disrupting-an-apt-spear-phishing-campaign-targeting-slack-users-in-the-financial-sector-9389533d5fc2 |
-| 177 | Diario Perfil | DataBreach: Poder Judicial de Córdoba | Spanish | https://www.perfil.com/noticias/cordoba/cordoba-investigan-una-nueva-filtracion-de-datos-e-informacion-del-poder-judicial.phtml |
-| 178 | Marca | DataBreach: Poder Judicial de Córdoba | Spanish | https://www.marcainformativacba.com/cordoba/la-justicia-investiga-el-hackeo-y-filtracion-del-legajo-una-funcionaria-judicial-cordoba-n38504 |
-| 179 | Canal C | DataBreach: Poder Judicial de Córdoba | Spanish | https://canalc.com.ar/filtracion-de-datos-del-poder-judicial-de-cordoba-expusieron-detalles-de-una-funcionaria-tras-un-hackeo/ |
-| 180 | Nuevo Enfoque Urbano | DataBreach: Poder Judicial de Córdoba | Spanish | https://nuevoenfoqueurbano.com.ar/hackearon-y-publicaron-la-cuenta-de-una-funcionaria-judicial-en-cordoba/ |
-| 181 | La Voz | DataBreach: Poder Judicial de Córdoba | Spanish | https://www.lavoz.com.ar/ciudadanos/hackearon-y-publicaron-la-cuenta-de-una-funcionaria-judicial-en-cordoba/ |
-| 182 | Actualidad | DataBreach: Poder Judicial de Córdoba | Spanish | https://actualidad.com.ar/cordoba-investigan-una-nueva-filtracion-de-datos-e-informacion-del-poder-judicial/ |
-| 183 | 12 TV | DataBreach: Poder Judicial de Córdoba | Spanish | https://eldoce.tv/actualidad/2024/01/23/filtraron-informacion-de-una-funcionaria-del-poder-judicial-de-cordoba |
-| 184 | La Popu | DataBreach: Poder Judicial de Córdoba | Spanish | https://www.lapopu.com.ar/noticia/noticias/investigan-el-acceso-a-la-ficha-personal-de-una-funcionaria-judicial_379197 |
-| 185 | Cadena 3 | DataBreach: Poder Judicial de Córdoba | Spanish | https://www.cadena3.com/noticia/sociedad/investigan-el-acceso-a-la-ficha-personal-de-una-funcionaria-judicial_379197 |
-| 186 | Diario Perfil | Filtraciones en Córdoba | Spanish | https://www.perfil.com/noticias/cordoba/ciberincidentes-en-cordoba-ahora-filtraron-datos-de-la-policia-y-de-un-usuario-del-ciudadano-digital.phtml |
+| 176 | Diario Perfil | DataBreach: Poder Judicial de Córdoba | Spanish | https://www.perfil.com/noticias/cordoba/cordoba-investigan-una-nueva-filtracion-de-datos-e-informacion-del-poder-judicial.phtml |
+| 177 | Marca | DataBreach: Poder Judicial de Córdoba | Spanish | https://www.marcainformativacba.com/cordoba/la-justicia-investiga-el-hackeo-y-filtracion-del-legajo-una-funcionaria-judicial-cordoba-n38504 |
+| 178 | Canal C | DataBreach: Poder Judicial de Córdoba | Spanish | https://canalc.com.ar/filtracion-de-datos-del-poder-judicial-de-cordoba-expusieron-detalles-de-una-funcionaria-tras-un-hackeo/ |
+| 179 | Nuevo Enfoque Urbano | DataBreach: Poder Judicial de Córdoba | Spanish | https://nuevoenfoqueurbano.com.ar/hackearon-y-publicaron-la-cuenta-de-una-funcionaria-judicial-en-cordoba/ |
+| 180 | La Voz | DataBreach: Poder Judicial de Córdoba | Spanish | https://www.lavoz.com.ar/ciudadanos/hackearon-y-publicaron-la-cuenta-de-una-funcionaria-judicial-en-cordoba/ |
+| 181 | Actualidad | DataBreach: Poder Judicial de Córdoba | Spanish | https://actualidad.com.ar/cordoba-investigan-una-nueva-filtracion-de-datos-e-informacion-del-poder-judicial/ |
+| 182 | 12 TV | DataBreach: Poder Judicial de Córdoba | Spanish | https://eldoce.tv/actualidad/2024/01/23/filtraron-informacion-de-una-funcionaria-del-poder-judicial-de-cordoba |
+| 183 | La Popu | DataBreach: Poder Judicial de Córdoba | Spanish | https://www.lapopu.com.ar/noticia/noticias/investigan-el-acceso-a-la-ficha-personal-de-una-funcionaria-judicial_379197 |
+| 184 | Cadena 3 | DataBreach: Poder Judicial de Córdoba | Spanish | https://www.cadena3.com/noticia/sociedad/investigan-el-acceso-a-la-ficha-personal-de-una-funcionaria-judicial_379197 |
+| 185 | Diario Perfil | Filtraciones en Córdoba | Spanish | https://www.perfil.com/noticias/cordoba/ciberincidentes-en-cordoba-ahora-filtraron-datos-de-la-policia-y-de-un-usuario-del-ciudadano-digital.phtml |
 
 ### Birmingham Cyber Arms LTD Media Coverage
 |Link |
