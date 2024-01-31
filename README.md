@@ -307,6 +307,7 @@
 | 183 | La Popu | DataBreach: Poder Judicial de Córdoba | Spanish | https://www.lapopu.com.ar/noticia/noticias/investigan-el-acceso-a-la-ficha-personal-de-una-funcionaria-judicial_379197 |
 | 184 | Cadena 3 | DataBreach: Poder Judicial de Córdoba | Spanish | https://www.cadena3.com/noticia/sociedad/investigan-el-acceso-a-la-ficha-personal-de-una-funcionaria-judicial_379197 |
 | 185 | Diario Perfil | Filtraciones en Córdoba | Spanish | https://www.perfil.com/noticias/cordoba/ciberincidentes-en-cordoba-ahora-filtraron-datos-de-la-policia-y-de-un-usuario-del-ciudadano-digital.phtml |
+| 186 | El Observador | Cactus vs GEOCOM | Spanish | https://www.elobservador.com.uy/nota/todo-lo-que-encontro-un-hacker-tras-liberacion-de-datos-de-geocom-es-peligroso--2024131143512 |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
