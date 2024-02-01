@@ -106,6 +106,7 @@
 | 17 | Lluvia de papitas | Ransomware al Hospital Italiano | Spanish | https://youtu.be/qgMcYEyw03A?si=xlXtDzmerkciP5nc&t=4321 |
 | 18 | Sarandí 690 | Filtración del Parlamento del Uruguay | Spanish | https://www.sarandi690.com.uy/2023/10/26/pedian-100-dolares-para-acceder-a-la-informacion-dijo-el-hacker-mauro-eldritch-sobre-filtracion-de-mails-de-parlamentarios/ |
 | 19 | Metro 951 | Filtraciones de Enero | Spanish | https://mega.nz/file/sd8VmQSI#viLsPqQODtKmh-2EyCl60L0_RyCasieqLQs25ulZ-UU |
+| 20 | En Perspectiva | Cactus vs GEOCOM | Spanish | https://enperspectiva.uy/home/ciberataque-en-las-terminales-de-pos-y-difusion-de-datos-confidenciales-en-octubre-de-2023-que-se-encontro-en-esa-filtracion-con-mauro-eldritch-analista-en-ciberseguridad-y-hacker/ |
 
 ### Television <a name="tv"></a>
 |#| Show | Title | Language | Link |
