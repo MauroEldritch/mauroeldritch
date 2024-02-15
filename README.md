@@ -312,6 +312,7 @@
 | 186 | El Observador | Cactus vs GEOCOM | Spanish | https://www.elobservador.com.uy/nota/todo-lo-que-encontro-un-hacker-tras-liberacion-de-datos-de-geocom-es-peligroso--2024131143512 |
 | 187 | Dark News | Cactus vs GEOCOM | Spanish | https://www.brodersendarknews.com/i/141138846/geocom-publicaron-los-datos-tras-el-ransomware-del-grupo-cactus |
 | 188 | iProUP | AFIP vs Stealers | Spanish | https://www.iproup.com/innovacion/45887-afip-hackeo-filtraci%C3%B3n-riesgo-tr%C3%A1mites-impuestos-protegerse |
+| 189 | El Observador | Hackeo a la Intendencia de Flores | Spanish | https://www.elobservador.com.uy/nota/hackearon-a-la-intendencia-de-flores-y-ahora-un-grupo-publico-datos-confidenciales-202421418416 |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
