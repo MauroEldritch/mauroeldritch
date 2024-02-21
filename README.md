@@ -119,6 +119,7 @@
 | 5 | VTV Uruguay | En La Mira: Entrevista | Spanish | https://www.youtube.com/watch?v=U_-Djrb5R2Q |
 | 6 | VTV Uruguay | En La Mira: Caso Guyer & Regules | Spanish | https://vtv.com.uy/los-hackers-atacan-de-nuevo-en-uruguay-entrevista-al-hacker-mauro-eldritch/ |
 | 7 | TV Pública | MeFiltraron.com (Israel) | Spanish | https://youtu.be/3yhHxNTH29I |
+| 8 | Telemundo | Operación Cronos | Spanish | https://www.teledoce.com/telemundo/ciencia-y-tecnologia/el-fin-de-lockbit-operacion-internacional-golpeo-a-importante-banda-de-ciberdelincuentes-pero-el-peligro-sigue-latente/ |
 
 ### Newspapers <a name="newspapers"></a>
 |#| Agency | Title | Language | Link |
