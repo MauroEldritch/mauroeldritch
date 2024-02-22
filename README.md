@@ -315,6 +315,7 @@
 | 188 | iProUP | AFIP vs Stealers | Spanish | https://www.iproup.com/innovacion/45887-afip-hackeo-filtraci%C3%B3n-riesgo-tr%C3%A1mites-impuestos-protegerse |
 | 189 | El Observador | Hackeo a la Intendencia de Flores | Spanish | https://www.elobservador.com.uy/nota/hackearon-a-la-intendencia-de-flores-y-ahora-un-grupo-publico-datos-confidenciales-202421418416 |
 | 190 | iProfesional | AFIP vs Stealers | Spanish | https://www.iprofesional.com/tecnologia/399594-hackeo-afip-como-saber-si-robaron-clave-fiscal |
+| 191 | El Observador | Operación Cronos | Spanish | https://www.elobservador.com.uy/nota/el-contraataque-de-los-hackers-mas-daninos-del-mundo-lo-que-no-se-conto-de-una-cruzada-internacional-202422114580 |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
