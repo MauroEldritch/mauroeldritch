@@ -317,6 +317,7 @@
 | 190 | iProfesional | AFIP vs Stealers | Spanish | https://www.iprofesional.com/tecnologia/399594-hackeo-afip-como-saber-si-robaron-clave-fiscal |
 | 191 | El Observador | Operación Cronos | Spanish | https://www.elobservador.com.uy/nota/el-contraataque-de-los-hackers-mas-daninos-del-mundo-lo-que-no-se-conto-de-una-cruzada-internacional-202422114580 |
 | 192 | Dark News | Operación Cronos | Spanish | https://www.brodersendarknews.com/i/141870155/cayo-lockbit-cayo-lockbit |
+| 193 | Dark News | Operación Cronos | Spanish | https://www.brodersendarknews.com/p/lockbit-volvio-baja-sitio-ransomware |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
