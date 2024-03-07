@@ -78,6 +78,7 @@
 | 1 | Bitso Blog | Disrupting an APT Phishing Campaign | English | https://medium.com/bitso-engineering/profiling-disrupting-an-apt-spear-phishing-campaign-targeting-slack-users-in-the-financial-sector-9389533d5fc2 |
 | 2 | Bitso Blog | Drainers as a Service | English | https://medium.com/bitso-engineering/drainers-signing-the-crypto-devils-contract-6349bef54418 |
 | 3 | Bitso Blog | Docks Malware | English | https://medium.com/bitso-engineering/docks-profiling-disrupting-yet-another-state-sponsored-campaign-targeting-the-crypto-space-a81a1db4173b |
+| 4 | Bitso Blog | Malware & Taxes | English | https://medium.com/bitso-engineering/malware-taxes-529ba082a33e |
 
 ### Ransomware Interviews <a name="interviews"></a>
 |#| Interview | Language | Link |
