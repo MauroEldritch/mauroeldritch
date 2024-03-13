@@ -320,6 +320,7 @@
 | 192 | Dark News | Operación Cronos | Spanish | https://www.brodersendarknews.com/i/141870155/cayo-lockbit-cayo-lockbit |
 | 193 | Dark News | Operación Cronos | Spanish | https://www.brodersendarknews.com/p/lockbit-volvio-baja-sitio-ransomware |
 | 194 | LadoB | Magecart | Spanish | https://ladobnews.substack.com/i/142147405/cuidado-estafas-en-tarjetas-de-credito |
+| 195 | Perfil Córdoba | DataBreach: Universidad de Córdoba | Spanish | https://www.perfil.com/noticias/cordoba/la-unc-victima-de-un-ciberincidente-se-filtraron-datos-personales-de-estudiantes.phtml |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
