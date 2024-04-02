@@ -323,6 +323,7 @@
 | 195 | Perfil Córdoba | DataBreach: Universidad de Córdoba | Spanish | https://www.perfil.com/noticias/cordoba/la-unc-victima-de-un-ciberincidente-se-filtraron-datos-personales-de-estudiantes.phtml |
 | 196 | El Observador | DataBreach: Cédulas de Identidad | Spanish | https://www.elobservador.com.uy/nota/hackers-publicaron-mas-de-100-fotos-de-cedulas-de-identidad-2024411118 |
 | 197 | El País | DataBreach: Cédulas de Identidad | Spanish | https://www.elpais.com.uy/informacion/sociedad/hackearon-una-intendencia-y-el-correo-uruguayo-y-ahora-publicaron-mas-de-100-fotos-de-cedulas-quienes-son |
+| 198 | Telenoche | DataBreach: Cédulas de Identidad | Spanish | https://www.telenoche.com.uy/nacionales/grupo-hackers-publico-mas-100-fotos-cedulas-uruguayas-n5365505 |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
