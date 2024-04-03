@@ -326,6 +326,7 @@
 | 197 | El País | DataBreach: Cédulas de Identidad | Spanish | https://www.elpais.com.uy/informacion/sociedad/hackearon-una-intendencia-y-el-correo-uruguayo-y-ahora-publicaron-mas-de-100-fotos-de-cedulas-quienes-son |
 | 198 | Telenoche | DataBreach: Cédulas de Identidad | Spanish | https://www.telenoche.com.uy/nacionales/grupo-hackers-publico-mas-100-fotos-cedulas-uruguayas-n5365505 |
 | 199 | El Debate | DataBreach: Cédulas de Identidad | Spanish | https://www.debate.com.uy/actualidad/Hackers-atacaron-al-Correo-Uruguayo-y-a-una-intendencia-compartieron-mas-de-100-fotos-de-cedulas-20240401-0029.html |
+| 200 | El Observador | Consecuencias de la filtración de cédulas | Spanish | https://www.elobservador.com.uy/nota/hackeo-de-fotos-de-mas-de-100-cedulas-como-te-puede-afectar-y-que-tener-en-cuenta-cuando-envias-una-202442154615 |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
