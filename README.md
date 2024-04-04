@@ -109,7 +109,8 @@
 | 18 | Sarandí 690 | Filtración del Parlamento del Uruguay | Spanish | https://www.sarandi690.com.uy/2023/10/26/pedian-100-dolares-para-acceder-a-la-informacion-dijo-el-hacker-mauro-eldritch-sobre-filtracion-de-mails-de-parlamentarios/ |
 | 19 | Metro 951 | Filtraciones de Enero | Spanish | https://mega.nz/file/sd8VmQSI#viLsPqQODtKmh-2EyCl60L0_RyCasieqLQs25ulZ-UU |
 | 20 | En Perspectiva | Cactus vs GEOCOM | Spanish | https://enperspectiva.uy/home/ciberataque-en-las-terminales-de-pos-y-difusion-de-datos-confidenciales-en-octubre-de-2023-que-se-encontro-en-esa-filtracion-con-mauro-eldritch-analista-en-ciberseguridad-y-hacker/ |
-| 21 | Metro 951 | Databreach: RENAPER | Spanish | https://ar.radiocut.fm/radiostation/metro951/listen/2024/04/01/19/50/25/ |
+| 21 | Metro 951 | DataBreach: RENAPER | Spanish | https://ar.radiocut.fm/radiostation/metro951/listen/2024/04/01/19/50/25/ |
+| 22 | Filo News | DataBreach: RENAPER | Spanish | https://www.youtube.com/watch?v=gKd2wJbcKR4&t=4063s |
 
 ### Television <a name="tv"></a>
 |#| Show | Title | Language | Link |
