@@ -334,6 +334,7 @@
 | 204 | C5N | DataBreach: RENAPER | Spanish | https://www.c5n.com/sociedad/renaper-robaron-y-publicaron-un-foro-mas-115-mil-fotos-ciudadanos-argentinos-n152777 |
 | 205 | Cba24n | DataBreach: RENAPER | Spanish | https://www.cba24n.com.ar/argentina/hackean-el-renaper-y-filtran-miles-de-fotos-de-ciudadanos-en-un-foro-de-venta-de-datos-personales_a660dcdfbf24aaa1783e741e0 |
 | 206 | Dark News | DataBreach: RENAPER | Spanish | https://www.brodersendarknews.com/i/143139754/publican-mas-de-mil-imagenes-del-renaper |
+| 207 | El País | Campaña de Phishing SMS | Spanish | https://www.elpais.com.uy/informacion/policiales/la-entrega-de-su-paquete-ha-sido-suspendida-sms-fraudulento-vuelve-a-circular-en-nombre-del-correo-uruguayo |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
