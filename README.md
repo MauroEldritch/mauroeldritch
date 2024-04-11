@@ -61,7 +61,8 @@
 | 41 | 2023 | **DEF CON 31 RV** | 🇺🇸 | 🐴 [Riding with the Chollimas](https://github.com/birminghamcyberarms/QRLog) |
 | 42 | 2023 | Nerdearla 10 | 🇦🇷 | 🐴 [Riding with the Chollimas](https://github.com/birminghamcyberarms/QRLog) |
 | 43 | 2023 | 8.8 | 🇨🇱 | 🐴 [Riding with the Chollimas](https://github.com/birminghamcyberarms/QRLog) |
-| 44 | 2023 | Interbanking DevConnect | 🇦🇷 | 🏦 [Amenazas digitales en la banca latinoamericana](https://docs.google.com/presentation/d/1pc0Iy1r2fFgolEBALt5jTAQMq1owWE8gOv__5EQ5DRM/)| 
+| 44 | 2023 | Interbanking DevConnect | 🇦🇷 | 🏦 [Amenazas digitales en la banca latinoamericana](https://docs.google.com/presentation/d/1pc0Iy1r2fFgolEBALt5jTAQMq1owWE8gOv__5EQ5DRM/)|
+| 45 | 2024 | Nerdearla | 🇨🇱 | 🧙🏼‍♂️ [You Shall Not Pass: Ataques RansomDDoS](https://www.youtube.com/watch?v=iEkWR3L-CiE)|
 
 ## CVEs <a name="cves"></a>
 |#| CVE | Vulnerability | Short Name | Score | Product | Link |
