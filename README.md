@@ -113,6 +113,7 @@
 | 21 | Metro 951 | DataBreach: RENAPER | Spanish | https://mega.nz/file/dNcHwaZA#b6h3GKF6mepb-wzlxCQWBbDC4RuhwXJA49VyoKE346U |
 | 22 | Filo News | DataBreach: RENAPER | Spanish | https://www.youtube.com/watch?v=gKd2wJbcKR4&t=4063s |
 | 23 | Metro 951 | DataBreach: Nosis | Spanish | https://mega.nz/file/AVUiwBwA#i0KIUbY3WkoLqkP7O-4ZshKrp3cPtGcyBN3nzZGxZJM | 
+| 24 | Metro 951 | DataBreach: Municipalidad de Neuquén | Spanish | https://mega.nz/file/dINWzYZJ#MXpZeWb391TW7y4dlSpgjAKdNbonhwFq9y7scsIIhuU |
 
 ### Television <a name="tv"></a>
 |#| Show | Title | Language | Link |
