@@ -340,6 +340,7 @@
 | 207 | El País | Campaña de Phishing SMS | Spanish | https://www.elpais.com.uy/informacion/policiales/la-entrega-de-su-paquete-ha-sido-suspendida-sms-fraudulento-vuelve-a-circular-en-nombre-del-correo-uruguayo |
 | 208 | Dark News | DataBreach: Nosis | Spanish | https://www.brodersendarknews.com/i/143385524/venden-datos-de-usuarios-de-nosis-en-argentina-y-una-cementera-de-uruguay |
 | 209 | Diario Clarín | DataBreach: DNRPA | Spanish | https://www.clarin.com/tecnologia/robaron-6-millones-imagenes-licencias-conducir-venden-suben-muestra-registro-javier-milei_0_jYMJpHtuft.html |
+| 210 | El Doce TV | DataBreach: DNRPA | Spanish | https://eldoce.tv/actualidad/2024/04/16/hackearon-millones-de-licencias-de-conducir-y-las-venden-por-internet-estan-las-de-milei-bullrich-y-petri/ |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
