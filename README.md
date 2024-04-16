@@ -342,6 +342,14 @@
 | 209 | Diario Clarín | DataBreach: DNRPA | Spanish | https://www.clarin.com/tecnologia/robaron-6-millones-imagenes-licencias-conducir-venden-suben-muestra-registro-javier-milei_0_jYMJpHtuft.html |
 | 210 | El Doce TV | DataBreach: DNRPA | Spanish | https://eldoce.tv/actualidad/2024/04/16/hackearon-millones-de-licencias-de-conducir-y-las-venden-por-internet-estan-las-de-milei-bullrich-y-petri/ |
 | 211 | La Nación | DataBreach: DNRPA | Spanish | https://www.lanacion.com.ar/seguridad/la-venden-a-us-3700-hackearon-la-base-de-datos-nacional-de-licencias-de-conducir-y-muestran-las-de-nid16042024/ |
+| 212 | 24 HS México | DataBreach: DNRPA | Spanish | https://www.24-horas.mx/2024/04/16/datos-de-mas-de-6-millones-de-licencias-de-conducir-son-robados-en-argentina/ |
+| 213 | Reporte Diario Chile | DataBreach: DNRPA | Spanish | https://reportediario.cl/2024/04/16/escandalo-en-argentina-roban-imagenes-de-millones-de-licencias-de-conducir/ |
+| 214 | iProfesional | DataBreach: DNRPA | Spanish | https://www.iprofesional.com/actualidad/404118-hackeos-a-afip-y-renaper-las-graves-fallas-en-ciberseguridad-del-estado-argentino |
+| 215 | Bio Bio Chile | DataBreach: DNRPA | Spanish | https://www.biobiochile.cl/noticias/internacional/america-latina/2024/04/16/milei-entre-las-victimas-roban-imagenes-de-casi-6-millones-de-licencias-de-conducir-en-argentina.shtml |
+| 216 | La Nación Chile | DataBreach: DNRPA | Spanish | https://www.lanacion.cl/roban-imagenes-de-casi-6-millones-de-licencias-de-conducir-en-argentina-milei-es-uno-de-los-afectados/ |
+| 217 | CNN Chile | DataBreach: DNRPA | Spanish | https://www.cnnchile.com/mundo/roban-base-datos-licencias-conducir-argentina-mauricio-macri-javier-milei-patricia-bullrich_20240416/ |
+| 218 | Ámbito Financiero | DataBreach: DNRPA | Spanish | https://www.ambito.com/tecnologia/ciberdelito-robaron-la-base-datos-todas-las-licencias-conducir-argentina-n5982562 |
+| 219 | Rosario3 | DataBreach: DNRPA | Spanish | https://www.rosario3.com/informaciongeneral/Un-hacker-puso-a-la-venta-una-serie-de-archivos-con-millones-de-licencias-de-conducir-entre-ellas-las-de-Javier-Milei-y-otros-funcionarios-20240416-0051.html |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
