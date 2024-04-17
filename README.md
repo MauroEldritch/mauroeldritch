@@ -350,6 +350,7 @@
 | 217 | CNN Chile | DataBreach: DNRPA | Spanish | https://www.cnnchile.com/mundo/roban-base-datos-licencias-conducir-argentina-mauricio-macri-javier-milei-patricia-bullrich_20240416/ |
 | 218 | Ámbito Financiero | DataBreach: DNRPA | Spanish | https://www.ambito.com/tecnologia/ciberdelito-robaron-la-base-datos-todas-las-licencias-conducir-argentina-n5982562 |
 | 219 | Rosario3 | DataBreach: DNRPA | Spanish | https://www.rosario3.com/informaciongeneral/Un-hacker-puso-a-la-venta-una-serie-de-archivos-con-millones-de-licencias-de-conducir-entre-ellas-las-de-Javier-Milei-y-otros-funcionarios-20240416-0051.html |
+| 220 | La República Perú | DataBreach: DNRPA | Spanish | https://larepublica.pe/mundo/2024/04/16/roban-los-datos-de-todas-las-licencias-de-conducir-de-argentina-incluida-la-de-milei-y-piden-us3000-javier-milei-ciberseguridad-hackers-licencia-de-conducir-patricia-bullrich-luis-petri-marcelo-tinelli-ansv-922800 |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
