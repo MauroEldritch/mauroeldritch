@@ -118,6 +118,7 @@
 | 23 | Metro 951 | DataBreach: Nosis | Spanish | https://mega.nz/file/AVUiwBwA#i0KIUbY3WkoLqkP7O-4ZshKrp3cPtGcyBN3nzZGxZJM | 
 | 24 | Metro 951 | DataBreach: Municipalidad de Neuquén | Spanish | https://mega.nz/file/dINWzYZJ#MXpZeWb391TW7y4dlSpgjAKdNbonhwFq9y7scsIIhuU |
 | 25 | Metro 951 | DataBreach: DNRPA | Spanish | https://mega.nz/file/FI8k2T4Q#beQZKPua0kKD4DL-s6XJ2kVBxR8N-D9W9dOAQqRIg2g |
+| 26 | Sin Galera | Malicious Fungible Tokens | Spanish | https://youtu.be/5Ykf82jdnHs?si=mCifmrppFJ7qZTqn&t=517 |
 
 ### Television <a name="tv"></a>
 |#| Show | Title | Language | Link |
