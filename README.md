@@ -361,6 +361,7 @@
 | 223 | LadoB | DataBreach: DNRPA | Spanish | https://ladobnews.substack.com/i/143567595/filtracion-de-datos-renaper-y-licencias-de-conducir |
 | 224 | El Observador | DataBreach: Cédulas de Identidad | Spanish | https://www.elobservador.com.uy/nota/el-riesgo-de-tu-cedula-publica-la-opinion-oficial-y-de-expertos-en-seguridad-informatica-20244151290 |
 | 225 | La Opinión | Malicious Fungible Tokens | Spanish | https://www.laopinionsemanario.com.ar/noticia/el-hacker-sampedrino-mauro-eldritch-expuso-sobre-ciberseguridad-en-suiza |
+| 226 | El Observador | Flipper Zero | Spanish | https://www.elobservador.com.uy/nota/el-dispositivo-que-trata-de-hackear-autos-y-portones-esta-en-uruguay-que-es-flipper-zero-2024441580 |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
