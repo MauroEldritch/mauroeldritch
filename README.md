@@ -359,6 +359,7 @@
 | 222 | Diario Clarín | Sobre datos biométricos | Spanish | https://www.clarin.com/tecnologia/vas-escanear-iris-detras-worldcoin-polemico-proyecto-entrega-500-dolares-persona_0_Q7X60cTPzI.html |
 | 223 | LadoB | DataBreach: DNRPA | Spanish | https://ladobnews.substack.com/i/143567595/filtracion-de-datos-renaper-y-licencias-de-conducir |
 | 224 | El Observador | DataBreach: Cédulas de Identidad | Spanish | https://www.elobservador.com.uy/nota/el-riesgo-de-tu-cedula-publica-la-opinion-oficial-y-de-expertos-en-seguridad-informatica-20244151290 |
+| 225 | La Opinión | Malicious Fungible Tokens | Spanish | https://www.laopinionsemanario.com.ar/noticia/el-hacker-sampedrino-mauro-eldritch-expuso-sobre-ciberseguridad-en-suiza |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
