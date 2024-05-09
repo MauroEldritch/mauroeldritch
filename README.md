@@ -119,6 +119,8 @@
 | 24 | Metro 951 | DataBreach: Municipalidad de Neuquén | Spanish | https://mega.nz/file/dINWzYZJ#MXpZeWb391TW7y4dlSpgjAKdNbonhwFq9y7scsIIhuU |
 | 25 | Metro 951 | DataBreach: DNRPA | Spanish | https://mega.nz/file/FI8k2T4Q#beQZKPua0kKD4DL-s6XJ2kVBxR8N-D9W9dOAQqRIg2g |
 | 26 | Sin Galera | Malicious Fungible Tokens | Spanish | https://youtu.be/5Ykf82jdnHs?si=mCifmrppFJ7qZTqn&t=517 |
+| 27 | Metro 951 | DataBreach: AMIA | Spanish | https://mega.nz/file/NdlCWCpT#-QRwn0U7GMEcGquaAdxtslwd44pTAmIlN_mjrgn3vpU |
+| 28 | Metro 951 | Ransomware: Dagma | Spanish | https://mega.nz/file/YQlGAbjT#ZTvkDQUj4RGWSKStmbBGoCc6C7Xg34ooAerGgsLLR64 |
 
 ### Television <a name="tv"></a>
 |#| Show | Title | Language | Link |
