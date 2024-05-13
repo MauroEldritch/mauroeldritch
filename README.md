@@ -122,6 +122,7 @@
 | 27 | Metro 951 | DataBreach: AMIA | Spanish | https://mega.nz/file/NdlCWCpT#-QRwn0U7GMEcGquaAdxtslwd44pTAmIlN_mjrgn3vpU |
 | 28 | Metro 951 | Ransomware: Dagma | Spanish | https://mega.nz/file/YQlGAbjT#ZTvkDQUj4RGWSKStmbBGoCc6C7Xg34ooAerGgsLLR64 |
 | 29 | Sarandí 690 | MeFiltraron | Spanish | https://www.sarandi690.com.uy/2024/05/10/me-filtraron-la-plataforma-para-registrar-los-ciberincidentes-de-uruguay/ |
+| 30 | Metro 951 | Telecom | Spanish | https://mega.nz/file/5cVCjZJY#NNYCXopUNlq0ncWTNoDMQLa_STTa7SXq65w7QvazA_8 |
 
 ### Television <a name="tv"></a>
 |#| Show | Title | Language | Link |
