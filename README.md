@@ -366,6 +366,7 @@
 | 225 | La Opinión | Malicious Fungible Tokens | Spanish | https://www.laopinionsemanario.com.ar/noticia/el-hacker-sampedrino-mauro-eldritch-expuso-sobre-ciberseguridad-en-suiza |
 | 226 | El Observador | Flipper Zero | Spanish | https://www.elobservador.com.uy/nota/el-dispositivo-que-trata-de-hackear-autos-y-portones-esta-en-uruguay-que-es-flipper-zero-2024441580 |
 | 227 | El Observador | Actualización de MeFiltraron | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/aumento-la-filtracion-mails-uruguayos-hackeos-son-mas-5-millones-cuentas-n5938579 |
+| 228 | El Observador | Data Extortion: GODHAND | Spanish | https://www.elobservador.com.uy/advierten-el-crecimiento-uruguay-data-extortion-afecto-un-liceo-privado-montevideo-n5939084 |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
