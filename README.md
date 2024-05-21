@@ -79,10 +79,11 @@
 ### Technical Articles <a name="articles"></a>
 |#| Blog / Zine | Title | Language | Link |
 |---|---|---|---|---|
-| 1 | Bitso Blog | Disrupting an APT Phishing Campaign | English | https://medium.com/bitso-engineering/profiling-disrupting-an-apt-spear-phishing-campaign-targeting-slack-users-in-the-financial-sector-9389533d5fc2 |
-| 2 | Bitso Blog | Drainers as a Service | English | https://medium.com/bitso-engineering/drainers-signing-the-crypto-devils-contract-6349bef54418 |
-| 3 | Bitso Blog | Docks Malware | English | https://medium.com/bitso-engineering/docks-profiling-disrupting-yet-another-state-sponsored-campaign-targeting-the-crypto-space-a81a1db4173b |
-| 4 | Bitso Blog | Malware & Taxes | English | https://medium.com/bitso-engineering/malware-taxes-529ba082a33e |
+| 1 | Bitso Quetzal Team | Disrupting an APT Phishing Campaign | English | https://quetzalteam.substack.com/p/evilslack |
+| 2 | Bitso Quetzal Team | Drainers as a Service | English | https://quetzalteam.substack.com/p/drainers |
+| 3 | Bitso Quetzal Team | Docks Malware | English | https://quetzalteam.substack.com/p/docks |
+| 4 | Bitso Quetzal Team | Malware & Taxes | English | https://quetzalteam.substack.com/p/malware-and-taxes |
+| 5 | Bitso Quetzal Team | Your Ad Here | English | https://quetzalteam.substack.com/p/your-ad-here |
 
 ### Ransomware Interviews <a name="interviews"></a>
 |#| Interview | Language | Link |
