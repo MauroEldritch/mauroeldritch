@@ -125,6 +125,7 @@
 | 29 | Sarandí 690 | MeFiltraron | Spanish | https://www.sarandi690.com.uy/2024/05/10/me-filtraron-la-plataforma-para-registrar-los-ciberincidentes-de-uruguay/ |
 | 30 | Metro 951 | Telecom | Spanish | https://mega.nz/file/5cVCjZJY#NNYCXopUNlq0ncWTNoDMQLa_STTa7SXq65w7QvazA_8 |
 | 31 | Metro 951 | Hotel Del Bono | Spanish | https://mega.nz/file/wYcCULza#if9u3FiqFo-plnnWBe-vE8SkA_FHsalbMg55lwUlfPA |
+| 32 | Metro 951 | Ransomware: Dagma | Spanish | https://mega.nz/file/sA93hAoA#nhK6hjK5y9XE9Wru50tgUT-x87MGlbr1gHVXXHoLeSU | 
 
 ### Television <a name="tv"></a>
 |#| Show | Title | Language | Link |
