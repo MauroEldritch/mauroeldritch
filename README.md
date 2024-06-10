@@ -84,6 +84,8 @@
 | 3 | Bitso Quetzal Team | Docks Malware | English | https://quetzalteam.substack.com/p/docks |
 | 4 | Bitso Quetzal Team | Malware & Taxes | English | https://quetzalteam.substack.com/p/malware-and-taxes |
 | 5 | Bitso Quetzal Team | Your Ad Here | English | https://quetzalteam.substack.com/p/your-ad-here |
+| 6 | PagedOut Issue #4 | Malicious Fungible Tokens | English | https://pagedout.institute/download/PagedOut_004_beta1.pdf |
+| 7 | PagedOut Issue #4 | Drainers | English | https://pagedout.institute/download/PagedOut_004_beta1.pdf |
 
 ### Ransomware Interviews <a name="interviews"></a>
 |#| Interview | Language | Link |
