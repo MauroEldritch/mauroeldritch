@@ -375,6 +375,7 @@
 | 228 | El Observador | Data Extortion: GODHAND | Spanish | https://www.elobservador.com.uy/advierten-el-crecimiento-uruguay-data-extortion-afecto-un-liceo-privado-montevideo-n5939084 |
 | 229 | Infobae | Data Extortion: GODHAND | Spanish | https://www.infobae.com/america/america-latina/2024/05/15/advierten-en-uruguay-por-el-crecimiento-de-las-extorsiones-de-datos-tras-hackeos-un-colegio-fue-afectado/ |
 | 230 | El Observador | Sobre la caída de BreachForums | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/fbi-tomo-el-poder-un-foro-que-tenia-filtraciones-fotos-cedulas-y-hackeos-del-inau-intendencias-y-empresas-uruguayas-n5940583 |
+| 231 | La Opinión | QRLog en Seúl | Spanish | https://www.laopinionsemanario.com.ar/noticia/mauro-eldritch-expuso-en-seul-sobre-una-nueva-ciberarma |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
