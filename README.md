@@ -93,7 +93,7 @@
 | 1 | Vice Society | English & Spanish | https://github.com/mauroeldritch/vicesociety |
 
 ## Media <a name="media"></a>
-### Podcasts & Radio <a name="radio"></a>
+### Socials, Podcasts & Radio <a name="radio"></a>
 |#| Show | Title | Language | Link |
 |---|---|---|---|---|
 | 1 | Se Tildó | Confesiones de un Troll | Spanish | https://open.spotify.com/episode/7rul6ok4jPSvRaedUulPLs |
@@ -128,6 +128,9 @@
 | 30 | Metro 951 | Telecom | Spanish | https://mega.nz/file/5cVCjZJY#NNYCXopUNlq0ncWTNoDMQLa_STTa7SXq65w7QvazA_8 |
 | 31 | Metro 951 | Hotel Del Bono | Spanish | https://mega.nz/file/wYcCULza#if9u3FiqFo-plnnWBe-vE8SkA_FHsalbMg55lwUlfPA |
 | 32 | Metro 951 | Ransomware: Dagma | Spanish | https://mega.nz/file/sA93hAoA#nhK6hjK5y9XE9Wru50tgUT-x87MGlbr1gHVXXHoLeSU | 
+| 33 | C5N | DataBreach: San Luis | Spanish | https://www.instagram.com/p/C8akyL8M5jZ/ |
+| 34 | Metro 951 | DataBreach: TravelSale | Spanish | https://mega.nz/file/Vd9WHCrK#6EJ-Bw0RQCi3UG8cAKv3wf9vhdZthlyPNG1HnnZrro4 |
+
 
 ### Television <a name="tv"></a>
 |#| Show | Title | Language | Link |
