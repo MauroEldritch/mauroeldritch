@@ -130,6 +130,8 @@
 | 32 | Metro 951 | Ransomware: Dagma | Spanish | https://mega.nz/file/sA93hAoA#nhK6hjK5y9XE9Wru50tgUT-x87MGlbr1gHVXXHoLeSU | 
 | 33 | C5N | DataBreach: San Luis | Spanish | https://www.instagram.com/p/C8akyL8M5jZ/ |
 | 34 | Metro 951 | DataBreach: TravelSale | Spanish | https://mega.nz/file/Vd9WHCrK#6EJ-Bw0RQCi3UG8cAKv3wf9vhdZthlyPNG1HnnZrro4 |
+| 35 | Metro 951 | Ransomware: OCASA | Spanish | https://mega.nz/file/NJkXlQ7T#72wyvO1TNjE2_dBffbJqkjqDuscL7fli06VL4CYOORo |
+| 36 | Metro 951 | Ransomware: DeCreditos | Spanish | https://mega.nz/file/NJkXlQ7T#72wyvO1TNjE2_dBffbJqkjqDuscL7fli06VL4CYOORo |
 
 
 ### Television <a name="tv"></a>
