@@ -91,6 +91,7 @@
 |#| Interview | Language | Link |
 |---|---|---|---|
 | 1 | Vice Society | English & Spanish | https://github.com/mauroeldritch/vicesociety |
+| 2 | Dark Vault | English & Spanish | https://github.com/mauroeldritch/darkvault |
 
 ## Media <a name="media"></a>
 ### Socials, Podcasts & Radio <a name="radio"></a>
@@ -381,6 +382,7 @@
 | 229 | Infobae | Data Extortion: GODHAND | Spanish | https://www.infobae.com/america/america-latina/2024/05/15/advierten-en-uruguay-por-el-crecimiento-de-las-extorsiones-de-datos-tras-hackeos-un-colegio-fue-afectado/ |
 | 230 | El Observador | Sobre la caída de BreachForums | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/fbi-tomo-el-poder-un-foro-que-tenia-filtraciones-fotos-cedulas-y-hackeos-del-inau-intendencias-y-empresas-uruguayas-n5940583 |
 | 231 | La Opinión | QRLog en Seúl | Spanish | https://www.laopinionsemanario.com.ar/noticia/mauro-eldritch-expuso-en-seul-sobre-una-nueva-ciberarma |
+| 232 | Dark News | Lockbit vs Federal Reserve | Spanish | https://www.brodersendarknews.com/i/145977317/lockbit-mintio-en-su-sitio-el-grupo-cada-vez-con-menos-poder-de-fuego |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
