@@ -384,6 +384,7 @@
 | 230 | El Observador | Sobre la caída de BreachForums | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/fbi-tomo-el-poder-un-foro-que-tenia-filtraciones-fotos-cedulas-y-hackeos-del-inau-intendencias-y-empresas-uruguayas-n5940583 |
 | 231 | La Opinión | QRLog en Seúl | Spanish | https://www.laopinionsemanario.com.ar/noticia/mauro-eldritch-expuso-en-seul-sobre-una-nueva-ciberarma |
 | 232 | Dark News | Lockbit vs Federal Reserve | Spanish | https://www.brodersendarknews.com/i/145977317/lockbit-mintio-en-su-sitio-el-grupo-cada-vez-con-menos-poder-de-fuego |
+| 233 | Telenoche | Campaña de Deepfakes en Uruguay | Spanish | https://www.telenoche.com.uy/ciencia-y-tecnologia/campana-estafas-el-exterior-usan-la-imagen-lacalle-pou-y-daniel-salinas-n5370239 |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
