@@ -135,7 +135,7 @@
 | 34 | Metro 951 | DataBreach: TravelSale | Spanish | https://mega.nz/file/Vd9WHCrK#6EJ-Bw0RQCi3UG8cAKv3wf9vhdZthlyPNG1HnnZrro4 |
 | 35 | Metro 951 | Ransomware: OCASA | Spanish | https://mega.nz/file/NJkXlQ7T#72wyvO1TNjE2_dBffbJqkjqDuscL7fli06VL4CYOORo |
 | 36 | Metro 951 | Ransomware: DeCreditos | Spanish | https://mega.nz/file/NJkXlQ7T#72wyvO1TNjE2_dBffbJqkjqDuscL7fli06VL4CYOORo |
-
+| 37 | Metro 951 | Ransomware: DarkVault & DeCreditos | Spanish | https://mega.nz/file/AElGWRxK#HeBIWNyunmWnV2FgJn2uoHLu15DvKicg4E-kSd5Zx88 |
 
 ### Television <a name="tv"></a>
 |#| Show | Title | Language | Link |
