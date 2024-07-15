@@ -67,6 +67,7 @@
 | 47 | 2024 | TyphoonCon | 🇰🇷 | 🦮 [mFT: Malicious Fungible Tokens](https://docs.google.com/presentation/d/1_upUn_qJ_BM-kHXalJwYpNS3wTirxTzAaJ8Z2_UoV0Y/edit#slide=id.g4dfce81f19_0_45) |
 | 48 | 2024 | TyphoonCon | 🇰🇷 | 🐴 [Riding with the Chollimas](https://github.com/birminghamcyberarms/QRLog) |
 | 49 | 2024 | i3 | 🇦🇷 | 🏦 [Amenazas digitales en la banca latinoamericana](https://docs.google.com/presentation/d/13MepK8l6FT5BK4FDkHbcX6FP8rs4HBlmjJMWDuCkAdo/edit?usp=sharing)|
+| 50 | 2024 | Campus Party Sao Paulo | 🇧🇷 | 🇰🇵 [K-Hackers](https://docs.google.com/presentation/d/1EsWgRaRHTpq8Xyy9H9Ds07XORnh1Qw9Q)|
 
 ## CVEs <a name="cves"></a>
 |#| CVE | Vulnerability | Short Name | Score | Product | Link |
