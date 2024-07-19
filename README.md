@@ -390,6 +390,7 @@
 | 232 | Dark News | Lockbit vs Federal Reserve | Spanish | https://www.brodersendarknews.com/i/145977317/lockbit-mintio-en-su-sitio-el-grupo-cada-vez-con-menos-poder-de-fuego |
 | 233 | Telenoche | Campaña de Deepfakes en Uruguay | Spanish | https://www.telenoche.com.uy/ciencia-y-tecnologia/campana-estafas-el-exterior-usan-la-imagen-lacalle-pou-y-daniel-salinas-n5370239 |
 | 234 | El Observador | Sobre el fallo de Crowdstrike | Spanish | https://www.elobservador.com.uy/que-hace-el-software-crowdstrike-que-provoco-una-fuerte-caida-todo-el-mundo-y-afecto-empresas-uruguayas-n5952063 |
+| 235 | Diario Clarín | Sobre el fallo de Crowdstrike | Spanish | https://www.clarin.com/tecnologia/crowdstrike-caida-global-microsoft-impacto-forma-masiva-argentina_0_OvUfUM3xiz.html |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
