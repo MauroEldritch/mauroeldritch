@@ -393,6 +393,7 @@
 | 234 | El Observador | Sobre el fallo de Crowdstrike | Spanish | https://www.elobservador.com.uy/que-hace-el-software-crowdstrike-que-provoco-una-fuerte-caida-todo-el-mundo-y-afecto-empresas-uruguayas-n5952063 |
 | 235 | Diario Clarín | Sobre el fallo de Crowdstrike | Spanish | https://www.clarin.com/tecnologia/crowdstrike-caida-global-microsoft-impacto-forma-masiva-argentina_0_OvUfUM3xiz.html |
 | 236 | Felicitas Bonavitta | Ransomware: La Pampa | Spanish | https://felicitasbonavitta.com/wp/2024/07/22/filtracion-de-datos-en-el-municipio-de-santa-rosa/ |
+| 237 | Diario de La Pampa | Ransomware: La Pampa | Spanish | https://www.eldiariodelapampa.com.ar/la-pampa/37954/filtran-datos-del-hackeo-a-la-municipalidad-de-santa-rosa |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
