@@ -394,6 +394,8 @@
 | 235 | Diario Clarín | Sobre el fallo de Crowdstrike | Spanish | https://www.clarin.com/tecnologia/crowdstrike-caida-global-microsoft-impacto-forma-masiva-argentina_0_OvUfUM3xiz.html |
 | 236 | Felicitas Bonavitta | Ransomware: La Pampa | Spanish | https://felicitasbonavitta.com/wp/2024/07/22/filtracion-de-datos-en-el-municipio-de-santa-rosa/ |
 | 237 | Diario de La Pampa | Ransomware: La Pampa | Spanish | https://www.eldiariodelapampa.com.ar/la-pampa/37954/filtran-datos-del-hackeo-a-la-municipalidad-de-santa-rosa |
+| 238 | Plan B Noticias | Ransomware: La Pampa | Spanish | https://www.planbnoticias.com.ar/index.php/2024/07/22/hackeo-a-la-municipalidad-atacantes-filtran-datos-oficiales/ |
+| 239 | Full Diario | Ransomware: La Pampa | Spanish | https://fulldiario.com.ar/ciberataque-al-municipio-santarroseno-hay-informacion-sensible-del-gobierno-y-datos-personales-de-santarrosenos-que-deben-ser-advertidos-para-prevenir-estafas/ |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
