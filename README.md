@@ -140,6 +140,7 @@
 | 38 | Metro 951 | Entrevista | Spanish | https://mega.nz/folder/EV9wTIrB#Lsda7R9U6Ig4OZaxtX1fDA |
 | 39 | Metro 951 | Ransomware: Gobierno de La Pampa | Spanish | https://mega.nz/file/sAkBzBYK#5BbGub3WrLxc22bzyhVxUxY3rFsX096IHhfWTzwCk0M |
 | 40 | Metro 951 | DataBreach: Colegio Notarial Mendoza | Spanish | https://mega.nz/file/NFNX0A7A#abjYa7C69KmzuWBlR42YmolaeMbsFzoJdEKJ_DytuAI |
+| 41 | Metro 951 | Ransomware: OCASA | Spanish |https://mega.nz/file/kZlgmQiT#HoJmE-WBp6jArWxhlqohnIEEhus2g6tpDwO3hnPTHQM |
 
 ### Television <a name="tv"></a>
 |#| Show | Title | Language | Link |
