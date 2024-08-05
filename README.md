@@ -398,6 +398,7 @@
 | 238 | Plan B Noticias | Ransomware: La Pampa | Spanish | https://www.planbnoticias.com.ar/index.php/2024/07/22/hackeo-a-la-municipalidad-atacantes-filtran-datos-oficiales/ |
 | 239 | Full Diario | Ransomware: La Pampa | Spanish | https://fulldiario.com.ar/ciberataque-al-municipio-santarroseno-hay-informacion-sensible-del-gobierno-y-datos-personales-de-santarrosenos-que-deben-ser-advertidos-para-prevenir-estafas/ |
 | 240 | Dark News | Ransomware: La Pampa | Spanish | https://www.brodersendarknews.com/i/146760467/publican-datos-de-la-municipalidad-de-santa-rosa |
+| 241 | El País | Ciberataque: Partido Nacional | Spanish | https://www.elpais.com.uy/informacion/sociedad/hackeo-a-la-web-del-partido-nacional-y-amenaza-a-graciela-bianchi-en-que-consistio-el-grave-ataque |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
