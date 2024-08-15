@@ -69,6 +69,9 @@
 | 48 | 2024 | TyphoonCon | 🇰🇷 | 🐴 [Riding with the Chollimas](https://github.com/birminghamcyberarms/QRLog) |
 | 49 | 2024 | i3 | 🇦🇷 | 🏦 [Amenazas digitales en la banca latinoamericana](https://docs.google.com/presentation/d/13MepK8l6FT5BK4FDkHbcX6FP8rs4HBlmjJMWDuCkAdo/edit?usp=sharing)|
 | 50 | 2024 | Campus Party Sao Paulo | 🇧🇷 | 🇰🇵 [K-Hackers](https://docs.google.com/presentation/d/1EsWgRaRHTpq8Xyy9H9Ds07XORnh1Qw9Q)|
+| 51 | 2024 | BSides Las Vegas | 🇺🇸 | 💿 [Ransomware BSides](https://docs.google.com/presentation/d/1rfCkOHxPTFkMq1WHamhsrLDyidUNeK296H9TBlTFiuE/edit?usp=sharing)|
+| 52 | 2024 | DEF CON 32 Adversary Village | 🇺🇸 | 🦮 [mFT: Malicious Fungible Tokens](https://docs.google.com/presentation/d/1_upUn_qJ_BM-kHXalJwYpNS3wTirxTzAaJ8Z2_UoV0Y/edit#slide=id.g4dfce81f19_0_45) |
+| 53 | 2024 | DEF CON 32 La Villa Hacker | 🇺🇸 | 💿 [Ransomware BSides](https://docs.google.com/presentation/d/1rfCkOHxPTFkMq1WHamhsrLDyidUNeK296H9TBlTFiuE/edit?usp=sharing)|
 
 ## CVEs <a name="cves"></a>
 |#| CVE | Vulnerability | Short Name | Score | Product | Link |
@@ -89,6 +92,7 @@
 | 5 | Bitso Quetzal Team | Your Ad Here | English | https://quetzalteam.substack.com/p/your-ad-here |
 | 6 | PagedOut Issue #4 | Malicious Fungible Tokens | English | https://pagedout.institute/download/PagedOut_004_beta1.pdf |
 | 7 | PagedOut Issue #4 | Drainers | English | https://pagedout.institute/download/PagedOut_004_beta1.pdf |
+| 8 | Bitso Quetzal Team | Profiling and Burning a DaaS campaign | English | https://quetzal.bitso.com/p/it-never-drains-but-it-pours |
 
 ### Ransomware Interviews <a name="interviews"></a>
 |#| Interview | Language | Link |
