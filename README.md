@@ -93,6 +93,7 @@
 | 6 | PagedOut Issue #4 | Malicious Fungible Tokens | English | https://pagedout.institute/download/PagedOut_004_beta1.pdf |
 | 7 | PagedOut Issue #4 | Drainers | English | https://pagedout.institute/download/PagedOut_004_beta1.pdf |
 | 8 | Bitso Quetzal Team | Profiling and Burning a DaaS campaign | English | https://quetzal.bitso.com/p/it-never-drains-but-it-pours |
+| 9 | Phrack Issue #71 | Riding with the Chollimas | English | http://phrack.org/issues/71/3.html#article |
 
 ### Ransomware Interviews <a name="interviews"></a>
 |#| Interview | Language | Link |
