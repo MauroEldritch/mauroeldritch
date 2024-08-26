@@ -72,6 +72,7 @@
 | 51 | 2024 | BSides Las Vegas | 🇺🇸 | 💿 [Ransomware BSides](https://www.youtube.com/live/y6ABaBO3hLE?si=W7Rt4QNJ2rVN7hEy&t=27486)|
 | 52 | 2024 | DEF CON 32 Adversary Village | 🇺🇸 | 🦮 [mFT: Malicious Fungible Tokens](https://docs.google.com/presentation/d/1_upUn_qJ_BM-kHXalJwYpNS3wTirxTzAaJ8Z2_UoV0Y/edit#slide=id.g4dfce81f19_0_45) |
 | 53 | 2024 | DEF CON 32 La Villa Hacker | 🇺🇸 | 💿 [Ransomware BSides](https://docs.google.com/presentation/d/1rfCkOHxPTFkMq1WHamhsrLDyidUNeK296H9TBlTFiuE/edit?usp=sharing)|
+| 54 | 2024 | BxSec | 🇧🇷 | 🇰🇵 [K-Hackers](https://docs.google.com/presentation/d/1EsWgRaRHTpq8Xyy9H9Ds07XORnh1Qw9Q)|
 
 ## CVEs <a name="cves"></a>
 |#| CVE | Vulnerability | Short Name | Score | Product | Link |
