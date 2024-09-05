@@ -73,6 +73,7 @@
 | 52 | 2024 | DEF CON 32 Adversary Village | 🇺🇸 | 🦮 [mFT: Malicious Fungible Tokens](https://docs.google.com/presentation/d/1_upUn_qJ_BM-kHXalJwYpNS3wTirxTzAaJ8Z2_UoV0Y/edit#slide=id.g4dfce81f19_0_45) |
 | 53 | 2024 | DEF CON 32 La Villa Hacker | 🇺🇸 | 💿 [Ransomware BSides](https://docs.google.com/presentation/d/1rfCkOHxPTFkMq1WHamhsrLDyidUNeK296H9TBlTFiuE/edit?usp=sharing)|
 | 54 | 2024 | BxSec | 🇧🇷 | 🇰🇵 [K-Hackers](https://docs.google.com/presentation/d/1EsWgRaRHTpq8Xyy9H9Ds07XORnh1Qw9Q)|
+| 55 | 2024 | Nerdearla Intersec | 🇦🇷 | ☠️ [DEF CON Learnings](https://docs.google.com/presentation/d/1fbhZxQvl2QXYLBNuuzFUh8ED4__WF-i-bKPXzZCgsvU/edit?usp=sharing) |
 
 ## CVEs <a name="cves"></a>
 |#| CVE | Vulnerability | Short Name | Score | Product | Link |
