@@ -408,6 +408,8 @@
 | 239 | Full Diario | Ransomware: La Pampa | Spanish | https://fulldiario.com.ar/ciberataque-al-municipio-santarroseno-hay-informacion-sensible-del-gobierno-y-datos-personales-de-santarrosenos-que-deben-ser-advertidos-para-prevenir-estafas/ |
 | 240 | Dark News | Ransomware: La Pampa | Spanish | https://www.brodersendarknews.com/i/146760467/publican-datos-de-la-municipalidad-de-santa-rosa |
 | 241 | El País | Ciberataque: Partido Nacional | Spanish | https://www.elpais.com.uy/informacion/sociedad/hackeo-a-la-web-del-partido-nacional-y-amenaza-a-graciela-bianchi-en-que-consistio-el-grave-ataque |
+| 242 | Agencia Nova | Nuevas tendencias en seguridad | Spanish | https://www.agencianova.com/nota.asp?n=2024_9_10&id=143237&id_tiponota=62 |
+| 243 | ESET WeLiveSecurity | Filtraciones y mención a MeFiltraron | Spanish | https://www.welivesecurity.com/es/privacidad/filtraciones-datos-2024-se-cuentan-miles-millones/ |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
