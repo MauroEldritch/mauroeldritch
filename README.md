@@ -411,6 +411,7 @@
 | 242 | Agencia Nova | Nuevas tendencias en seguridad | Spanish | https://www.agencianova.com/nota.asp?n=2024_9_10&id=143237&id_tiponota=62 |
 | 243 | ESET WeLiveSecurity | Filtraciones y mención a MeFiltraron | Spanish | https://www.welivesecurity.com/es/privacidad/filtraciones-datos-2024-se-cuentan-miles-millones/ |
 | 244 | El Observador | Filtración de datos entre MTSS & DNIC | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/hackers-ponen-la-venta-un-sistema-que-permite-saber-quienes-son-7-millones-cedulas-n5960764 |
+| 245 | Telenoche | Filtración de datos entre MTSS & DNIC | Spanish | https://www.telenoche.com.uy/sociedad/hackers-pusieron-la-venta-datos-millones-cedulas-uruguayas-n5373520 |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
