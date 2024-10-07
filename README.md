@@ -416,6 +416,9 @@
 | 244 | El Observador | Filtración de datos entre MTSS & DNIC | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/hackers-ponen-la-venta-un-sistema-que-permite-saber-quienes-son-7-millones-cedulas-n5960764 |
 | 245 | Telenoche | Filtración de datos entre MTSS & DNIC | Spanish | https://www.telenoche.com.uy/sociedad/hackers-pusieron-la-venta-datos-millones-cedulas-uruguayas-n5373520 |
 | 246 | Dark News | EVILCORP | Spanish | https://www.brodersendarknews.com/p/ransomware-lockbit-evilcorp-operacion-cronos |
+| 247 | La Opinión Semanario | Informe sobre RainbowEX | https://www.laopinionsemanario.com.ar/noticia/rainbowex-el-informe-que-revela-por-que-la-china-es-un-esquema-piramidal-la-app-captura-datos-personales |
+| 248 | La Opinión Semanario | Databreach: RainbowEX | https://www.laopinionsemanario.com.ar/noticia/rainbowex-venden-datos-personales-de-todos-los-participantes-de-la-plataforma-de-criptomonedas-de-la-china |
+
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
