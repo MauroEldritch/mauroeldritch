@@ -416,8 +416,8 @@
 | 244 | El Observador | Filtración de datos entre MTSS & DNIC | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/hackers-ponen-la-venta-un-sistema-que-permite-saber-quienes-son-7-millones-cedulas-n5960764 |
 | 245 | Telenoche | Filtración de datos entre MTSS & DNIC | Spanish | https://www.telenoche.com.uy/sociedad/hackers-pusieron-la-venta-datos-millones-cedulas-uruguayas-n5373520 |
 | 246 | Dark News | EVILCORP | Spanish | https://www.brodersendarknews.com/p/ransomware-lockbit-evilcorp-operacion-cronos |
-| 247 | La Opinión Semanario | Informe sobre RainbowEX | https://www.laopinionsemanario.com.ar/noticia/rainbowex-el-informe-que-revela-por-que-la-china-es-un-esquema-piramidal-la-app-captura-datos-personales |
-| 248 | La Opinión Semanario | Databreach: RainbowEX | https://www.laopinionsemanario.com.ar/noticia/rainbowex-venden-datos-personales-de-todos-los-participantes-de-la-plataforma-de-criptomonedas-de-la-china |
+| 247 | La Opinión Semanario | Informe sobre RainbowEX | Spanish | https://www.laopinionsemanario.com.ar/noticia/rainbowex-el-informe-que-revela-por-que-la-china-es-un-esquema-piramidal-la-app-captura-datos-personales |
+| 248 | La Opinión Semanario | Databreach: RainbowEX | Spanish | https://www.laopinionsemanario.com.ar/noticia/rainbowex-venden-datos-personales-de-todos-los-participantes-de-la-plataforma-de-criptomonedas-de-la-china |
 | 249 | La Opinión Semanario | Análisis sobre RainbowEx | Spanish | https://www.laopinionsemanario.com.ar/noticia/rainbowex-un-profesional-explico-la-diferencia-entre-hacer-trading-y-la-plataforma-de-la-china |
 | 250 | NotiSanPedro | RainbowEx: Presentación ante la Justicia | Spanish | http://www.notisanpedro.info/2024/10/posible-estafa-piramidal-presentacion.html |
 | 251 | La Opinión Semanario | RainbowEx: Gobierno Provincial manifestó preocupación | Spanish | https://www.laopinionsemanario.com.ar/noticia/el-gobierno-provincial-expreso-gran-preocupacion-por-el-tema-rainbowex-en-san-pedro |
