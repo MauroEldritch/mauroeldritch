@@ -418,6 +418,10 @@
 | 246 | Dark News | EVILCORP | Spanish | https://www.brodersendarknews.com/p/ransomware-lockbit-evilcorp-operacion-cronos |
 | 247 | La Opinión Semanario | Informe sobre RainbowEX | https://www.laopinionsemanario.com.ar/noticia/rainbowex-el-informe-que-revela-por-que-la-china-es-un-esquema-piramidal-la-app-captura-datos-personales |
 | 248 | La Opinión Semanario | Databreach: RainbowEX | https://www.laopinionsemanario.com.ar/noticia/rainbowex-venden-datos-personales-de-todos-los-participantes-de-la-plataforma-de-criptomonedas-de-la-china |
+| 249 | La Opinión Semanario | Análisis sobre RainbowEx | Spanish | https://www.laopinionsemanario.com.ar/noticia/rainbowex-un-profesional-explico-la-diferencia-entre-hacer-trading-y-la-plataforma-de-la-china |
+| 250 | NotiSanPedro | RainbowEx: Presentación ante la Justicia | Spanish | http://www.notisanpedro.info/2024/10/posible-estafa-piramidal-presentacion.html |
+| 251 | La Opinión Semanario | RainbowEx: Gobierno Provincial manifestó preocupación | Spanish | https://www.laopinionsemanario.com.ar/noticia/el-gobierno-provincial-expreso-gran-preocupacion-por-el-tema-rainbowex-en-san-pedro |
+| 252 | El Observador | RainbowEx | Spanish | https://www.elobservador.com.uy/argentina/sociedad/un-tercio-los-habitantes-san-pedro-cayo-una-estafa-piramidal-criptomonedas-traves-una-app-que-vende-sus-datos-personales-n5964282/amp |
 
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
