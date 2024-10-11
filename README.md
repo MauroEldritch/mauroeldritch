@@ -423,7 +423,9 @@
 | 251 | La Opinión Semanario | RainbowEx: Gobierno Provincial manifestó preocupación | Spanish | https://www.laopinionsemanario.com.ar/noticia/el-gobierno-provincial-expreso-gran-preocupacion-por-el-tema-rainbowex-en-san-pedro |
 | 252 | El Observador | RainbowEx | Spanish | https://www.elobservador.com.uy/argentina/sociedad/un-tercio-los-habitantes-san-pedro-cayo-una-estafa-piramidal-criptomonedas-traves-una-app-que-vende-sus-datos-personales-n5964282/amp |
 | 253 | Urgente24 | Filtración de RainbowEx | Spanish | https://urgente24.com/actualidad/alerta-san-pedro-crecen-las-dudas-una-plataforma-trading-fraudulenta-n586989 |
-
+| 254 | Dark News | Filtración de RainbowEx | Spanish | https://www.brodersendarknews.com/i/149943723/estafa-piramidal-de-escala-masiva-y-con-filtracion-de-datos-en-san-pedro |
+| 255 | TN | Filtración de RainbowEx | Spanish | https://tn.com.ar/tecno/novedades/2024/10/10/san-pedro-filtraron-datos-personales-de-los-involucrados-en-el-esquema-piramidal-rainbowex/ |
+| 256 | Diario Clarín | Filtración de RainbowEx | Spanish | https://www.clarin.com/tecnologia/rainbowex-filtran-datos-personales-usuarios-panel-gestiona-inversiones-san-pedro_0_KlnemNcSYd.html |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
