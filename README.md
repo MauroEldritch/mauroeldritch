@@ -427,6 +427,7 @@
 | 255 | TN | Filtración de RainbowEx | Spanish | https://tn.com.ar/tecno/novedades/2024/10/10/san-pedro-filtraron-datos-personales-de-los-involucrados-en-el-esquema-piramidal-rainbowex/ |
 | 256 | Diario Clarín | Filtración de RainbowEx | Spanish | https://www.clarin.com/tecnologia/rainbowex-filtran-datos-personales-usuarios-panel-gestiona-inversiones-san-pedro_0_KlnemNcSYd.html |
 | 257 | La Opinión Semanario | Especial sobre RainbowEx | Spanish | https://www.laopinionsemanario.com.ar/noticia/revivi-sin-galera-el-programa-de-lili-berardi-del-sabado-12-de-octubre-de-2024-todo-sobre-rainbowex |
+| 258 | Chequeado | Estafas con IA | Spanish | https://chequeado.com/el-explicador/estafas-virtuales-como-te-pueden-enganar-con-audios-o-videos-creados-con-inteligencia-artificial/ |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
