@@ -432,6 +432,12 @@
 | 260 | La Opinión Semanario | Filtración de RainbowEx | Spanish | https://www.laopinionsemanario.com.ar/noticia/rainbowex-detras-el-telefono-de-la-china-hay-un-numero-de-san-pedro-y-es-de-maximiliano-braga |
 | 261 | La Opinión Semanario | Filtración de RainbowEx | Spanish | https://www.laopinionsemanario.com.ar/noticia/rainbowex-62-mil-usuarios-invirtieron-mas-de-49-millones-de-dolares |
 | 262 | Diario Clarín | Filtración de RainbowEx | Spanish | https://www.clarin.com/sociedad/datos-insolitos-esconde-rainbowex-lider-puso-1100-dolares-junto-405-mil-misterio-china-vive-san-pedro_0_aXZIpbv5yc.html |
+| 263 | La Opinión Semanario | RainbowEx | Spanish | https://www.laopinionsemanario.com.ar/noticia/rainbowex-las-pruebas-que-demuestran-que-la-china-esta-enmascarada-en-el-telefono-de-maximiliano-braga |
+| 264 | La Noticia 1 | RainbowEx | Spanish | https://www.lanoticia1.com/noticia/rainbowex-ahora-le-exige-a-los-inversores-88-dolares-para-que-recuperen-sus-ahorros |
+| 265 | La Noticia 1 | RainbowEx | Spanish | https://www.lanoticia1.com/noticia/rainbowex-el-informe-que-revela-un-esquema-piramidal-los-millones-detras-del-mecanismo-y-como-siguen-los-operativos |
+| 266 | El Bonaerense | RainbowEx | Spanish | https://www.elbonaerense.news/2024/10/13/la-estafa-piramidal-en-san-pedro-movio-casi-50-millones-de-dolares |
+| 267 | Calamuchita Ya | RainbowEx | Spanish | https://calamuchitaya.com/12096-investigaciones-judiciales-abiertas-por-estafa-multimillonaria-en-rainbowex/ |
+| 268 | A24 | RainbowEx | Spanish | https://www.a24.com/actualidad/estafa-piramidal-san-pedro-49-millones-dolares-y-una-china-que-era-un-chino-y-vive-un-exclusivo-barrio-privado-n1362628 |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
