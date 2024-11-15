@@ -438,6 +438,8 @@
 | 266 | El Bonaerense | RainbowEx | Spanish | https://www.elbonaerense.news/2024/10/13/la-estafa-piramidal-en-san-pedro-movio-casi-50-millones-de-dolares |
 | 267 | Calamuchita Ya | RainbowEx | Spanish | https://calamuchitaya.com/12096-investigaciones-judiciales-abiertas-por-estafa-multimillonaria-en-rainbowex/ |
 | 268 | A24 | RainbowEx | Spanish | https://www.a24.com/actualidad/estafa-piramidal-san-pedro-49-millones-dolares-y-una-china-que-era-un-chino-y-vive-un-exclusivo-barrio-privado-n1362628 |
+| 269 | Sala de Redacción Udelar | Amenazas en Uruguay | Spanish | https://sdr.fic.edu.uy/lo-esencial-es-invisible-a-los-ojos/ |
+| 270 | El Observador | Ransomware: El Dorado | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/hackearon-al-supermercado-el-dorado-y-filtraron-mas-18-gb-informacion-comercial-y-empleados-n5970337 |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
