@@ -443,6 +443,7 @@
 | 268 | A24 | RainbowEx | Spanish | https://www.a24.com/actualidad/estafa-piramidal-san-pedro-49-millones-dolares-y-una-china-que-era-un-chino-y-vive-un-exclusivo-barrio-privado-n1362628 |
 | 269 | Sala de Redacción Udelar | Amenazas en Uruguay | Spanish | https://sdr.fic.edu.uy/lo-esencial-es-invisible-a-los-ojos/ |
 | 270 | El Observador | Ransomware: El Dorado | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/hackearon-al-supermercado-el-dorado-y-filtraron-mas-18-gb-informacion-comercial-y-empleados-n5970337 |
+| 271 | Lado B | Ransomware: Centros de salud | Spanish | https://www.ladobnews.com.ar/i/152071864/laboratorios-hackeados-no-saben-no-contestan |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
