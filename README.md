@@ -444,6 +444,7 @@
 | 269 | Sala de Redacción Udelar | Amenazas en Uruguay | Spanish | https://sdr.fic.edu.uy/lo-esencial-es-invisible-a-los-ojos/ |
 | 270 | El Observador | Ransomware: El Dorado | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/hackearon-al-supermercado-el-dorado-y-filtraron-mas-18-gb-informacion-comercial-y-empleados-n5970337 |
 | 271 | Lado B | Ransomware: Centros de salud | Spanish | https://www.ladobnews.com.ar/i/152071864/laboratorios-hackeados-no-saben-no-contestan |
+| 272 | Diario Clarín | Ransomware: Sanatorio Rossi | Spanish | https://www.clarin.com/tecnologia/hackean-centros-estudios-medicos-rossi-stamboulian-hidalgo-sabe-ataque-volverian-normalidad_0_FqplYX3Y7d.html |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
