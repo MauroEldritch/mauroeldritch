@@ -9,8 +9,9 @@
 1. [Talks](#talks)
 2. [CVEs](#cves)
 3. [Articles](#articles)
-4. [Ransomware Interviews](#interviews)
-5. [Media](#media)
+4. [Books](#books)
+5. [Ransomware Interviews](#interviews)
+6. [Media](#media)
     1. [Podcasts & Radio](#radio)
     2. [TV](#tv)
     3. [Newspapers](#newspapers)
@@ -101,6 +102,11 @@
 | 10 | Bitso Quetzal Team | Wallet Inspector | English | https://quetzal.bitso.com/p/wallet-inspector |
 | 11 | Bitso Quetzal Team | Drainer Autopsies | English | https://quetzal.bitso.com/p/drainers-autopsies |
 | 12 | tmp.Out #3 | QRLog Malware Analysis | English | https://tmpout.sh/3/ |
+
+### Books <a name="books"></a>
+|#| Title | Language | Link |
+|---|---|---|---|
+| 1 | Chaotic Ruby | English | http://books.apple.com/us/book/chaotic-ruby/id6739544400 |
 
 ### Ransomware Interviews <a name="interviews"></a>
 |#| Interview | Language | Link |
