@@ -113,7 +113,8 @@
 |---|---|---|---|
 | 1 | Vice Society | English & Spanish | https://github.com/mauroeldritch/vicesociety |
 | 2 | Dark Vault | English & Spanish | https://github.com/mauroeldritch/darkvault |
-| 3 | G0DHAND | Spanish | https://mefiltraron.com/interviews?#G0DHAND |
+| 3 | G0DHAND | Spanish | https://mefiltraron.com/interviews#G0DHAND |
+| 4 | Stormous | Spanish | https://mefiltraron.com/interviews#stormous |
 
 ## Media <a name="media"></a>
 ### Socials, Podcasts & Radio <a name="radio"></a>
