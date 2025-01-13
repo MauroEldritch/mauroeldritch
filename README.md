@@ -77,6 +77,8 @@
 | 55 | 2024 | Nerdearla Intersec | 🇦🇷 | ☠️ [DEF CON Learnings](https://docs.google.com/presentation/d/1fbhZxQvl2QXYLBNuuzFUh8ED4__WF-i-bKPXzZCgsvU/edit?usp=sharing) |
 | 56 | 2024 | Mind The Sec | 🇧🇷 | 💿 [Ransomware BSides](https://docs.google.com/presentation/d/1rfCkOHxPTFkMq1WHamhsrLDyidUNeK296H9TBlTFiuE/edit?usp=sharing)|
 | 57 | 2024 | Hacking na Web Day | 🇧🇷 | 🇰🇵 [K-Hackers](https://docs.google.com/presentation/d/1EsWgRaRHTpq8Xyy9H9Ds07XORnh1Qw9Q)|
+| 58 | 2024 | DragonJAR Manizales | 🇨🇴 | 🇰🇵 [PhishedIn](https://docs.google.com/presentation/d/1LOAuaSZvepsN4QHPIdSn9zw-z6IAeWV0wsYv-sD0_d8/) |
+| 59 | 2024 | Hacker Halted | 🇺🇸 | 🇰🇵 [PhishedIn](https://docs.google.com/presentation/d/1rOTfEfml4EJogknp28jqb8cnBzORTjUmlDYJUVkNb-w/) |
 
 ## CVEs <a name="cves"></a>
 |#| CVE | Vulnerability | Short Name | Score | Product | Link |
