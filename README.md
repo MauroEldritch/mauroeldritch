@@ -78,7 +78,7 @@
 | 56 | 2024 | Mind The Sec | 🇧🇷 | 💿 [Ransomware BSides](https://docs.google.com/presentation/d/1rfCkOHxPTFkMq1WHamhsrLDyidUNeK296H9TBlTFiuE/edit?usp=sharing)|
 | 57 | 2024 | Hacking na Web Day | 🇧🇷 | 🇰🇵 [K-Hackers](https://docs.google.com/presentation/d/1EsWgRaRHTpq8Xyy9H9Ds07XORnh1Qw9Q)|
 | 58 | 2024 | DragonJAR Manizales | 🇨🇴 | 🇰🇵 [PhishedIn](https://docs.google.com/presentation/d/1LOAuaSZvepsN4QHPIdSn9zw-z6IAeWV0wsYv-sD0_d8/) |
-| 59 | 2024 | Hacker Halted | 🇺🇸 | 🇰🇵 [PhishedIn](https://docs.google.com/presentation/d/1rOTfEfml4EJogknp28jqb8cnBzORTjUmlDYJUVkNb-w/) |
+| 59 | 2024 | **EC-Council Hacker Halted** | 🇺🇸 | 🇰🇵 [PhishedIn](https://docs.google.com/presentation/d/1rOTfEfml4EJogknp28jqb8cnBzORTjUmlDYJUVkNb-w/) |
 
 ## CVEs <a name="cves"></a>
 |#| CVE | Vulnerability | Short Name | Score | Product | Link |
@@ -100,7 +100,7 @@
 | 6 | PagedOut Issue #4 | Malicious Fungible Tokens | English | https://pagedout.institute/download/PagedOut_004_beta1.pdf |
 | 7 | PagedOut Issue #4 | Drainers | English | https://pagedout.institute/download/PagedOut_004_beta1.pdf |
 | 8 | Bitso Quetzal Team | Profiling and Burning a DaaS campaign | English | https://quetzal.bitso.com/p/it-never-drains-but-it-pours |
-| 9 | Phrack Issue #71 | Riding with the Chollimas | English | http://phrack.org/issues/71/3.html#article |
+| 9 | **Phrack Issue #71** | Riding with the Chollimas | English | http://phrack.org/issues/71/3.html#article |
 | 10 | Bitso Quetzal Team | Wallet Inspector | English | https://quetzal.bitso.com/p/wallet-inspector |
 | 11 | Bitso Quetzal Team | Drainer Autopsies | English | https://quetzal.bitso.com/p/drainers-autopsies |
 | 12 | tmp.Out #3 | QRLog Malware Analysis | English | https://tmpout.sh/3/ |
@@ -457,6 +457,7 @@
 | 272 | Diario Clarín | Ransomware: Sanatorio Rossi | Spanish | https://www.clarin.com/tecnologia/hackean-centros-estudios-medicos-rossi-stamboulian-hidalgo-sabe-ataque-volverian-normalidad_0_FqplYX3Y7d.html |
 | 273 | Dark News | Ransomware: Sanatorio Rossi | Spanish | https://www.brodersendarknews.com/i/152408402/hackean-tres-importantes-centros-de-estudios-medicos-en-argentina |
 | 274 | Dark News | Cierre de año | Spanish | https://www.brodersendarknews.com/p/2024-caida-lockbit-black-cat-crowdstrike-leaks-argentina |
+| 275 | El Observador | Capybara Team: Campaña de Phishing Carrasco | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/asi-es-la-estafa-que-usa-valijas-abandonadas-del-aeropuerto-carrasco-vaciar-tu-cuenta-bancaria-n5979757 |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
