@@ -106,6 +106,7 @@
 | 12 | tmp.Out #3 | QRLog Malware Analysis | English | https://tmpout.sh/3/ |
 | 13 | Bitso Quetzal Team | Stealing Christmas | English | https://quetzal.bitso.com/p/stealing-christmas |
 | 14 | Bitso Quetzal Team | A Phishing Trip | English | https://quetzal.bitso.com/p/a-phishing-trip |
+| 15 | ANY.RUN Blog | InvisibleFerret Technical Analysis | English | https://any.run/cybersecurity-blog/invisibleferret-malware-analysis/ |
 
 ### Books <a name="books"></a>
 |#| Title | Language | Link |
