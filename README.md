@@ -460,6 +460,7 @@
 | 273 | Dark News | Ransomware: Sanatorio Rossi | Spanish | https://www.brodersendarknews.com/i/152408402/hackean-tres-importantes-centros-de-estudios-medicos-en-argentina |
 | 274 | Dark News | Cierre de año | Spanish | https://www.brodersendarknews.com/p/2024-caida-lockbit-black-cat-crowdstrike-leaks-argentina |
 | 275 | El Observador | Capybara Team: Campaña de Phishing Carrasco | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/asi-es-la-estafa-que-usa-valijas-abandonadas-del-aeropuerto-carrasco-vaciar-tu-cuenta-bancaria-n5979757 |
+| 276 | Candid Technology | InvisibleFerret | English | https://candid.technology/invisibleferret-malware-uses-fake-interview-to-attack-users/#google_vignette |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
