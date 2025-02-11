@@ -463,6 +463,7 @@
 | 276 | Candid Technology | InvisibleFerret | English | https://candid.technology/invisibleferret-malware-uses-fake-interview-to-attack-users/#google_vignette |
 | 277 | Detection Engineering #100 | InvisibleFerret | English | https://www.detectionengineering.net/p/det-eng-weekly-100-keepin-it |
 | 278 | Diario Clarín | DeepSeek & Chococat Ransomware | Spanish | https://www.clarin.com/tecnologia/deepseek-cuan-segura-ia-china-riesgos-parecidos-chatgpt_0_sCFQAd5RMZ.html |
+| 279 | El Observador | Uruguay: un ciberataque cada media hora | Spanish | https://www.elobservador.com.uy/nacional/un-incidente-informatico-detectado-cada-media-hora-aumento-precedentes-los-ciberataques-contra-el-estado-uruguayo-n5981489 |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
