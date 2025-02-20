@@ -169,6 +169,7 @@
 | 41 | Metro 951 | Ransomware: OCASA | Spanish |https://mega.nz/file/kZlgmQiT#HoJmE-WBp6jArWxhlqohnIEEhus2g6tpDwO3hnPTHQM |
 | 42 | Metro 951 | DataBreach: Racing Club | Spanish | https://mega.nz/file/tV1jADoB#48nwuRYL9Pc6ko-dWV_cSvqJJUvmtkbfTrGpOLGplbo |
 | 43 | Sin Galera | DataBreach: RainbowEx | Spanish | https://www.youtube.com/live/1jBSju_VnnU?si=O_aj26Gqm-zJypHh&t=2462 |
+| 44 | Security Weekly | Zhong Stealer | English | https://youtu.be/LA_8ojthiek?si=MCmymXk7UZeSWFlu&t=995 |
 
 ### Television <a name="tv"></a>
 |#| Show | Title | Language | Link |
