@@ -467,6 +467,7 @@
 | 278 | Diario Clarín | DeepSeek & Chococat Ransomware | Spanish | https://www.clarin.com/tecnologia/deepseek-cuan-segura-ia-china-riesgos-parecidos-chatgpt_0_sCFQAd5RMZ.html |
 | 279 | El Observador | Uruguay: un ciberataque cada media hora | Spanish | https://www.elobservador.com.uy/nacional/un-incidente-informatico-detectado-cada-media-hora-aumento-precedentes-los-ciberataques-contra-el-estado-uruguayo-n5981489 |
 | 280 | El Observador | Deepfakes en Uruguay | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/las-estafas-uruguay-que-usan-deepfakes-y-que-facebook-desestima-n5984942 |
+| 281 | Dark News | Chococat Ransomware | Spanish | https://www.brodersendarknews.com/i/157531959/chatgpt-y-deepseek-no-tan-distintos |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
