@@ -468,6 +468,7 @@
 | 279 | El Observador | Uruguay: un ciberataque cada media hora | Spanish | https://www.elobservador.com.uy/nacional/un-incidente-informatico-detectado-cada-media-hora-aumento-precedentes-los-ciberataques-contra-el-estado-uruguayo-n5981489 |
 | 280 | El Observador | Deepfakes en Uruguay | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/las-estafas-uruguay-que-usan-deepfakes-y-que-facebook-desestima-n5984942 |
 | 281 | Dark News | Chococat Ransomware | Spanish | https://www.brodersendarknews.com/i/157531959/chatgpt-y-deepseek-no-tan-distintos |
+| 282 | El Observador | Negociaciones de Ransomware | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/el-arte-pactar-el-diablo-asi-negocian-los-uruguayos-ciberdelincuentes-n5986635 |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
