@@ -469,6 +469,7 @@
 | 280 | El Observador | Deepfakes en Uruguay | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/las-estafas-uruguay-que-usan-deepfakes-y-que-facebook-desestima-n5984942 |
 | 281 | Dark News | Chococat Ransomware | Spanish | https://www.brodersendarknews.com/i/157531959/chatgpt-y-deepseek-no-tan-distintos |
 | 282 | El Observador | Negociaciones de Ransomware | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/el-arte-pactar-el-diablo-asi-negocian-los-uruguayos-ciberdelincuentes-n5986635 |
+| 283 | Telenoche | Vulnerabilidad en UDELAR & INDT | Spanish | https://www.telenoche.com.uy/ciencia-y-tecnologia/hackers-pusieron-la-venta-una-vulnerabilidad-hallada-el-sistema-colibri-la-udelar-n5381215 |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
