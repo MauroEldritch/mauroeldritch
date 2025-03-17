@@ -470,6 +470,7 @@
 | 281 | Dark News | Chococat Ransomware | Spanish | https://www.brodersendarknews.com/i/157531959/chatgpt-y-deepseek-no-tan-distintos |
 | 282 | El Observador | Negociaciones de Ransomware | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/el-arte-pactar-el-diablo-asi-negocian-los-uruguayos-ciberdelincuentes-n5986635 |
 | 283 | Telenoche | Vulnerabilidad en UDELAR & INDT | Spanish | https://www.telenoche.com.uy/ciencia-y-tecnologia/hackers-pusieron-la-venta-una-vulnerabilidad-hallada-el-sistema-colibri-la-udelar-n5381215 |
+| 284 | El País | Defacement: DINACIA | Spanish | https://www.elpais.com.uy/informacion/sociedad/hackearon-el-sitio-web-de-dinacia-y-publicaron-el-numero-de-telefono-de-orsi-el-mensaje-de-los-autores |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
