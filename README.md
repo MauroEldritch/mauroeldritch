@@ -472,6 +472,7 @@
 | 283 | Telenoche | Vulnerabilidad en UDELAR & INDT | Spanish | https://www.telenoche.com.uy/ciencia-y-tecnologia/hackers-pusieron-la-venta-una-vulnerabilidad-hallada-el-sistema-colibri-la-udelar-n5381215 |
 | 284 | El País | Defacement: DINACIA | Spanish | https://www.elpais.com.uy/informacion/sociedad/hackearon-el-sitio-web-de-dinacia-y-publicaron-el-numero-de-telefono-de-orsi-el-mensaje-de-los-autores |
 | 285 | Infobae | Defacement: DINACIA | Spanish | https://www.infobae.com/america/america-latina/2025/03/18/los-ciberataques-al-estado-uruguayo-se-triplicaron-en-2024-hackers-publicaron-numero-de-yamandu-orsi/ |
+| 286 | Telenoche | Filtraciones en el Estado Uruguayo | Spanish | https://www.telenoche.com.uy/ciencia-y-tecnologia/ciberataques-uruguay-filtran-datos-del-mides-y-vulneran-sitios-oficiales-n5381817 |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
