@@ -475,6 +475,7 @@
 | 286 | Telenoche | Filtraciones en el Estado Uruguayo | Spanish | https://www.telenoche.com.uy/ciencia-y-tecnologia/ciberataques-uruguay-filtran-datos-del-mides-y-vulneran-sitios-oficiales-n5381817 |
 | 287 | Brecha | Entrevista: Mauro Eldritch | Spanish | https://brecha.uy/el-aumento-de-ataques-es-notable/ |
 | 288 | El País | Data Breach: MIDES | Spanish | https://www.elpais.com.uy/informacion/sociedad/mides-investiga-junto-a-agesic-la-divulgacion-de-documentos-sensibles-tras-el-hackeo-a-la-dinacia |
+| 289 | The New York Times | RainbowEx | Spanish | https://www.nytimes.com/es/2025/03/28/espanol/negocios/san-pedro-argentina-estafa-cripto-ponzi.html |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
