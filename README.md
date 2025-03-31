@@ -108,6 +108,7 @@
 | 14 | Bitso Quetzal Team | A Phishing Trip | English | https://quetzal.bitso.com/p/a-phishing-trip |
 | 15 | ANY.RUN Blog | InvisibleFerret Technical Analysis | English | https://any.run/cybersecurity-blog/invisibleferret-malware-analysis/ |
 | 16 | ANY.RUN Blog | Zhong Stealer Technical Analysis | English | https://any.run/cybersecurity-blog/zhong-stealer-malware-analysis/ |
+| 17 | PagedOut Issue #6 | Contagious Interview | English | https://pagedout.institute/download/PagedOut_006.pdf |
 
 ### Books <a name="books"></a>
 |#| Title | Language | Link |
