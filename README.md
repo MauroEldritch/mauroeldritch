@@ -479,6 +479,7 @@
 | 289 | The New York Times | RainbowEx | Spanish | https://www.nytimes.com/es/2025/03/28/espanol/negocios/san-pedro-argentina-estafa-cripto-ponzi.html |
 | 290 | The New York Times | RainbowEx | English | https://www.nytimes.com/2025/03/28/business/rainbowex-crypto-ponzi-scheme.html?smid=tw-share |
 | 291 | La Opinión Semanario | RainbowEx | Spanish | https://www.laopinionsemanario.com.ar/noticia/rainbowex-la-china-y-la-investigacion-de-la-opinion-en-el-new-york-times |
+| 292 | Caras y Caretas | Data Breach: UDELAR | Spanish | https://www.carasycaretas.com.uy/sociedad/hackers-ponen-la-venta-datos-personales-docentes-la-udelar-n83104 |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
