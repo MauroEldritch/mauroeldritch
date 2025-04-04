@@ -482,6 +482,7 @@
 | 292 | Caras y Caretas | Data Breach: UDELAR | Spanish | https://www.carasycaretas.com.uy/sociedad/hackers-ponen-la-venta-datos-personales-docentes-la-udelar-n83104 |
 | 293 | El País | Data Breach: UDELAR | Spanish | https://www.elpais.com.uy/informacion/policiales/hackers-pusieron-a-la-venta-datos-de-profesores-de-la-udelar-incluye-mails-clases-y-numeros-de-telefono |
 | 294 | Montevideo Portal | Data Breach: UDELAR | Spanish | https://www.montevideo.com.uy/Ciencia-y-Tecnologia/Hackers-pusieron-a-la-venta-datos-personales-de-mas-de-500-docentes-de-la-Udelar-uc919429 |
+| 295 | Diario Clarín | Data Extortion: Informe Medico | Spanish | https://www.clarin.com/tecnologia/hackean-proveedor-software-medico-argentina-venden-resultados-estudios-pacientes_0_HmJFy0ZYib.html |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
