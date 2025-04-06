@@ -485,6 +485,9 @@
 | 295 | Diario Clarín | Data Extortion: Informe Medico | Spanish | https://www.clarin.com/tecnologia/hackean-proveedor-software-medico-argentina-venden-resultados-estudios-pacientes_0_HmJFy0ZYib.html |
 | 296 | Diario Perfil | Data Extortion: Informe Medico | Spanish | https://www.perfil.com/noticias/cordoba/ciberdelitos-la-mayor-filtracion-de-datos-medicos-de-argentina-afecto-a-clinicas-privadas-de-cordoba.phtml |
 | 297 | Diario La Voz | Data Extortion: Informe Medico | Spanish | https://www.lavoz.com.ar/sucesos/hackearon-a-un-proveedor-de-software-medico-en-argentina-y-venden-665-mil-datos-personales-de-pacientes/
+| 298 | El País | Hackeos en Uruguay | Spanish | https://www.elpais.com.uy/que-pasa/hackers-en-las-entranas-de-la-dark-web-la-ola-de-ataques-a-organismos-publicos-y-empresas-privadas |
+| 299 | Maracó Digital | Data Extortion: Informe Medico | Spanish | https://www.maracodigital.net/Hackeo-en-centros-de-salud-habria-una-clinica-pampeana-afectada.html |
+| 300 | Tiempo Argentino | Data Extortion: Informe Medico | Spanish | https://www.tiempoar.com.ar/ta_article/hackean-665-128-estudios-medicos-la-filtracion-de-datos-de-salud-mas-grande-del-pais/ |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
