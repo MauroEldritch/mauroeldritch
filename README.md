@@ -493,6 +493,7 @@
 | 302 | El País | Data Breach: MIDES | Spanish | https://www.elpais.com.uy/informacion/policiales/nuevo-ciberataque-al-mides-filtraron-mas-de-37-000-documentos-con-informacion-personal-de-los-ciudadanos |
 | 303 | Telenoche | Data Breach: MIDES | Spanish | https://www.telenoche.com.uy/nacionales/ciberdelincuentes-filtraron-casi-38000-documentos-datos-personales-usuarios-del-mides-n5382593 |
 | 304 | Brodersen Dark News | Data Breach: Informe Medico | Spanish | https://www.brodersendarknews.com/p/venden-estudios-pacientes-informe-medico-filtracion?open=false#§informe-medico-hackean-a-un-proveedor-de-software-de-salud |
+| 305 | Fox 5 San Diego | Research: PE32 Ransomware | English | https://fox5sandiego.com/business/press-releases/ein-presswire/805496035/any-run-uncovers-new-pe32-ransomware-targeting-businesses-with-double-extortion/ |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
