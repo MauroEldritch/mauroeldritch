@@ -110,6 +110,7 @@
 | 16 | ANY.RUN Blog | Zhong Stealer Technical Analysis | English | https://any.run/cybersecurity-blog/zhong-stealer-malware-analysis/ |
 | 17 | PagedOut Issue #6 | Contagious Interview | English | https://pagedout.institute/download/PagedOut_006.pdf |
 | 18 | ANY.RUN Blog | PE32 Ransomware Analysis | English | https://any.run/cybersecurity-blog/pe32-ransomware-analysis/ |
+| 19 | ANY.RUN Blog | Mamona Ransomware Analysis | English | https://any.run/cybersecurity-blog/mamona-ransomware-analysis/ |
 
 ### Books <a name="books"></a>
 |#| Title | Language | Link |
