@@ -498,6 +498,7 @@
 | 306 | Risky Business | Research: PE32 Ransomware | English | https://news.risky.biz/risky-bulletin-russian-military-personnel-targeted-with-android-spyware-reminiscent-of-russias-own-tactics/ |
 | 307 | Dark News | BreachForums Takedown | Spanish | https://www.brodersendarknews.com/p/breachforums-caida-sitio-compraventa-intelbroker-anastasia-shinyhunters |
 | 308 | Risky Business | Research: Mamona Ransomware | English | https://news.risky.biz/risky-bulletin-microsoft-joins-industry-crackdown-on-bulk-email-senders/ |
+| 309 | SC Media | Research: Mamona Ransomware | English | https://www.scworld.com/news/mamona-ransomware-lowers-the-bar-with-offline-encryption |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
