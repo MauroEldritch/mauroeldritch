@@ -499,6 +499,7 @@
 | 307 | Dark News | BreachForums Takedown | Spanish | https://www.brodersendarknews.com/p/breachforums-caida-sitio-compraventa-intelbroker-anastasia-shinyhunters |
 | 308 | Risky Business | Research: Mamona Ransomware | English | https://news.risky.biz/risky-bulletin-microsoft-joins-industry-crackdown-on-bulk-email-senders/ |
 | 309 | SC Media | Research: Mamona Ransomware | English | https://www.scworld.com/news/mamona-ransomware-lowers-the-bar-with-offline-encryption |
+| 310 | Diario Clarín | Data Breach: Ejército Argentino | Spanish | https://www.clarin.com/tecnologia/investigan-supuesto-hackeo-ejercito-datos-venta-sirven_0_F8Ddu1pYEL.html |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
