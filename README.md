@@ -111,6 +111,7 @@
 | 17 | PagedOut Issue #6 | Contagious Interview | English | https://pagedout.institute/download/PagedOut_006.pdf |
 | 18 | ANY.RUN Blog | PE32 Ransomware Analysis | English | https://any.run/cybersecurity-blog/pe32-ransomware-analysis/ |
 | 19 | ANY.RUN Blog | Mamona Ransomware Analysis | English | https://any.run/cybersecurity-blog/mamona-ransomware-analysis/ |
+| 20 | ANY.RUN Blog | OtterCookie Technical Analysis | English | https://any.run/cybersecurity-blog/ottercookie-malware-analysis/ |
 
 ### Books <a name="books"></a>
 |#| Title | Language | Link |
