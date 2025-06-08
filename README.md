@@ -503,6 +503,7 @@
 | 310 | Diario Clarín | Data Breach: Ejército Argentino | Spanish | https://www.clarin.com/tecnologia/investigan-supuesto-hackeo-ejercito-datos-venta-sirven_0_F8Ddu1pYEL.html |
 | 311 | Urgente24 | Data Breach: Ejército Argentino | Spanish | https://urgente24.com/actualidad/hackeo-al-ejercito-y-la-situacion-del-comando-ciberdefensa-n601576 |
 | 312 | Data Clave | Data Breach: Ejército Argentino | Spanish | https://www.dataclave.com.ar/poder/venta-de-datos-de-50-mil-militares--que-detalles-hay-sobre-el-presunto-hackeo-a-sistemas-del-ejercito_a68261bfb912d9295c35cebe0 |
+| 313 | Telenoche | Data Breach: Ministeiro de Trabajo y Seguridad Social | Spanish | https://www.telenoche.com.uy/nacionales/ciberataque-al-ministerio-trabajo-pusieron-la-venta-base-datos-mas-350000-registros-n5385302 |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
