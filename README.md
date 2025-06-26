@@ -112,6 +112,8 @@
 | 18 | ANY.RUN Blog | PE32 Ransomware Analysis | English | https://any.run/cybersecurity-blog/pe32-ransomware-analysis/ |
 | 19 | ANY.RUN Blog | Mamona Ransomware Analysis | English | https://any.run/cybersecurity-blog/mamona-ransomware-analysis/ |
 | 20 | ANY.RUN Blog | OtterCookie Technical Analysis | English | https://any.run/cybersecurity-blog/ottercookie-malware-analysis/ |
+| 21 | Bitso Quetzal Team | Interview with the Chollima | English | https://quetzal.bitso.com/p/interview-with-the-chollima |
+| 22 | Bitso Quetzal Team | Interview with the Chollima 2 | English | https://quetzal.bitso.com/p/interview-with-the-chollima-ii |
 
 ### Books <a name="books"></a>
 |#| Title | Language | Link |
