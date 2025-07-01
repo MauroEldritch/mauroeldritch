@@ -114,6 +114,7 @@
 | 20 | ANY.RUN Blog | OtterCookie Technical Analysis | English | https://any.run/cybersecurity-blog/ottercookie-malware-analysis/ |
 | 21 | Bitso Quetzal Team | Interview with the Chollima | English | https://quetzal.bitso.com/p/interview-with-the-chollima |
 | 22 | Bitso Quetzal Team | Interview with the Chollima 2 | English | https://quetzal.bitso.com/p/interview-with-the-chollima-ii |
+| 23 | ANY.RUN Blog | DEVMAN Ransomware Sample Analysis | English | https://any.run/cybersecurity-blog/devman-ransomware-analysis/ |
 
 ### Books <a name="books"></a>
 |#| Title | Language | Link |
