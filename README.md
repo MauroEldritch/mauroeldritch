@@ -508,6 +508,7 @@
 | 312 | Data Clave | Data Breach: Ejército Argentino | Spanish | https://www.dataclave.com.ar/poder/venta-de-datos-de-50-mil-militares--que-detalles-hay-sobre-el-presunto-hackeo-a-sistemas-del-ejercito_a68261bfb912d9295c35cebe0 |
 | 313 | Telenoche | Data Breach: Ministerio de Trabajo y Seguridad Social | Spanish | https://www.telenoche.com.uy/nacionales/ciberataque-al-ministerio-trabajo-pusieron-la-venta-base-datos-mas-350000-registros-n5385302 |
 | 314 | Futuro Prossimio Italia | Ransomware: Mamona | Italian | https://www.futuroprossimo.it/2025/07/mamona-il-ransomware-che-si-cancella-da-se-e-beffa-gli-antivirus/ |
+| 315 | Diario Perfil | DataBreach: Ministerio de Educación | Spanish | https://www.perfil.com/noticias/sociedad/se-filtraron-mas-de-287-mil-documentos-del-ministerio-de-educacion-incluyen-datos-personales-y-registros-escolares.phtml |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
