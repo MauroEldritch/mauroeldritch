@@ -510,6 +510,7 @@
 | 314 | Futuro Prossimio Italia | Ransomware: Mamona | Italian | https://www.futuroprossimo.it/2025/07/mamona-il-ransomware-che-si-cancella-da-se-e-beffa-gli-antivirus/ |
 | 315 | Diario Perfil | DataBreach: Ministerio de Educación | Spanish | https://www.perfil.com/noticias/sociedad/se-filtraron-mas-de-287-mil-documentos-del-ministerio-de-educacion-incluyen-datos-personales-y-registros-escolares.phtml |
 | 316 | El Observador | Ransomware: LockSkin | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/uruguayo-hackea-implantes-que-se-colocan-debajo-la-piel-y-lo-muestra-un-evento-internacional-n6011431 |
+| 317 | Diario Clarín | DEF CON 33: Mauro Eldritch | Spanish | https://www.clarin.com/tecnologia/def-33-argentinos-revelan-fallas-routers-malware-norcoreano-explican-ciberseguridad-cuantica_0_PkqTVvNHfw.html |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
