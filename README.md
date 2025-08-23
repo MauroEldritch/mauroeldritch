@@ -115,6 +115,8 @@
 | 21 | Bitso Quetzal Team | Interview with the Chollima | English | https://quetzal.bitso.com/p/interview-with-the-chollima |
 | 22 | Bitso Quetzal Team | Interview with the Chollima 2 | English | https://quetzal.bitso.com/p/interview-with-the-chollima-ii |
 | 23 | ANY.RUN Blog | DEVMAN Ransomware Sample Analysis | English | https://any.run/cybersecurity-blog/devman-ransomware-analysis/ |
+| 24 | ANY.RUN Blog | PyLangGhostRAT Sample Analysis | English | https://any.run/cybersecurity-blog/pylangghost-malware-analysis/ |
+| 25 | HackRead | CoinMarketCap Spear-Phishing Campaign | English | https://hackread.com/fake-coinmarketcap-journalists-crypto-executives-spear-phishing/ |
 
 ### Books <a name="books"></a>
 |#| Title | Language | Link |
