@@ -514,6 +514,7 @@
 | 316 | El Observador | Ransomware: LockSkin | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/uruguayo-hackea-implantes-que-se-colocan-debajo-la-piel-y-lo-muestra-un-evento-internacional-n6011431 |
 | 317 | Diario Clarín | DEF CON 33: Mauro Eldritch | Spanish | https://www.clarin.com/tecnologia/def-33-argentinos-revelan-fallas-routers-malware-norcoreano-explican-ciberseguridad-cuantica_0_PkqTVvNHfw.html |
 | 318 | El País | Data Breach: OPP | Spanish | https://www.elpais.com.uy/informacion/policiales/opp-informo-que-sufrio-un-acceso-no-autorizado-a-sus-archivos-y-activo-protocolo-de-seguridad |
+| 319 | Montevideo Portal | Data Breach: OPP | Spanish | https://www.montevideo.com.uy/Ciencia-y-Tecnologia/OPP-sufrio-ciberataque-y-se-filtraron-170-GB-de-archivos--incluidas-reuniones-de-Zoom-uc934400 |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
