@@ -517,6 +517,7 @@
 | 319 | Montevideo Portal | Data Breach: OPP | Spanish | https://www.montevideo.com.uy/Ciencia-y-Tecnologia/OPP-sufrio-ciberataque-y-se-filtraron-170-GB-de-archivos--incluidas-reuniones-de-Zoom-uc934400 |
 | 320 | La Diaria | Data Breach: OPP | Spanish | https://ladiaria.com.uy/politica/articulo/2025/8/opp-denunciara-ante-la-justicia-el-ataque-cibernetico-que-sufrio/ |
 | 321 | Debate UY | Data Breach: OPP | Spanish | https://www.debate.com.uy/actualidad/Uruguay-vuelve-a-ser-blanco-de-ciberataques-la-OPP-confirma-acceso-no-autorizado-a-sus-archivos-20250828-0015.html |
+| 322 | Dark News | Ransomware & Data Extortion | Spanish | https://www.brodersendarknews.com/i/172484683/ransomware-la-caida-de-los-grandes-causo-una-explosion-de-agrupaciones-y-un-nuevo-modelo-de-negocio |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
