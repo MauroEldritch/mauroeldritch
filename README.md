@@ -117,6 +117,7 @@
 | 23 | ANY.RUN Blog | DEVMAN Ransomware Sample Analysis | English | https://any.run/cybersecurity-blog/devman-ransomware-analysis/ |
 | 24 | ANY.RUN Blog | PyLangGhostRAT Sample Analysis | English | https://any.run/cybersecurity-blog/pylangghost-malware-analysis/ |
 | 25 | HackRead | CoinMarketCap Spear-Phishing Campaign | English | https://hackread.com/fake-coinmarketcap-journalists-crypto-executives-spear-phishing/ |
+| 26 | Bitso Quetzal Team | AMOS Stealer Dissection | English | https://quetzal.bitso.com/p/todays-host-amos-stealer |
 
 ### Books <a name="books"></a>
 |#| Title | Language | Link |
