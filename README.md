@@ -119,6 +119,7 @@
 | 25 | HackRead | CoinMarketCap Spear-Phishing Campaign | English | https://hackread.com/fake-coinmarketcap-journalists-crypto-executives-spear-phishing/ |
 | 26 | Bitso Quetzal Team | AMOS Stealer Dissection | English | https://quetzal.bitso.com/p/todays-host-amos-stealer |
 | 27 | HackRead | Fake Empire Podcast Infects Crypto Influencers with AMOS Stealer | English | https://hackread.com/fake-empire-podcast-invites-crypto-macos-amos-stealer/ |
+| 28 | ANY.RUN Blog | FunkSec Ransomware Sample Analysis | English | https://any.run/cybersecurity-blog/funklocker-malware-analysis/ |
 
 ### Books <a name="books"></a>
 |#| Title | Language | Link |
