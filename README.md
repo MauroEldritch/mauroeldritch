@@ -79,7 +79,6 @@
 | 57 | 2024 | Hacking na Web Day | 🇧🇷 | 🇰🇵 [K-Hackers](https://docs.google.com/presentation/d/1EsWgRaRHTpq8Xyy9H9Ds07XORnh1Qw9Q)|
 | 58 | 2024 | DragonJAR Manizales | 🇨🇴 | 🇰🇵 [PhishedIn](https://docs.google.com/presentation/d/1LOAuaSZvepsN4QHPIdSn9zw-z6IAeWV0wsYv-sD0_d8/) |
 | 59 | 2024 | **EC-Council Hacker Halted** | 🇺🇸 | 🇰🇵 [PhishedIn](https://docs.google.com/presentation/d/1rOTfEfml4EJogknp28jqb8cnBzORTjUmlDYJUVkNb-w/) |
-
 | 60 | 2025 | BSides Las Vegas | 🇺🇸 | 💉 [Locking Hands / LockSkin](https://docs.google.com/presentation/d/1nOBfNhEz0Lszhe_-Fy0RjvzINZKSuw-KlIlihOwEQNk/) |
 | 61 | 2025 | **DEF CON 33 Data Duplication Village** | 🇺🇸 | 🐑 [More Fungible Threats](https://docs.google.com/presentation/d/1amlCT8_J_-P4niuvygXVtg0lHbmVbrFbZjoQGzHVGf8/) |
 | 62 | 2025 | **DEF CON 33 Malware Village** | 🇺🇸 | 🇰🇵 [North Korea's Fur Shop](https://docs.google.com/presentation/d/1ZaRtMHXcIa4SbP-Oe4UkSwnVq3B21eX_B2t3MjvdmeY/) |
