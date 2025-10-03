@@ -531,7 +531,7 @@
 | 322 | Dark News | Ransomware & Data Extortion | Spanish | https://www.brodersendarknews.com/i/172484683/ransomware-la-caida-de-los-grandes-causo-una-explosion-de-agrupaciones-y-un-nuevo-modelo-de-negocio |
 | 323 | Xataka | BCA LTD & Nerdearla | Spanish | https://www.xataka.com.ar/eventos/nerdearla-buenos-aires-ciencia-tecnologia-ia-desarrollo-software-evento-gratuito-que-inicia-23-septiembre |
 | 324 | Montevideo Portal | Data Breach: Corte Electoral | Spanish | https://www.montevideo.com.uy/Noticias/Corte-Electoral-tomo-medidas-pertinentes-tras-ciberataque-que-filtro-620-mil-registros-uc937472 |
-| 325 | Risky Business | Research: FunkLocker Ransomware | Spanish | https://news.risky.biz/risky-bulletin-scam-compound-operators-sentenced-to-death-in-china/ |
+| 325 | Risky Business | Research: FunkLocker Ransomware | English | https://news.risky.biz/risky-bulletin-scam-compound-operators-sentenced-to-death-in-china/ |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
