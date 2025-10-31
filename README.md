@@ -85,8 +85,8 @@
 | 63 | 2025 | DragonJAR 2025 | 🇨🇴 | 💉 [Locking Hands / LockSkin](https://docs.google.com/presentation/d/1YbXxKyfUC9TExdhEIGfXyFTd3BhoNWriNJ0oh78Xtm4/) |
 | 64 | 2025 | Nerdearla 2025 | 🇦🇷 | 💉 [Locking Hands / LockSkin](https://docs.google.com/presentation/d/1YbXxKyfUC9TExdhEIGfXyFTd3BhoNWriNJ0oh78Xtm4/) |
 | 65 | 2025 | **EC-Council Hacker Halted** | 🇺🇸 | 🇨🇳 [How do you say help in Chinese?](https://docs.google.com/presentation/d/1_4160Q-EEKhtKzFqO-p-brYanYLfjTUL/) |
-| 66 | 2025 | TBA | 🇺🇾 | 💉 TBA |
-| 67 | 2025 | TBA | 🇰🇵 | 🇰🇵 TBA |
+| 66 | 2025 | TBA | 🇺🇾 La Meetup III | 💉 [Locking Hands / LockSkin](https://docs.google.com/presentation/d/1EQfM7cbFtkcaF8gGFJiqAptDT3TYT2HW7Z6CE5g4rsY/) |
+| 67 | 2025 | TBA | 🇰🇵 BSides Pyongyang | 🇰🇵 TBA |
 
 ## CVEs <a name="cves"></a>
 |#| CVE | Vulnerability | Short Name | Score | Product | Link |
@@ -128,6 +128,7 @@
 | 26 | Bitso Quetzal Team | AMOS Stealer Dissection | English | https://quetzal.bitso.com/p/todays-host-amos-stealer |
 | 27 | HackRead | Fake Empire Podcast Infects Crypto Influencers with AMOS Stealer | English | https://hackread.com/fake-empire-podcast-invites-crypto-macos-amos-stealer/ |
 | 28 | ANY.RUN Blog | FunkSec Ransomware Sample Analysis | English | https://any.run/cybersecurity-blog/funklocker-malware-analysis/ |
+| 29 | Bitso Quetzal Team | Interview with the Chollima 3 | English | https://quetzal.bitso.com/p/interview-with-the-chollima-iii |
 
 ### Books <a name="books"></a>
 |#| Title | Language | Link |
