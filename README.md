@@ -130,6 +130,7 @@
 | 28 | ANY.RUN Blog | FunkSec Ransomware Sample Analysis | English | https://any.run/cybersecurity-blog/funklocker-malware-analysis/ |
 | 29 | Bitso Quetzal Team | Interview with the Chollima 3 | English | https://quetzal.bitso.com/p/interview-with-the-chollima-iii |
 | 30 | HackRead | North Korean Hackers Caught on Video Using AI Filters in Fake Job Interviews | English | https://hackread.com/north-korean-hackers-video-ai-filter-fake-job-interview/ |
+| 31 | Bitso Quetzal Team | Interview with the Chollima 4 | English | https://quetzal.bitso.com/p/interview-with-the-chollima-iv |
 
 ### Books <a name="books"></a>
 |#| Title | Language | Link |
