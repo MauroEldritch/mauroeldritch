@@ -132,6 +132,7 @@
 | 30 | HackRead | North Korean Hackers Caught on Video Using AI Filters in Fake Job Interviews | English | https://hackread.com/north-korean-hackers-video-ai-filter-fake-job-interview/ |
 | 31 | Bitso Quetzal Team | Interview with the Chollima 4 | English | https://quetzal.bitso.com/p/interview-with-the-chollima-iv |
 | 32 | BlockThreat | Interview with the Chollima 3 | English | https://newsletter.blockthreat.io/p/blockthreat-week-44-2025 |
+| 33 | MeFiltraron | Análisis de BellaCiao | Spanish | https://news.mefiltraron.com/p/edicion-especial-bellaciao |
 
 ### Books <a name="books"></a>
 |#| Title | Language | Link |
