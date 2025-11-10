@@ -134,6 +134,7 @@
 | 32 | BlockThreat | Interview with the Chollima 3 | English | https://newsletter.blockthreat.io/p/blockthreat-week-44-2025 |
 | 33 | MeFiltraron | Análisis de BellaCiao | Spanish | https://news.mefiltraron.com/p/edicion-especial-bellaciao |
 | 34 | Bitso Quetzal Team | Interview with the Chollima 5 | English | https://quetzal.bitso.com/p/interview-with-the-chollima-v |
+| 35 | Bitso Quetzal Team | Interview with the Chollima 6 | English | https://quetzal.bitso.com/p/interview-with-the-chollima-vi |
 
 ### Books <a name="books"></a>
 |#| Title | Language | Link |
