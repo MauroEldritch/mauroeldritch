@@ -539,6 +539,7 @@
 | 324 | Montevideo Portal | Data Breach: Corte Electoral | Spanish | https://www.montevideo.com.uy/Noticias/Corte-Electoral-tomo-medidas-pertinentes-tras-ciberataque-que-filtro-620-mil-registros-uc937472 |
 | 325 | Risky Business | Research: FunkLocker Ransomware | English | https://news.risky.biz/risky-bulletin-scam-compound-operators-sentenced-to-death-in-china/ |
 | 326 | La Opinión | RainbowEx & Zunkets IFC | Spanish | https://www.laopinionsemanario.com.ar/noticia/cayo-zunkets-ifc-otra-estafa-piramidal-como-la-china-con-sampedrinos-involucrados |
+| 327 | El Diario AR | Research: Black Hat SEO | Spanish | https://www.eldiarioar.com/unidad-de-investigacion/funciona-maniobra-seo-poisonin-utilizada-tapar-denuncias-abuso-sexual-jinete-fraschina_1_12753779.html |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
