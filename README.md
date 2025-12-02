@@ -543,6 +543,8 @@
 | 327 | El Diario AR | Research: Black Hat SEO | Spanish | https://www.eldiarioar.com/unidad-de-investigacion/funciona-maniobra-seo-poisonin-utilizada-tapar-denuncias-abuso-sexual-jinete-fraschina_1_12753779.html |
 | 328 | North Korea News | About ChaoticCapybara Malware | English | https://www.nknews.org/pro/north-korea-hackers-go-after-business-executives-in-latest-info-stealing-scheme/ |
 | 329 | North Korea News | About PyLangGhostRAT Malware | English | https://www.nknews.org/pro/north-korea-deploys-ai-powered-python-malware-to-target-crypto-and-tech-workers/ |
+| 330 | Bleeping Computer | Recording Famous Chollima | English | https://www.bleepingcomputer.com/news/security/north-korea-lures-engineers-to-rent-identities-in-fake-it-worker-scheme/ |
+| 331 | The Hacker News | Recording Famous Chollima | English | https://thehackernews.com/2025/12/researchers-capture-lazarus-apts-remote.html |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
