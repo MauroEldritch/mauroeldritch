@@ -135,6 +135,7 @@
 | 33 | MeFiltraron | Análisis de BellaCiao | Spanish | https://news.mefiltraron.com/p/edicion-especial-bellaciao |
 | 34 | Bitso Quetzal Team | Interview with the Chollima 5 | English | https://quetzal.bitso.com/p/interview-with-the-chollima-v |
 | 35 | Bitso Quetzal Team | Interview with the Chollima 6 | English | https://quetzal.bitso.com/p/interview-with-the-chollima-vi |
+| 36 | ANYRUN | Recording Famous Chollima | English | https://any.run/cybersecurity-blog/lazarus-group-it-workers-investigation/ |
 
 ### Books <a name="books"></a>
 |#| Title | Language | Link |
