@@ -549,6 +549,8 @@
 | 332 | Security Affairs | Recording Famous Chollima | English | https://securityaffairs.com/185271/hacking/researchers-spotted-lazaruss-remote-it-workers-in-action.html |
 | 333 | BitGet | Recording Famous Chollima | English | https://www.bitget.com/es-ES/news/detail/12560605095868 |
 | 334 | Crypto Slate | Recording Famous Chollima | English | https://cryptoslate.com/secret-footage-from-a-rigged-laptop-exposes-how-north-korean-spies-are-slipping-past-your-security-team/ |
+| 335 | Cyber Security News | Recording Famous Chollima | English | https://cybersecuritynews.com/lazarus-groups-it-workers/ |
+| 336 | SC News | Recording Famous Chollima | English | https://www.scworld.com/brief/north-korean-it-worker-recruitment-tactics-exposed |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
