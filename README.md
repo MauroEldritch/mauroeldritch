@@ -551,6 +551,7 @@
 | 334 | Crypto Slate | Recording Famous Chollima | English | https://cryptoslate.com/secret-footage-from-a-rigged-laptop-exposes-how-north-korean-spies-are-slipping-past-your-security-team/ |
 | 335 | Cyber Security News | Recording Famous Chollima | English | https://cybersecuritynews.com/lazarus-groups-it-workers/ |
 | 336 | SC News | Recording Famous Chollima | English | https://www.scworld.com/brief/north-korean-it-worker-recruitment-tactics-exposed |
+| 337 | El Observador | Recording Famous Chollima | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/hacker-argentino-uruguayo-se-infiltro-ciberatacantes-corea-del-norte-y-expuso-como-tratan-estafar-personas-n6027039 |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
