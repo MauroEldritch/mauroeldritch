@@ -547,6 +547,8 @@
 | 330 | Bleeping Computer | Recording Famous Chollima | English | https://www.bleepingcomputer.com/news/security/north-korea-lures-engineers-to-rent-identities-in-fake-it-worker-scheme/ |
 | 331 | The Hacker News | Recording Famous Chollima | English | https://thehackernews.com/2025/12/researchers-capture-lazarus-apts-remote.html |
 | 332 | Security Affairs | Recording Famous Chollima | English | https://securityaffairs.com/185271/hacking/researchers-spotted-lazaruss-remote-it-workers-in-action.html |
+| 333 | BitGet | Recording Famous Chollima | English | https://www.bitget.com/es-ES/news/detail/12560605095868 |
+| 334 | Crypto Slate | Recording Famous Chollima | English | https://cryptoslate.com/secret-footage-from-a-rigged-laptop-exposes-how-north-korean-spies-are-slipping-past-your-security-team/ |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
