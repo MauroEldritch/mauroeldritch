@@ -554,6 +554,7 @@
 | 337 | El Observador | Recording Famous Chollima | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/hacker-argentino-uruguayo-se-infiltro-ciberatacantes-corea-del-norte-y-expuso-como-tratan-estafar-personas-n6027039 |
 | 338 | Rocket Boys | Recording Famous Chollima | Japanese | https://rocket-boys.co.jp/security-measures-lab/north-korean-it-workers-infiltrate-firms-steal-pay-and-data/ |
 | 339 | HackerRU / XakepRU | Recording Famous Chollima | Russian | https://xakep.ru/2025/12/09/apt-machine/ |
+| 340 | La Opinión Semanario | Recording Famous Chollima | Spanish | https://www.laopinionsemanario.com.ar/noticia/mauro-eldritch-y-la-ciberdelincuencia-asi-desbarato-una-modalidad-delictiva-de-un-grupo-norcoreano |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
