@@ -138,6 +138,7 @@
 | 36 | ANYRUN | Recording Famous Chollima | English | https://any.run/cybersecurity-blog/lazarus-group-it-workers-investigation/ |
 | 37 | Bitso Quetzal Team | Interview with the Chollima 7 (Final Chapter) | English | https://quetzal.bitso.com/p/final-chapter-interview-with-the |
 | 38 | BlockThreat | Interview with the Chollima 7 (Final Chapter) | English | https://newsletter.blockthreat.io/p/blockthreat-week-51-2025 |
+| 39 | MeFiltraron | Heretic Ransomware para TempleOS | Spanish | https://news.mefiltraron.com/p/edicion-especial-nada-es-sagrado |
 
 ### Books <a name="books"></a>
 |#| Title | Language | Link |
