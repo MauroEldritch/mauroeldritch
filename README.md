@@ -201,6 +201,7 @@
 | 42 | Metro 951 | DataBreach: Racing Club | Spanish | https://mega.nz/file/tV1jADoB#48nwuRYL9Pc6ko-dWV_cSvqJJUvmtkbfTrGpOLGplbo |
 | 43 | Sin Galera | DataBreach: RainbowEx | Spanish | https://www.youtube.com/live/1jBSju_VnnU?si=O_aj26Gqm-zJypHh&t=2462 |
 | 44 | Security Weekly | Zhong Stealer | English | https://youtu.be/LA_8ojthiek?si=MCmymXk7UZeSWFlu&t=995 |
+| 45 | Mensaje Guardado | Entrevista | Spanish | https://open.spotify.com/episode/1vXKf4Izn0yd189FVHX8RU?si=d96b8a9bb3904ba2 |
 
 ### Television <a name="tv"></a>
 |#| Show | Title | Language | Link |
