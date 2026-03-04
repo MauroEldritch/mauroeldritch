@@ -140,6 +140,10 @@
 | 38 | BlockThreat | Interview with the Chollima 7 (Final Chapter) | English | https://newsletter.blockthreat.io/p/blockthreat-week-51-2025 |
 | 39 | MeFiltraron | Heretic Ransomware para TempleOS | Spanish | https://news.mefiltraron.com/p/edicion-especial-nada-es-sagrado |
 
+| 40 | MeFiltraron | Skynet, un framework para Prompt Injection | Spanish | https://news.mefiltraron.com/p/edicion-especial-hackeando-ias |
+| 41 | Bitso Quetzal Team | DPRK's Safari: Poaching for Armadillos | English | https://quetzal.bitso.com/p/north-koreas-safari-poaching-for |
+| 42 | Bitso Quetzal Team | DPRK's Safari: Poaching for Gophers | English | https://quetzal.bitso.com/p/north-koreas-safari-poaching-for-064 |
+
 ### Books <a name="books"></a>
 |#| Title | Language | Link |
 |---|---|---|---|
