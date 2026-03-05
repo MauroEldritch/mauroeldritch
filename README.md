@@ -563,6 +563,7 @@
 | 339 | HackerRU / XakepRU | Recording Famous Chollima | Russian | https://xakep.ru/2025/12/09/apt-machine/ |
 | 340 | La Opinión Semanario | Recording Famous Chollima | Spanish | https://www.laopinionsemanario.com.ar/noticia/mauro-eldritch-y-la-ciberdelincuencia-asi-desbarato-una-modalidad-delictiva-de-un-grupo-norcoreano |
 | 341 | El Observador | Deepfakes en México | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/deepfakes-la-presidenta-mexico-y-un-numero-uruguayo-la-historia-detras-la-millonaria-estafa-cripto-que-freno-un-hacker-n6034431 |
+| 342 | C5N | Ransomware: IBR Conicet | Spanish | https://www.c5n.com/tecnologia/ciberataque-al-conicet-una-agrupacion-criminal-amenaza-filtrar-datos-n231386 |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
