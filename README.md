@@ -1,7 +1,7 @@
 ## About Me 
 
 - 🏴‍☠️ Hacker and Speaker. 
-- 🦾 DEF CON 5411 / Birmingham Cyber Arms Leader.
+- 🦾 DEF CON 5411 / BCA LTD Founder.
 - 🦮 My partner in crime is a Golden Retriever.
 - [Contact](https://bca.ltd/Mauro)
 
@@ -564,6 +564,7 @@
 | 340 | La Opinión Semanario | Recording Famous Chollima | Spanish | https://www.laopinionsemanario.com.ar/noticia/mauro-eldritch-y-la-ciberdelincuencia-asi-desbarato-una-modalidad-delictiva-de-un-grupo-norcoreano |
 | 341 | El Observador | Deepfakes en México | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/deepfakes-la-presidenta-mexico-y-un-numero-uruguayo-la-historia-detras-la-millonaria-estafa-cripto-que-freno-un-hacker-n6034431 |
 | 342 | C5N | Ransomware: IBR Conicet | Spanish | https://www.c5n.com/tecnologia/ciberataque-al-conicet-una-agrupacion-criminal-amenaza-filtrar-datos-n231386 |
+| 343 | El Observador | Mythos & BSD | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/nadie-las-habia-visto-el-investigador-que-ayuda-mantener-los-sistemas-mas-seguros-del-mundo-y-quedo-sorprendido-la-nueva-ia-anthropic-n6040598 |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
