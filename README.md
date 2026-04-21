@@ -87,7 +87,7 @@
 | 65 | 2025 | **EC-Council Hacker Halted** | 🇺🇸 | 🇨🇳 [How do you say help in Chinese?](https://docs.google.com/presentation/d/1_4160Q-EEKhtKzFqO-p-brYanYLfjTUL/) |
 | 66 | 2025 | La Meetup III | 🇺🇾 | 💉 [Locking Hands / LockSkin](https://docs.google.com/presentation/d/1EQfM7cbFtkcaF8gGFJiqAptDT3TYT2HW7Z6CE5g4rsY/) |
 | 67 | 2025 | BSides Pyongyang | 🇰🇵 | 🇰🇵 [North Korea's Zoo: Capturing Crabs, Snakes and Chollimas](https://docs.google.com/presentation/d/1p1Ihbk1vsZM2Ix6lV38RDoAPvMgf6Cx-5KJQAHOgRVc/edit?slide=id.g370ea02c58d_0_112#slide=id.g370ea02c58d_0_112) |
-| 68 | 2026 | Insomni'Hack | 🇨🇭 | [📹 Smile! You're on Camera: Livestreaming from a DPRK IT Worker's Laptop Farm](https://www.youtube.com/watch?v=CtUGnu0Ciys&t=1s) |
+| 68 | 2026 | Insomni'Hack | 🇨🇭 | [📹 Smile! You're on Camera: Livestreaming from a DPRK Laptop Farm](https://www.youtube.com/watch?v=CtUGnu0Ciys&t=1s) |
 
 ## CVEs <a name="cves"></a>
 |#| CVE | Vulnerability | Short Name | Score | Product | Link |
