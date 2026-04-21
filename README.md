@@ -143,6 +143,8 @@
 | 40 | MeFiltraron | Skynet, un framework para Prompt Injection | Spanish | https://news.mefiltraron.com/p/edicion-especial-hackeando-ias |
 | 41 | Bitso Quetzal Team | DPRK's Safari: Poaching for Armadillos | English | https://quetzal.bitso.com/p/north-koreas-safari-poaching-for |
 | 42 | Bitso Quetzal Team | DPRK's Safari: Poaching for Gophers | English | https://quetzal.bitso.com/p/north-koreas-safari-poaching-for-064 |
+| 43 | Bitso Quetzal Team | DPRK's Safari: Poaching for RATs | English | https://quetzal.bitso.com/p/north-koreas-safari-hunting-for-rats |
+| 44 | ANY.RUN Blog | Mach-O Man Analysis | English | https://any.run/cybersecurity-blog/lazarus-macos-malware-mach-o-man/ |
 
 ### Books <a name="books"></a>
 |#| Title | Language | Link |
