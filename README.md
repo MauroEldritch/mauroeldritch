@@ -578,6 +578,7 @@
 | 351 | Bit Bank | About Mach-O Man | Chinese | https://bitbank.cc/knowledge/breaking/article/yp2xaoh_zkz |
 | 352 | Diario Bitcoin | About Mach-O Man | Spanish | https://www.diariobitcoin.com/noticias/grupo-de-hackers-norcoreano-lazarus-elevan-la-amenaza-con-nuevo-malware-para-mac/ |
 | 353 | Coin Telegraph | About Mach-O Man | English | https://cointelegraph.com/news/lazarus-group-malware-crypto-business-execs-macos |
+| 354 | Bitcoin News | About Mach-O Man | English | https://news.bitcoin.com/mach-o-man-malware-steals-macos-keychain-data-in-lazarus-group-crypto-campaign/ |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
