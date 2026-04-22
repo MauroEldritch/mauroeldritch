@@ -577,6 +577,7 @@
 | 350 | Security Week | About Mach-O Man | English | https://www.securityweek.com/north-korean-hackers-use-applescript-clickfix-in-fresh-macos-attacks/ |
 | 351 | Bit Bank | About Mach-O Man | Chinese | https://bitbank.cc/knowledge/breaking/article/yp2xaoh_zkz |
 | 352 | Diario Bitcoin | About Mach-O Man | Spanish | https://www.diariobitcoin.com/noticias/grupo-de-hackers-norcoreano-lazarus-elevan-la-amenaza-con-nuevo-malware-para-mac/ |
+| 353 | Coin Telegraph | About Mach-O Man | English | https://cointelegraph.com/news/lazarus-group-malware-crypto-business-execs-macos |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
