@@ -568,6 +568,13 @@
 | 341 | El Observador | Deepfakes en México | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/deepfakes-la-presidenta-mexico-y-un-numero-uruguayo-la-historia-detras-la-millonaria-estafa-cripto-que-freno-un-hacker-n6034431 |
 | 342 | C5N | Ransomware: IBR Conicet | Spanish | https://www.c5n.com/tecnologia/ciberataque-al-conicet-una-agrupacion-criminal-amenaza-filtrar-datos-n231386 |
 | 343 | El Observador | Mythos & BSD | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/nadie-las-habia-visto-el-investigador-que-ayuda-mantener-los-sistemas-mas-seguros-del-mundo-y-quedo-sorprendido-la-nueva-ia-anthropic-n6040598 |
+| 344 | CoinDesk | About Mach-O Man | English | https://www.coindesk.com/tech/2026/04/22/lazarus-group-has-become-especially-dangerous-with-new-mach-o-man-attack-certik |
+| 345 | IBM X-Force | About Mach-O Man | English | https://exchange.xforce.ibmcloud.com/osint/guid:cca0ed6f234546848ad6fb086809d6d5 |
+| 346 | Bankless Times | About Mach-O Man | English | https://www.banklesstimes.com/articles/2026/04/22/lazarus-unleashes-mach-o-man-macos-malware-on-crypto-and-fintech/ |
+| 347 | CCN | About Mach-O Man | English | https://www.ccn.com/news/crypto/what-mach-o-man-new-lazarus-malware-targeting-crypto-and-fintech/ |
+| 348 | PA News | About Mach-O Man | Chinese | https://www.panewslab.com/zh-hant/articles/019db2fe-b7b8-779e-a437-aab6073a87f7 |
+| 349 | Binance | About Mach-O Man | English | https://www.binance.com/es/square/post/04-22-2026-north-korean-hacker-group-lazarus-releases-new-macos-malware-targeting-cryptocurrency-315121413306561 |
+| 350 | Security Week | About Mach-O Man | English | https://www.securityweek.com/north-korean-hackers-use-applescript-clickfix-in-fresh-macos-attacks/ |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
