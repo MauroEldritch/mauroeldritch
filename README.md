@@ -584,6 +584,7 @@
 | 357 | Cripto Noticias | About Mach-O Man | Spanish | https://www.criptonoticias.com/seguridad-bitcoin/especialistas-ciberseguridad-lazarus-hackeos-criptomonedas-macos/ |
 | 358 | Cybernews | About Mach-O Man | English | https://cybernews.com/security/north-korean-hackers-new-malware-foiled-by-researcher/ |
 | 359 | Dark News | Vercel vs ShinyHunters | Spanish | https://www.brodersendarknews.com/i/194792201/como-hackearon-a-vercel-el-acceso-por-un-proveedor-de-ia-la-pista-de-shinyhunters-y-la-version-de-un-pago-millonario |
+| 360 | Dark Reading | About Mach-O Man | Spanish | https://www.darkreading.com/threat-intelligence/north-koreas-lazarus-targets-macos-users-clickfix |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
