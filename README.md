@@ -585,6 +585,8 @@
 | 358 | Cybernews | About Mach-O Man | English | https://cybernews.com/security/north-korean-hackers-new-malware-foiled-by-researcher/ |
 | 359 | Dark News | Vercel vs ShinyHunters | Spanish | https://www.brodersendarknews.com/i/194792201/como-hackearon-a-vercel-el-acceso-por-un-proveedor-de-ia-la-pista-de-shinyhunters-y-la-version-de-un-pago-millonario |
 | 360 | Dark Reading | About Mach-O Man | Spanish | https://www.darkreading.com/threat-intelligence/north-koreas-lazarus-targets-macos-users-clickfix |
+| 361 | Diario Clarín | About Mach-O Man | Spanish | https://www.clarin.com/tecnologia/hackers-norcoreanos-apuntan-usuarios-apple-falsas-videollamadas-funciona-engano-malware-mach-o-man_0_lvlnBFpJlI.html |
+| 362 | NewsBit | About Mach-O Man | German | https://newsbit.de/neue-macos-malware-der-lazarus-gruppe-verbreitet-sich-ueber-gefaelschte-meetings/ |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
