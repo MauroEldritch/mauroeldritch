@@ -587,6 +587,7 @@
 | 360 | Dark Reading | About Mach-O Man | Spanish | https://www.darkreading.com/threat-intelligence/north-koreas-lazarus-targets-macos-users-clickfix |
 | 361 | Diario Clarín | About Mach-O Man | Spanish | https://www.clarin.com/tecnologia/hackers-norcoreanos-apuntan-usuarios-apple-falsas-videollamadas-funciona-engano-malware-mach-o-man_0_lvlnBFpJlI.html |
 | 362 | NewsBit | About Mach-O Man | German | https://newsbit.de/neue-macos-malware-der-lazarus-gruppe-verbreitet-sich-ueber-gefaelschte-meetings/ |
+| 363 | GB Hackers | About Mach-O Man | English | https://gbhackers.com/lazarus-targets-macos-users/ |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
