@@ -588,6 +588,7 @@
 | 361 | Diario Clarín | About Mach-O Man | Spanish | https://www.clarin.com/tecnologia/hackers-norcoreanos-apuntan-usuarios-apple-falsas-videollamadas-funciona-engano-malware-mach-o-man_0_lvlnBFpJlI.html |
 | 362 | NewsBit | About Mach-O Man | German | https://newsbit.de/neue-macos-malware-der-lazarus-gruppe-verbreitet-sich-ueber-gefaelschte-meetings/ |
 | 363 | GB Hackers | About Mach-O Man | English | https://gbhackers.com/lazarus-targets-macos-users/ |
+| 364 | Blockchain Media | About Mach-O Man | Indonesian | https://blockchainmedia.id/bssn-waspada-malware-baru-di-apple-yang-kuras-dompet-kripto/ |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
