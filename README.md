@@ -146,6 +146,7 @@
 | 43 | Bitso Quetzal Team | DPRK's Safari: Poaching for RATs | English | https://quetzal.bitso.com/p/north-koreas-safari-hunting-for-rats |
 | 44 | ANY.RUN Blog | Mach-O Man Analysis | English | https://any.run/cybersecurity-blog/lazarus-macos-malware-mach-o-man/ |
 | 45 | Bitso Quetzal Team | Interview with the Chollima VIII | English | https://quetzal.bitso.com/p/interview-with-the-chollima-viii |
+| 46 | MeFiltraron | Cómo nació MeFiltraron | Spanish | https://news.mefiltraron.com/p/edicion-especial-numero-100 |
 
 ### Books <a name="books"></a>
 |#| Title | Language | Link |
