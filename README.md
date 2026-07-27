@@ -148,11 +148,13 @@
 | 44 | ANY.RUN Blog | Mach-O Man Analysis | English | https://any.run/cybersecurity-blog/lazarus-macos-malware-mach-o-man/ |
 | 45 | Bitso Quetzal Team | Interview with the Chollima VIII | English | https://quetzal.bitso.com/p/interview-with-the-chollima-viii |
 | 46 | MeFiltraron | Cómo nació MeFiltraron | Spanish | https://news.mefiltraron.com/p/edicion-especial-numero-100 |
+| 47 | Paged Out #9 | ClickFixBreak | English | https://pagedout.institute/download/PagedOut_009.pdf |
 
 ### Books <a name="books"></a>
 |#| Title | Language | Link |
 |---|---|---|---|
 | 1 | Chaotic Ruby | English | http://books.apple.com/us/book/chaotic-ruby/id6739544400 |
+| 2 | Encriptar, Filtrar, Hackear | Spanish | https://encriptarfiltrarhackear.com |
 
 ### Ransomware Interviews <a name="interviews"></a>
 |#| Interview | Language | Link |
