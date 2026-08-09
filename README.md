@@ -601,6 +601,7 @@
 | 365 | El Observador | Data Extortion: Ticket Antel | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/ciberdelincuentes-filtraron-1-gb-informacion-servidores-tickantel-como-afecta-los-usuarios-n6044143 |
 | 366 | El País | IA y trabajo remoto | Spanish | https://www.elpais.com.uy/vida-actual/tecnologia/el-mito-de-la-ia-y-el-desempleo-joven-en-uruguay-por-que-el-verdadero-culpable-actual-es-el-teletrabajo |
 | 367 | **Forbes Uruguay** | El auge de los pagos digitales y la inteligencia artificial | Spanish | https://www.forbesuruguay.com/summit/el-auge-pagos-digitales-inteligencia-artificial-seis-claves-construir-confianza-era-tecnologia-n94777/amp |
+| 368 | Dark News | Sonreí, te estamos filmando | Spanish | https://www.brodersendarknews.com/p/sonrei-te-estamos-filmando-montaron |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
