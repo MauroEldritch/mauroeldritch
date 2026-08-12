@@ -564,7 +564,7 @@
 | 328 | North Korea News | About ChaoticCapybara Malware | English | https://www.nknews.org/pro/north-korea-hackers-go-after-business-executives-in-latest-info-stealing-scheme/ |
 | 329 | North Korea News | About PyLangGhostRAT Malware | English | https://www.nknews.org/pro/north-korea-deploys-ai-powered-python-malware-to-target-crypto-and-tech-workers/ |
 | 330 | Bleeping Computer | Recording Famous Chollima | English | https://www.bleepingcomputer.com/news/security/north-korea-lures-engineers-to-rent-identities-in-fake-it-worker-scheme/ |
-| 331 | The Hacker News | Recording Famous Chollima | English | https://thehackernews.com/2025/12/researchers-capture-lazarus-apts-remote.html |
+| 331 | **The Hacker News** | Recording Famous Chollima | English | https://thehackernews.com/2025/12/researchers-capture-lazarus-apts-remote.html |
 | 332 | Security Affairs | Recording Famous Chollima | English | https://securityaffairs.com/185271/hacking/researchers-spotted-lazaruss-remote-it-workers-in-action.html |
 | 333 | BitGet | Recording Famous Chollima | English | https://www.bitget.com/es-ES/news/detail/12560605095868 |
 | 334 | Crypto Slate | Recording Famous Chollima | English | https://cryptoslate.com/secret-footage-from-a-rigged-laptop-exposes-how-north-korean-spies-are-slipping-past-your-security-team/ |
@@ -602,6 +602,15 @@
 | 366 | El País | IA y trabajo remoto | Spanish | https://www.elpais.com.uy/vida-actual/tecnologia/el-mito-de-la-ia-y-el-desempleo-joven-en-uruguay-por-que-el-verdadero-culpable-actual-es-el-teletrabajo |
 | 367 | **Forbes Uruguay** | El auge de los pagos digitales y la inteligencia artificial | Spanish | https://www.forbesuruguay.com/summit/el-auge-pagos-digitales-inteligencia-artificial-seis-claves-construir-confianza-era-tecnologia-n94777/amp |
 | 368 | Dark News | Sonreí, te estamos filmando | Spanish | https://www.brodersendarknews.com/p/sonrei-te-estamos-filmando-montaron |
+| 369 | Diario Clarín | Sonreí, te estamos filmando | Spanish | https://www.clarin.com/tecnologia/sonrei-filmando-infiltraron-red-trabajadores-norcoreanos-grabaron-mostraron-def-34_0_eC8IwXBh0A.html |
+| 370 | North Korea News | How a fake Crypto Startup lured North Korean IT Workers | English | https://www.nknews.org/pro/how-a-fake-crypto-startup-lured-north-korean-it-workers-into-a-trap/ |
+| 371 | Cryptoast | Smile, You're On Camera | French | https://cryptoast.fr/embauchent-hackers-nord-coreens-lazarus-fausse-start-up-defi/ |
+| 372 | **PC Mag** | Smile, You're On Camera | English | https://www.pcmag.com/news/researchers-create-fake-startup-to-dupe-north-koreans-looking-for-remote |
+| 373 | TradingView | Smile, You're On Camera | English | https://www.tradingview.com/news/cointelegraph:1948a59a3094b:0-inside-the-fake-crypto-startup-that-fooled-north-korean-it-workers/ |
+| 374 | TechFlow | Smile, You're On Camera | Chinese | https://www.techflowpost.com/newsletter/131727 |
+| 375 | ChainCatcher | Smile, You're On Camera | Chinese | https://www.chaincatcher.com/ja/article/2282315 |
+| 376 | **TheHackerNews** | Smile, You're On Camera | English | https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html |
+| 377 | **CoinTelegraph** | Smile, You're On Camera | English | https://cointelegraph.com/magazine/fake-crypto-startup-fooled-north-korean-it-workers |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
