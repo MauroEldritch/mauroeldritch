@@ -611,6 +611,9 @@
 | 375 | ChainCatcher | Smile, You're On Camera | Chinese | https://www.chaincatcher.com/ja/article/2282315 |
 | 376 | **TheHackerNews** | Smile, You're On Camera | English | https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html |
 | 377 | **CoinTelegraph** | Smile, You're On Camera | English | https://cointelegraph.com/magazine/fake-crypto-startup-fooled-north-korean-it-workers |
+| 378 | **TheHackerNews** | Smile, You're On Camera | English | https://thehackernews.com/2026/08/north-korean-remote-workers-are.html |
+| 379 | CryptoNews Australia | Smile, You're On Camera | English | https://cryptonews.com.au/news/reporter-poses-as-vc-to-expose-suspected-north-korean-crypto-operatives-134548/ |
+| 380 | BeInCrypto | Smile, You're On Camera | English | https://beincrypto.com/north-korean-workers-fake-startup-sting/ |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
