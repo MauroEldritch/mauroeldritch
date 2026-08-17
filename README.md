@@ -621,6 +621,7 @@
 | 385 | Rocket Boys | Smile, You're On Camera | Japanese | https://rocket-boys.co.jp/security-measures-lab/north-korea-it-worker-defi-honeypot/ |
 | 386 | DataNet Korea | Smile, You're On Camera | Korean | https://www.datanet.co.kr/news/articleView.html?idxno=213789 |
 | 387 | La Opinión | Smile, You're On Camera | Spanish | https://www.laopinionsemanario.com.ar/noticia/mauro-eldritch-el-hacker-sampedrino-que-se-infiltro-en-una-red-de-ciberespionaje-norcoreano |
+| 388 | La Noticia | Smile, You're On Camera | Spanish | https://www.lanoticia1.com/noticia/la-historia-del-hacker-sampedrino-que-se-infiltro-en-una-red-de-espias-norcoreanos-y-expuso-el-caso-en-las-vegas |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
