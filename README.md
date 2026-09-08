@@ -230,6 +230,7 @@
 | 6 | VTV Uruguay | En La Mira: Caso Guyer & Regules | Spanish | https://vtv.com.uy/los-hackers-atacan-de-nuevo-en-uruguay-entrevista-al-hacker-mauro-eldritch/ |
 | 7 | TV Pública | MeFiltraron.com (Israel) | Spanish | https://youtu.be/3yhHxNTH29I |
 | 8 | Telemundo | Operación Cronos | Spanish | https://www.teledoce.com/telemundo/ciencia-y-tecnologia/el-fin-de-lockbit-operacion-internacional-golpeo-a-importante-banda-de-ciberdelincuentes-pero-el-peligro-sigue-latente/ |
+| 9 | La Nación | RainbowEx: Documental | Spanish | https://www.youtube.com/watch?v=DTHGBI7yzoY |
 
 ### Newspapers <a name="newspapers"></a>
 |#| Agency | Title | Language | Link |
@@ -624,6 +625,7 @@
 | 387 | La Opinión | Smile, You're On Camera | Spanish | https://www.laopinionsemanario.com.ar/noticia/mauro-eldritch-el-hacker-sampedrino-que-se-infiltro-en-una-red-de-ciberespionaje-norcoreano |
 | 388 | La Noticia | Smile, You're On Camera | Spanish | https://www.lanoticia1.com/noticia/la-historia-del-hacker-sampedrino-que-se-infiltro-en-una-red-de-espias-norcoreanos-y-expuso-el-caso-en-las-vegas |
 | 389 | Jayu Press | Smile, You're On Camera | Korean | https://www.jayupress.com/news/articleView.html?idxno=53775 |
+| 390 | La Opinión Semanario | RainbowEx: Documental | Spanish | https://www.laopinionsemanario.com.ar/noticia/rainbowex-braga-y-pardo-rompieron-el-silencio-en-un-documental-de-la-nacion |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
