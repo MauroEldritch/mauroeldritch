@@ -93,7 +93,7 @@
 | 71 | 2026 | **DEF CON 34 Adversary Village** | 🇺🇸 | 🤖 Haetae: An agent to take down DPRK C2 Servers (Talk) |
 | 72 | 2026 | **DEF CON 34 Malware Village** | 🇺🇸 | 🇰🇵 North Korea's Safari: Poaching for Gophers, Armadillos and RATs |
 | 73 | 2026 | **DEF CON 34 Red Team Village** | 🇺🇸 | 🤖 Haetae: An agent to take down DPRK C2 Servers (Workshop) |
-| 74 | 2026 | **DEF CON 34 Main Stage** | 🇺🇸 | 📹 Smile! You're on Camera: Episode 2 |
+| 74 | 2026 | **DEF CON 34 Main Stage** | 🇺🇸 | [📹 Smile! You're on Camera: Episode 2](https://www.youtube.com/live/_uYQr8hfpbI?si=PM_Uz1ONv0cy371z&t=20758) |
 
 ## CVEs <a name="cves"></a>
 |#| CVE | Vulnerability | Short Name | Score | Product | Link |
