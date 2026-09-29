@@ -95,6 +95,7 @@
 | 73 | 2026 | **DEF CON 34 Red Team Village** | 🇺🇸 | 🤖 Haetae: An agent to take down DPRK C2 Servers (Workshop) |
 | 74 | 2026 | **DEF CON 34 Main Stage** | 🇺🇸 | 📹 [Smile! You're on Camera: Episode 2](https://www.youtube.com/live/_uYQr8hfpbI?si=PM_Uz1ONv0cy371z&t=20758) |
 | 75 | 2026 | DragonJAR 2026 | 🇨🇴 | 🎤 [Entrevistando a Lazarus](https://www.youtube.com/live/VMpwzQiDXiM?si=BOXcxosyaQIHapHB&t=23042) | 
+| 76 | 2026 | Nerdearla 2026 | 🇦🇷 | 🎤 [Entrevistando a Lazarus](https://www.youtube.com/watch?v=D3QyChL8l3Y) |
 
 ## CVEs <a name="cves"></a>
 |#| CVE | Vulnerability | Short Name | Score | Product | Link |
