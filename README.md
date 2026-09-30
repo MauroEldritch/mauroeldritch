@@ -233,6 +233,7 @@
 | 7 | TV Pública | MeFiltraron.com (Israel) | Spanish | https://youtu.be/3yhHxNTH29I |
 | 8 | Telemundo | Operación Cronos | Spanish | https://www.teledoce.com/telemundo/ciencia-y-tecnologia/el-fin-de-lockbit-operacion-internacional-golpeo-a-importante-banda-de-ciberdelincuentes-pero-el-peligro-sigue-latente/ |
 | 9 | La Nación | RainbowEx: Documental | Spanish | https://www.youtube.com/watch?v=DTHGBI7yzoY |
+| 10 | Aura Streaming (TN) | Presentación Encriptar, Filtrar, Hackear | Spanish | https://www.youtube.com/watch?v=Dy5SplEqNio |
 
 ### Newspapers <a name="newspapers"></a>
 |#| Agency | Title | Language | Link |
