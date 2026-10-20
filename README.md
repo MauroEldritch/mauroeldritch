@@ -629,6 +629,8 @@
 | 388 | La Noticia | Smile, You're On Camera | Spanish | https://www.lanoticia1.com/noticia/la-historia-del-hacker-sampedrino-que-se-infiltro-en-una-red-de-espias-norcoreanos-y-expuso-el-caso-en-las-vegas |
 | 389 | Jayu Press | Smile, You're On Camera | Korean | https://www.jayupress.com/news/articleView.html?idxno=53775 |
 | 390 | La Opinión Semanario | RainbowEx: Documental | Spanish | https://www.laopinionsemanario.com.ar/noticia/rainbowex-braga-y-pardo-rompieron-el-silencio-en-un-documental-de-la-nacion |
+| 391 | Letra E | Ataques IOT a Supermercados | Spanish | https://www.letrap.com.ar/letrae/economia-digital/supermercados-hackeados-francia-y-dudas-argentina-estamos-preparados-un-ciberataque-n5427379 |
+| 392 | El Cronista | Sobre Encriptar, Filtrar, Hackear | Spanish | https://www.cronista.com/infotechnology/actualidad/cumplir-normativas-y-tener-certificaciones-no-alcanza-por-que-las-empresas-que-pasan-auditorias-igual-sufren-ataques-de-ransomware/ |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
