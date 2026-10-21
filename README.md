@@ -220,6 +220,7 @@
 | 43 | Sin Galera | DataBreach: RainbowEx | Spanish | https://www.youtube.com/live/1jBSju_VnnU?si=O_aj26Gqm-zJypHh&t=2462 |
 | 44 | Security Weekly | Zhong Stealer | English | https://youtu.be/LA_8ojthiek?si=MCmymXk7UZeSWFlu&t=995 |
 | 45 | Mensaje Guardado | Entrevista | Spanish | https://open.spotify.com/episode/1vXKf4Izn0yd189FVHX8RU?si=d96b8a9bb3904ba2 |
+| 46 | Radar IA El Observador | Sobre Encriptar, Filtrar, Hackear | Spanish | https://www.youtube.com/watch?v=OPES7OOHHGI |
 
 ### Television <a name="tv"></a>
 |#| Show | Title | Language | Link |
@@ -631,6 +632,7 @@
 | 390 | La Opinión Semanario | RainbowEx: Documental | Spanish | https://www.laopinionsemanario.com.ar/noticia/rainbowex-braga-y-pardo-rompieron-el-silencio-en-un-documental-de-la-nacion |
 | 391 | Letra E | Ataques IOT a Supermercados | Spanish | https://www.letrap.com.ar/letrae/economia-digital/supermercados-hackeados-francia-y-dudas-argentina-estamos-preparados-un-ciberataque-n5427379 |
 | 392 | El Cronista | Sobre Encriptar, Filtrar, Hackear | Spanish | https://www.cronista.com/infotechnology/actualidad/cumplir-normativas-y-tener-certificaciones-no-alcanza-por-que-las-empresas-que-pasan-auditorias-igual-sufren-ataques-de-ransomware/ |
+| 393 | El Observador | Sobre Encriptar, Filtrar, Hackear | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/el-grupo-que-ataco-al-bhu-publico-una-amenaza-contra-uruguay-una-entrevista-un-libro-n6061187 |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
