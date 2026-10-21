@@ -13,7 +13,7 @@
 5. [Ransomware Interviews](#interviews)
 6. [Media](#media)
     1. [Podcasts & Radio](#radio)
-    2. [TV](#tv)
+    2. [TV & Streaming](#tv)
     3. [Newspapers](#newspapers)
     4. [Birmingham Cyber Arms in the media](#bca)
 
@@ -220,9 +220,8 @@
 | 43 | Sin Galera | DataBreach: RainbowEx | Spanish | https://www.youtube.com/live/1jBSju_VnnU?si=O_aj26Gqm-zJypHh&t=2462 |
 | 44 | Security Weekly | Zhong Stealer | English | https://youtu.be/LA_8ojthiek?si=MCmymXk7UZeSWFlu&t=995 |
 | 45 | Mensaje Guardado | Entrevista | Spanish | https://open.spotify.com/episode/1vXKf4Izn0yd189FVHX8RU?si=d96b8a9bb3904ba2 |
-| 46 | Radar IA El Observador | Sobre Encriptar, Filtrar, Hackear | Spanish | https://www.youtube.com/watch?v=OPES7OOHHGI |
 
-### Television <a name="tv"></a>
+### Television & Streaming <a name="tv"></a>
 |#| Show | Title | Language | Link |
 |---|---|---|---|---|
 | 1 | Equipo de Investigación (España) | Filtración de datos de Generación Zoe | Spanish | https://mega.nz/file/UQExURJB#72f5YLkaMQJw5rj5vJHqDwCGlS5ARAF6az_Sif7yACc |
@@ -235,6 +234,7 @@
 | 8 | Telemundo | Operación Cronos | Spanish | https://www.teledoce.com/telemundo/ciencia-y-tecnologia/el-fin-de-lockbit-operacion-internacional-golpeo-a-importante-banda-de-ciberdelincuentes-pero-el-peligro-sigue-latente/ |
 | 9 | La Nación | RainbowEx: Documental | Spanish | https://www.youtube.com/watch?v=DTHGBI7yzoY |
 | 10 | Aura Streaming (TN) | Presentación Encriptar, Filtrar, Hackear | Spanish | https://www.youtube.com/watch?v=Dy5SplEqNio |
+| 11 | Radar IA El Observador | Sobre Encriptar, Filtrar, Hackear | Spanish | https://www.youtube.com/watch?v=OPES7OOHHGI |
 
 ### Newspapers <a name="newspapers"></a>
 |#| Agency | Title | Language | Link |
