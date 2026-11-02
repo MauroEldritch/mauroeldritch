@@ -96,6 +96,9 @@
 | 74 | 2026 | **DEF CON 34 Main Stage** | 🇺🇸 | 📹 [Smile! You're on Camera: Episode 2](https://www.youtube.com/live/_uYQr8hfpbI?si=PM_Uz1ONv0cy371z&t=20758) |
 | 75 | 2026 | DragonJAR 2026 | 🇨🇴 | 🎤 [Entrevistando a Lazarus](https://www.youtube.com/live/VMpwzQiDXiM?si=BOXcxosyaQIHapHB&t=23042) | 
 | 76 | 2026 | Nerdearla 2026 | 🇦🇷 | 🎤 [Entrevistando a Lazarus](https://www.youtube.com/watch?v=D3QyChL8l3Y) |
+| 77 | 2026 | **EC-Council Hacker Halted** | 🇺🇸 | 🤖 Shadow AI: A CISO's worst Nightmare |
+| 78 | 2026 | **OAS/OEA Cyber Forum** | 🇵🇦 | 🇰🇵 [Sanctions on Payroll: The world of DPRK IT Workers](https://www.youtube.com/live/IrVQSQgaC78?si=1T51nIZxHlRsTfs8&t=14664) |
+| 79 | 2026 | **OAS/OEA Cyber Forum** | 🇵🇦 | 🏦 [Panel: From Bank to Blockchain](https://www.youtube.com/live/IrVQSQgaC78?si=B888Wr4-EKoC2QGo&t=26961) |
 
 ## CVEs <a name="cves"></a>
 |#| CVE | Vulnerability | Short Name | Score | Product | Link |
@@ -156,6 +159,8 @@
 | 45 | Bitso Quetzal Team | Interview with the Chollima VIII | English | https://quetzal.bitso.com/p/interview-with-the-chollima-viii |
 | 46 | MeFiltraron | Cómo nació MeFiltraron | Spanish | https://news.mefiltraron.com/p/edicion-especial-numero-100 |
 | 47 | Paged Out #9 | ClickFixBreak | English | https://pagedout.institute/download/PagedOut_009.pdf |
+| 48 | **OEA** | De la Banca al Blockchain | Spanish | https://www.oas.org/ext/DesktopModules/MVC/OASDnnModules/Views/Item/Download.aspx?type=1&id=1567&lang=2 |
+| 49 | **OAS** | From Bank to Blockchain | English | https://www.oas.org/ext/DesktopModules/MVC/OASDnnModules/Views/Item/Download.aspx?type=1&id=1567&lang=1 |
 
 ### Books <a name="books"></a>
 |#| Title | Language | Link |
@@ -633,6 +638,8 @@
 | 391 | Letra E | Ataques IOT a Supermercados | Spanish | https://www.letrap.com.ar/letrae/economia-digital/supermercados-hackeados-francia-y-dudas-argentina-estamos-preparados-un-ciberataque-n5427379 |
 | 392 | El Cronista | Sobre Encriptar, Filtrar, Hackear | Spanish | https://www.cronista.com/infotechnology/actualidad/cumplir-normativas-y-tener-certificaciones-no-alcanza-por-que-las-empresas-que-pasan-auditorias-igual-sufren-ataques-de-ransomware/ |
 | 393 | El Observador | Sobre Encriptar, Filtrar, Hackear | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/el-grupo-que-ataco-al-bhu-publico-una-amenaza-contra-uruguay-una-entrevista-un-libro-n6061187 |
+| 394 | La Opinión | Sobre Encriptar, Filtrar, Hackear | Spanish | https://www.laopinionsemanario.com.ar/noticia/mauro-eldritch-presento-su-libro-encriptar-filtrar-hackear-cronicas-del-cibercrimen-y-un-comic-en-marcha |
+| 395 | Sin Galera | Sobre Encriptar, Filtrar, Hackear | Spanish | https://www.youtube.com/watch?v=3KeJrBRvkGY |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
