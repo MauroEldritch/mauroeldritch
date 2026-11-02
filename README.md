@@ -640,6 +640,7 @@
 | 393 | El Observador | Sobre Encriptar, Filtrar, Hackear | Spanish | https://www.elobservador.com.uy/ciencia-y-tecnologia/el-grupo-que-ataco-al-bhu-publico-una-amenaza-contra-uruguay-una-entrevista-un-libro-n6061187 |
 | 394 | La Opinión | Sobre Encriptar, Filtrar, Hackear | Spanish | https://www.laopinionsemanario.com.ar/noticia/mauro-eldritch-presento-su-libro-encriptar-filtrar-hackear-cronicas-del-cibercrimen-y-un-comic-en-marcha |
 | 395 | Sin Galera | Sobre Encriptar, Filtrar, Hackear | Spanish | https://www.youtube.com/watch?v=3KeJrBRvkGY |
+| 396 | Diario Clarín | Binance vs TraderTraitor | Spanish | https://www.clarin.com/tecnologia/binance-php-heladeras-hackeadas-ciberataques-influye-ia_0_wGmmuVJ9s9.html |
 
 ### Birmingham Cyber Arms LTD Media Coverage <a name="bca"></a>
 |Link |
